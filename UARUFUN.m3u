@@ -1,12 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="Україна",1+1
-http://81.25.234.43:8083/tv/1plus1/playlist.m3u8
 #EXTINF:-1 group-title="Україна",1+1 International
 https://live-k2304-kbp.1plus1.video/227022/smil:227022.smil/chunklist_b2928000.m3u8
 #EXTINF:-1 group-title="Україна",Iнтер
 http://109.68.41.148:1935/live/inter_3/playlist.m3u8
-#EXTINF:-1 group-title="Україна",Новый канал
-http://81.25.234.43:8083/tv/novychannel/playlist.m3u8
+#EXTINF:-1 group-title="Україна",Новый канал 
+http://212.79.122.11:5001/udp/239.255.6.21:1234 
 #EXTINF:-1 group-title="Україна",СТБ
 http://212.79.122.11:5001/udp/239.255.6.18:1234
 #EXTINF:-1 group-title="Україна",Україна
@@ -23,13 +21,11 @@ http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8
 http://94.158.80.101:8080/5channel/stream.m3u8
 #EXTINF:-1 group-title="Україна",24 канал
 http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8
-#EXTINF:-1 group-title="Україна",2+2
-http://81.25.234.43:8083/tv/2plus2/playlist.m3u8
 #EXTINF:-1 group-title="Україна",TV 1000
 http://ott-cdn.ucom.am/s90/04.m3u8
 #EXTINF:-1 group-title="Україна",TV 1000 Action
 http://ott-cdn.ucom.am/s91/04.m3u8
-#EXTINF:-1 group-title="Україна",TV 1000 Русское кино
+#EXTINF:-1 group-title="Україна",Дорама
 http://ott-cdn.ucom.am/s95/04.m3u8
 #EXTINF:-1 group-title="Україна",7 канал HD Одесса
 http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
@@ -212,6 +208,8 @@ http://dprtv.phoenix-dnr.ru/first-republic-tv
 http://dprtv.phoenix-dnr.ru/union
 #EXTINF:-1 group-title="СепарТВ",Оплот ТВ
 http://dprtv.phoenix-dnr.ru/oplot-tv
+#EXTINF:-1 group-title="Россия",Первый канал HD 
+http://95.174.96.15:8030/play/101 
 #EXTINF:-1 group-title="Россия",Россия 1
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="Россия",Россия РТР
@@ -248,10 +246,10 @@ http://185.192.251.89/tvc-p212/smil:tvc.smil/chunklist_w1797655187_b1703000.m3u8
 http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 #EXTINF:-1 group-title="Россия",Время
 http://stream.euroasia.lfstrm.tv/vremya/1/index.m3u8
-#EXTINF:-1 group-title="Россия",Sony sci-fi
-http://81.25.234.43:8083/tv/sonyscifi/playlist.m3u8
-#EXTINF:-1 group-title="Россия",Sony turbo
-http://81.25.234.43:8083/tv/sonyturbo/playlist.m3u8
+#EXTINF:-1 group-title="Россия",Sony
+http://stream.euroasia.lfstrm.tv/sony/1/index.m3u8
+#EXTINF:-1 group-title="Россия",Sony Turbo
+http://stream.euroasia.lfstrm.tv/sony_turbo/1/index.m3u8
 #EXTINF:-1 group-title="Россия",Иллюзион +
 http://serv30.vintera.tv:8081/AXs0rHDOwAjgHAyI/illuzionplus_aa/chunklist.m3u8
 #EXTINF:-1 group-title="Россия",Киносвидание
@@ -266,6 +264,12 @@ http://109.248.236.40:4433/udp/238.1.1.106:1234
 http://109.248.236.41:4433/udp/238.1.1.128:1234
 #EXTINF:-1 group-title="Россия",КиноМеню HD
 http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
+#EXTINF:-1 group-title="Россия",VIP Comedy
+http://ott-cdn.ucom.am/s97/index.m3u8
+#EXTINF:-1 group-title="Россия",ViP Megahit
+https://hls-viasat.cdnvideo.ru/hls/relay/L_UDg0e/index.m3u8?md5=aQJr8zCU2qyjrTrqnmqEQQ&e=1541405785&hls_proxy_host=97544926393025ab05ebfb4dc3486095
+#EXTINF:-1 group-title="Россия",ViP Premiere
+http://hls-viasat.cdnvideo.ru/hls/relay/1502288412514/index.m3u8
 #EXTINF:-1 group-title="Россия",СТРК HD
 http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
 #EXTINF:-1 group-title="Россия",Amedia_Premium HD
@@ -744,7 +748,7 @@ http://now2.eaglecdn.com/stream/tveda_12/index.m3u8
 #EXTINF:-1 group-title="Пізнавальні",Большая Азия HD
 http://now2.eaglecdn.com/stream_transcoded_1080/bigasia_test_mid2/index.m3u8
 #EXTINF:-1 group-title="Пізнавальні",Discovery channel
-http://81.25.234.43:8083/tv/discoverychannel/playlist.m3u8
+http://37.145.189.43:34040/udp/233.33.210.27:5050
 #EXTINF:-1 group-title="Пізнавальні",Discovery Science HD
 http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
 #EXTINF:-1 group-title="Пізнавальні",HD Media

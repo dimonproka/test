@@ -55,7 +55,7 @@ http://tv.shtorm.com/air/030/index.m3u8
 http://tv.shtorm.com/air/033/index.m3u8
 #EXTINF:-1 group-title="ISP Шторм", Дача HD
 http://tv.shtorm.com/air/036/index.m3u8
-#EXTINF:-1 group-title="ISP Шторм", ZIK
+#EXTINF:-1 tvg-name="ZIK (на укр.)", ZIK
 http://tv.shtorm.com/air/043/index.m3u8
 #EXTINF:-1 group-title="ISP Шторм", ОЦЕ
 http://tv.shtorm.com/air/047/index.m3u8
@@ -79,7 +79,7 @@ http://tv.shtorm.com/air/051/index.m3u8
 http://tv.shtorm.com/air/049/index.m3u8
 #EXTINF:-1 group-title="ISP Шторм",Трофей HD
 http://tv.shtorm.com/air/054/index.m3u8
-#EXTINF:-1 group-title="ISP Шторм",SeaTV
+#EXTINF:-1 group-title="ISP Шторм",SeaTV HD
 http://tv.shtorm.com/air/095/index.m3u8
 #EXTINF:-1 group-title="ISP Шторм", OBOZ TV HD
 http://tv.shtorm.com/air/100/index.m3u8
@@ -95,9 +95,9 @@ http://tv.shtorm.com/air/035/index.m3u8
 http://tv.shtorm.com/air/038/index.m3u8
 #EXTINF:-1 group-title="ISP Шторм", Первый деловой
 http://tv.shtorm.com/air/039/index.m3u8
-#EXTINF:-1 group-title="ISP Шторм", Star Cinema
+#EXTINF:-1 group-title="ISP Шторм", Star Cinema HD
 http://tv.shtorm.com/air/096/index.m3u8
-#EXTINF:-1 group-title="ISP Шторм", Star Family
+#EXTINF:-1 group-title="ISP Шторм", Star Family HD
 http://tv.shtorm.com/air/097/index.m3u8
 #EXTINF:-1 group-title="ISP Шторм", FOX
 http://tv.shtorm.com/air/074/index.m3u8
@@ -215,6 +215,8 @@ http://dprtv.phoenix-dnr.ru/first-republic-tv
 http://dprtv.phoenix-dnr.ru/union
 #EXTINF:-1 group-title="СепарТВ",Оплот ТВ
 http://dprtv.phoenix-dnr.ru/oplot-tv
+#EXTINF:-1 group-title="Россия",Первый канал HD 
+http://95.174.96.15:8030/play/101 
 #EXTINF:-1 group-title="Россия",Россия 1
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="Россия",Россия РТР
@@ -225,6 +227,10 @@ http://51.15.194.248:8081/live/kultura/playlist.m3u8
 http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/smil:kaluga_r24.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="Россия",Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 group-title="Россия",ТНТ
+http://ott-cdn.ucom.am/s19/index.m3u8
+#EXTINF:-1 group-title="Россия",Первый канал
+http://ott-cdn.ucom.am/s14/index.m3u8
 #EXTINF:-1 group-title="Россия",МИР Premium
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 #EXTINF:-1 group-title="Россия",Москва 24
@@ -247,6 +253,46 @@ http://185.192.251.89/tvc-p212/smil:tvc.smil/chunklist_w1797655187_b1703000.m3u8
 http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 #EXTINF:-1 group-title="Россия",Время
 http://stream.euroasia.lfstrm.tv/vremya/1/index.m3u8
+#EXTINF:-1 group-title="Россия",Sony
+http://stream.euroasia.lfstrm.tv/sony/1/index.m3u8
+#EXTINF:-1 group-title="Россия",Sony Turbo
+http://stream.euroasia.lfstrm.tv/sony_turbo/1/index.m3u8
+#EXTINF:-1 group-title="Россия",Иллюзион +
+http://serv30.vintera.tv:8081/AXs0rHDOwAjgHAyI/illuzionplus_aa/chunklist.m3u8
+#EXTINF:-1 group-title="Россия",Киносвидание
+http://109.248.236.40:4433/udp/238.1.1.105:1234
+#EXTINF:-1 group-title="Россия",Киносемья
+http://109.248.236.40:4433/udp/238.1.1.52:1234
+#EXTINF:-1 group-title="Россия",Кинохит
+http://109.248.236.40:4433/udp/238.1.1.53:1234
+#EXTINF:-1 group-title="Россия",Индийское кино
+http://109.248.236.40:4433/udp/238.1.1.106:1234
+#EXTINF:-1 group-title="Россия",Теленовелла
+http://109.248.236.41:4433/udp/238.1.1.128:1234
+#EXTINF:-1 group-title="Россия",КиноМеню HD
+http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
+#EXTINF:-1 group-title="Россия",VIP Comedy
+http://ott-cdn.ucom.am/s97/index.m3u8
+#EXTINF:-1 group-title="Россия",ViP Megahit
+https://hls-viasat.cdnvideo.ru/hls/relay/L_UDg0e/index.m3u8?md5=aQJr8zCU2qyjrTrqnmqEQQ&e=1541405785&hls_proxy_host=97544926393025ab05ebfb4dc3486095
+#EXTINF:-1 group-title="Россия",ViP Premiere
+http://hls-viasat.cdnvideo.ru/hls/relay/1502288412514/index.m3u8
+#EXTINF:-1 group-title="Россия",СТРК HD
+http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+#EXTINF:-1 group-title="Россия",Amedia_Premium HD
+http://109.248.236.41:4433/udp/238.1.1.71:1234
+#EXTINF:-1 group-title="Россия",Amedia Hit HD
+http://109.248.236.41:4433/udp/238.1.1.96:1234
+#EXTINF:-1 group-title="Россия",А1 HD
+http://109.248.236.41:4433/udp/238.1.1.97:1234
+#EXTINF:-1 group-title="Россия",НСТ Страшное
+http://109.248.236.41:4433/udp/238.1.1.123:1234
+#EXTINF:-1 group-title="Россия",Paramount Channel
+http://stream.euroasia.lfstrm.tv/paramount_channel/1/index.m3u8
+#EXTINF:-1 group-title="Россия",Paramount comedy
+http://81.25.234.43:8083/tv/paramountcomedy/playlist.m3u8
+#EXTINF:-1 group-title="Россия",Дом кино премиум
+http://88.216.48.14:80/domkinoprem/live.m3u8
 #EXTINF:-1 group-title="Россия",Казахстан
 http://stream.euroasia.lfstrm.tv/kazakhstan/1/index.m3u8
 #EXTINF:-1 group-title="Россия",Казспорт
@@ -299,8 +345,6 @@ http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
 http://87.252.229.252:8082/tnt
 #EXTINF:-1 group-title="Россия",Калейдоскоп ТВ 
 http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
-#EXTINF:-1 group-title="Россия",Вместе РФ
-http://cdn-01.bonus-tv.ru/TVB7/vmesterf/playlist.m3u8
 #EXTINF:-1 group-title="Россия",360
 http://85.132.71.6/ru/360/index.m3u8
 #EXTINF:-1 group-title="Россия",360 Ярославль
@@ -694,31 +738,33 @@ http://stream.euroasia.lfstrm.tv/mult/1/index.m3u8
 http://109.68.190.192:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
 #EXTINF:-1 group-title="Мультики",СКАЗКИ ЗАЙКИ
 http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
-#EXTINF:-1 group-title="Пізнавальні",Viasat Explore
+#EXTINF:-1 group-title="Познавательные",Viasat Explore
 http://stream.euroasia.lfstrm.tv/viasat_explore/1/index.m3u8
-#EXTINF:-1 group-title="Пізнавальні",Viasat History
+#EXTINF:-1 group-title="Познавательные",Viasat History
 http://stream.euroasia.lfstrm.tv/viasat_history/1/index.m3u8
-#EXTINF:-1 group-title="Пізнавальні",Viasat Nature
+#EXTINF:-1 group-title="Познавательные",Viasat Nature
 http://stream.euroasia.lfstrm.tv/viasat_nature/1/index.m3u8
-#EXTINF:-1 group-title="Пізнавальні",Da Vinci
+#EXTINF:-1 group-title="Познавательные",Da Vinci
 http://stream.euroasia.lfstrm.tv/da_vinci/1/index.m3u8
-#EXTINF:-1 group-title="Пізнавальні",Global Star TV
+#EXTINF:-1 group-title="Познавательные",Global Star TV
 rtmp://stream.globalstar.tv/live/gs
-#EXTINF:-1 group-title="Пізнавальні",Zooпарк
+#EXTINF:-1 group-title="Познавательные",Zooпарк
 http://stream.euroasia.lfstrm.tv/zoopark/1/index.m3u8
-#EXTINF:-1 group-title="Пізнавальні",Еда Премиум HD
+#EXTINF:-1 group-title="Познавательные",Еда Премиум HD
 http://now2.eaglecdn.com/stream/tveda_12/index.m3u8
-#EXTINF:-1 group-title="Пізнавальні",Большая Азия HD
+#EXTINF:-1 group-title="Познавательные",Большая Азия HD
 http://now2.eaglecdn.com/stream_transcoded_1080/bigasia_test_mid2/index.m3u8
-#EXTINF:-1 group-title="Пізнавальні",Discovery Science HD
+#EXTINF:-1 group-title="Познавательные",Discovery channel
+http://37.145.189.43:34040/udp/233.33.210.27:5050
+#EXTINF:-1 group-title="Познавательные",Discovery Science HD
 http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
-#EXTINF:-1 group-title="Пізнавальні",HD Media
+#EXTINF:-1 group-title="Познавательные",HD Media
 http://62.76.26.81:8081/hdmedia/hdmedia_pay/playlist.m3u8
-#EXTINF:-1 group-title="Пізнавальні",Nano TV
+#EXTINF:-1 group-title="Познавательные",Nano TV
 http://nano.teleservice.su:8080/hls/nano.m3u8
-#EXTINF:-1 group-title="Пізнавальні",Моя Планета
+#EXTINF:-1 group-title="Познавательные",Моя Планета
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="Пізнавальні",Дайвинг TV
+#EXTINF:-1 group-title="Познавательные",Дайвинг TV
 http://wse.planeta-online.tv:1935/live/channel_130/playlist.m3u8
 #EXTINF:-1 group-title="Релакс",РелаксTV
 http://wse.planeta-online.tv:1935/live/channel_3/playlist.m3u8
