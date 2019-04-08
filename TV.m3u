@@ -246,1017 +246,639 @@ http://webcam.shtorm.com/camera/CAM17/17.m3u8
 http://webcam.shtorm.com/camera/CAM18/18.m3u8
 
 #EXTINF:-1 group-title="IPTV-1(smarttvapp)",Первый Канал
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FORT&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Первый канал +2
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FORTplus2&login=edemm999&key=cgxNbd7
+http://93.125.34.51:30000/PerviySD/index.m3u8
 #EXTINF:-1,Первый канал HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FORTHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Первый канал HD +4
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FORTHDplus4&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Россия +2
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FRossiyaplus2&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Россия 1
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FRossiya1NTVplus&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Россия 1 +4
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FRossyaplus4&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Россия 1 HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FRossiya1HD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Россия 24
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FRossiya24&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Россия К
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FRossiyaK&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Россия К +2
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Frossiakplus2&login=edemm999&key=cgxNbd7
-#EXTINF:-1,НТВ
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,НТВ HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNTVHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,НТВ Беларусь
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBNTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,НТВ Мир
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNTVMIR&login=edemm999&key=cgxNbd7
-#EXTINF:-1,НТВ Право
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNTVPravo&login=edemm999&key=cgxNbd7
-#EXTINF:-1,НТВ Сериал
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNTVSerial&login=edemm999&key=cgxNbd7
-#EXTINF:-1,НТВ Стиль
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNTVStyle&login=edemm999&key=cgxNbd7
-#EXTINF:-1,НТВ Хит
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNTVHit&login=edemm999&key=cgxNbd7
-#EXTINF:-1,ТНТ
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTNT&login=edemm999&key=cgxNbd7
-#EXTINF:-1,ТНТ +2
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTNTplus2&login=edemm999&key=cgxNbd7
-#EXTINF:-1,ТНТ +4
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTNTplus4&login=edemm999&key=cgxNbd7
-#EXTINF:-1,ТНТ +7
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTNTplus7&login=edemm999&key=cgxNbd7
-#EXTINF:-1,ТНТ HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTNTHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,ТНТ International
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTNTintl&login=edemm999&key=cgxNbd7
-#EXTINF:-1,ТНТ Music
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTNTMusic&login=edemm999&key=cgxNbd7
-#EXTINF:-1,ТНТ4
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTNT4&login=edemm999&key=cgxNbd7
-#EXTINF:-1,ТНТ4 +2
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTNT4plus2&login=edemm999&key=cgxNbd7
-#EXTINF:-1,ТНТ4 +4
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTNT4plus4&login=edemm999&key=cgxNbd7
-#EXTINF:-1,СТС
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FSTS&login=edemm999&key=cgxNbd7
-#EXTINF:-1,СТС +2
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fstsplus2&login=edemm999&key=cgxNbd7
-#EXTINF:-1,СТС +7
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FSTSPlus7&login=edemm999&key=cgxNbd7
-#EXTINF:-1,СТС International
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FSTSintl&login=edemm999&key=cgxNbd7
-#EXTINF:-1,СТС Kids HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FSTSKidsHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,СТС Love
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FCTCLove&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Пятница
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FPyatnica&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Пятница +2
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FPyatnicaplus2&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Пятница HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FFridayHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Пятница Int
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FPyatnicaintl&login=edemm999&key=cgxNbd7
-#EXTINF:-1,РБК
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FRBK&login=edemm999&key=cgxNbd7
-#EXTINF:-1,РТР Беларусь
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBRTR&login=edemm999&key=cgxNbd7
-#EXTINF:-1,РТР Планета
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FRTRPLANETA&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Радость Моя
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FRadostMoya&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Рен ТВ
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FRenTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Рен ТВ +2
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FRenTVplus2&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Рен ТВ HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Frentvhd&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Рен ТВ International
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FRenTvInternational&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Санкт Петербург
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FSanktpeterburg&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Сарафан
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FSarafan&login=edemm999&key=cgxNbd7
-#EXTINF:-1,ТВ 3
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTV3&login=edemm999&key=cgxNbd7
-#EXTINF:-1,ТВ 3 +2
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Ftv3plus2&login=edemm999&key=cgxNbd7
-#EXTINF:-1,ТВ 3 +7
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Ftv3plus7&login=edemm999&key=cgxNbd7
-#EXTINF:-1,ТВЦ
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTVC&login=edemm999&key=cgxNbd7
-#EXTINF:-1,ТВЦ +2
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTVCplus2&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Реноме
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FRenome&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Настоящее время HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNastoyasheVremiyaHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Перец International
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FPeretzInt&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Мир
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMir&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Мир +2
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fmirplus2&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Мир 24
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMir24NTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Мир Premium HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMirHDNTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Москва 24
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMoskva24&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Москва Доверие
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMoskvaDoverie&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Звезда
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FZvezda&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Звезда +2
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FZvezdaplus2&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Звезда +4
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fzvezdaplus4&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Звезда +7
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fzvezdaplus7&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Известия
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FIsvestiya&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Известия HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fizvestiahd&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Домашний
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDomashiy&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Домашний +2
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fdomashniyplus2&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Домашний +4
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDomashnyiplus4&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Домашний International
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDomashniyInt&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Дождь
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDozdSD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Дождь HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDozdHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Восток ТВ
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTMB&login=edemm999&key=cgxNbd7
+http://93.125.34.51:30000/pervhd/index.m3u8
+#EXTINF:-1,Первый канал
+http://176.114.16.54:80/ort/index.m3u8
+#EXTINF:-1,Первый канал HD
+http://176.114.16.54:80/1HD/index.m3u8
 #EXTINF:-1,Время
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FVremya&login=edemm999&key=cgxNbd7
-#EXTINF:-1,RTVI
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FRTVI&login=edemm999&key=cgxNbd7
+http://93.125.34.51:30000/Vremya/index.m3u8
+#EXTINF:-1,Первый городской (Киров)
+http://live-1gorodskoi.cdnvideo.ru/1gorodskoi/1kirov.sdp/playlist.m3u8
+#EXTINF:-1,РТР Россия
+http://stream.euroasia.lfstrm.tv/rtr_planeta/1/index.m3u8
+#EXTINF:-1,Россия 1
+http://176.114.16.54:80/rus1/index.m3u8
+#EXTINF:-1,Россия 1 HD
+https://a3569458075-s26881.cdn.ngenix.net/live/smil:rhd.smil/chunklist_b1800000.m3u8
+#EXTINF:-1,Россия К
+http://176.114.16.54:80/rusk/index.m3u8
+#EXTINF:-1,Россия 24
+http://176.114.16.54:80/rus24/index.m3u8
+#EXTINF:0,Мир 
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/chunklist.m3u8
+#EXTINF:-1,Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:0,МИР Premium
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:0,Мир 24 HD 
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1,ТНТ
+http://176.114.16.54:80/tnt/index.m3u8
+#EXTINF:-1,ТНТ HD
+#EXTVLCOPT:http-user-agent=smartlabs
+http://91.231.219.145:80/tv_tnt_HD/video.m3u8
+#EXTINF:-1,ТНТ 4
+http://93.125.34.51:30000/tnt4/index.m3u8
+#EXTINF:-1,НТВ
+https://live-4-102.rutube.ru/stream/10213616/42a58f895935bbf495089a2e1fe15e46/tracks-v1a1/mono.m3u8
+#EXTINF:-1,НТВ HD
+http://live-4-202.rutube.ru/stream/10113616/42a58f895935bbf495089a2e1fe15e46/tracks-v1a1/mono.m3u8
+#EXTINF:-1,НТВ мир
+http://ott-cdn.ucom.am/s17/index.m3u8
+#EXTINF:-1,НТВ право
+http://88.216.48.14:80/ntvpravo/live.m3u8
+#EXTINF:-1,НТВ сериал
+http://88.216.48.14:80/ntvserial/live.m3u8
+#EXTINF:-1,НТВ стиль
+http://88.216.48.14:80/ntvstyle/live.m3u8
+#EXTINF:-1,Дождь
+http://37.194.184.105:81/udp/239.1.13.6:1234
+#EXTINF:-1,Дождь HD
+http://srv01.ontv.pro/0266/index.m3u8?token=16bb37cf21aa1f76b3c76c16679d
+#EXTINF:0,Звезда 
+http://cdn-01.bonus-tv.ru:8080/zvezda/index.m3u8
+#EXTINF:0,Звезда HD 
+http://livezvezda.cdnvideo.ru/zv/zvezda1.sdp/playlist.m3u8 
+#EXTINF:-1,Россия РТР
+http://ott-cdn.ucom.am/s15/index.m3u8
+#EXTINF:-1,СТС
+http://176.114.16.54:80/sts/index.m3u8
+#EXTINF:-1,СТС love
+http://93.125.34.51:30000/sts_love/index.m3u8
+#EXTINF:-1,Домашний
+http://176.114.16.54:80/home/index.m3u8
+#EXTINF:-1,Пятница HD
+https://vs309.vcdn.biz/5b39f9d7689deb889ec1ee82c2c05328_megogo/vod/fs/o/16283521/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/playlist.m3u8
+#EXTINF:-1,Рен ТВ
+http://176.114.16.54:80/ren/index.m3u8
+#EXTINF:-1,ТВЦ
+http://176.114.16.54:80/tvc/index.m3u8
+#EXTINF:-1,ТВ-3
+http://176.114.16.54:80/tv3/index.m3u8
+#EXTINF:-1,ЧЕ
+http://176.114.16.54:80/che/index.m3u8
 #EXTINF:-1,Ю
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKanalJ&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Че
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FChe&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Новости 24
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNews24&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Новости 24 HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2F24nowostihd&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Новости 360
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2F360news&login=edemm999&key=cgxNbd7
-#EXTINF:-1,360 Подмосковье
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2F360Podmoskovie&login=edemm999&key=cgxNbd7
-#EXTINF:-1,360 Подмосковье HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2F360podmoskoviehd&login=edemm999&key=cgxNbd7
-#EXTINF:-1,ОНТ
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FONT&login=edemm999&key=cgxNbd7
-#EXTINF:-1,ОНТ Беларусь
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FONTB&login=edemm999&key=cgxNbd7
+http://176.114.16.54:80/utv/index.m3u8
 #EXTINF:-1,ОТР
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fotp&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Анекдот ТВ
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fanegdottv&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Астрахань 24
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FAstraxan24&login=edemm999&key=cgxNbd7
-#EXTINF:-1,RT D
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FRTDNTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,RTG HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FRTGHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,RTG TV
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FRTGTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,5 канал International
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2F5Int&login=edemm999&key=cgxNbd7
-#EXTINF:-1,5 канал Россия
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2F5kanal&login=edemm999&key=cgxNbd7
-#EXTINF:-1,8 канал Россия
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2F8&login=edemm999&key=cgxNbd7
-#EXTINF:-1,34 канал
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2F34kanal&login=edemm999&key=cgxNbd7
-#EXTINF:-1,БСТ
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBST&login=edemm999&key=cgxNbd7
-#EXTINF:-1,МИР Беларусь
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBmir&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Беларусь 1
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FB1&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Беларусь 2
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FB2&login=edemm999&key=cgxNbd7
+http://176.114.16.54:80/otr/index.m3u8
+#EXTINF:-1,RTVi
+http://93.125.34.51:30000/RTVI/index.m3u8
+#EXTINF:-1,Сарафан
+http://93.125.34.51:30000/sarafan/index.m3u8
+#EXTINF:-1,360° HD
+http://93.125.34.51:30000/360hd/index.m3u8
+#EXTINF:-1,Перец
+http://streams.tv.mts.by/peretz_int/1/index.m3u8
+#EXTINF:-1,Новый мир
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:-1,Mосква 24
+http://93.125.34.51:30000/Moskva24/index.m3u8
+#EXTINF:-1,Sochi 24 HD
+http://live.maksmedia.cdnvideo.ru/maksmedia/maksmedia.sdp/playlist.m3u8
+#EXTINF:-1,8 Канал
+http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
+#EXTINF:-1,Калейдоскоп ТВ 
+http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
+#EXTINF:0,ИКС HD 
+http://ikstv-htlive.cdn.ngenix.net/live/ikstv/playlist.m3u8
+#EXTINF:-1,Известия
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1,TV Brics HD
+http://live2.mediacdn.ru/sr1/tvbrics/playlist.m3u8
+#EXTINF:-1,Вместе РФ
+http://182.73.122.74:10005/bysid/428
+#EXTINF:-1,Вместе РФ HD
+http://cdn-01.bonus-tv.ru:8080/vmesterf/tracks-v1a1/index.m3u8
+#EXTINF:-1,НТВ Беларусь HD
+http://93.125.34.51:30000/ntvhd/index.m3u8
 #EXTINF:-1,Беларусь 24
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBelarus24&login=edemm999&key=cgxNbd7
+http://stream.euroasia.lfstrm.tv/belarus_24/1/index.m3u8
+#EXTINF:-1,Беларусь 1
+http://93.125.34.51:30000/belarus1/index.m3u8
+#EXTINF:-1,Беларусь 2
+http://93.125.34.51:30000/bel2/index.m3u8
 #EXTINF:-1,Беларусь 3
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FB3&login=edemm999&key=cgxNbd7
+http://93.125.34.51:30000/bel3/index.m3u8
+#EXTINF:-1,Беларусь 4
+http://95.46.208.8:26258/belarus4
 #EXTINF:-1,Беларусь 5
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FB5&login=edemm999&key=cgxNbd7
-#EXTINF:-1,BelRos
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBelRos&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Armenia TV
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FArmeniaTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Интер +
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FInterplus&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Квартал ТВ
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKvartalTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Киев ТВ
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKievTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Прямий
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FPramyi&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Прямий HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FPramyiHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Донбасс
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDonbass&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Громадське HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FHromadskeTVHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Громадське ТВ
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FHromadskeTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Галичина
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FGalychina&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Zee TV
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FZeeNTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,ZIK
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FZIK&login=edemm999&key=cgxNbd7
-#EXTINF:-1,ZIK HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fzikhd&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Brain TV
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBrainTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,ЧП Инфо
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FCHPINFO&login=edemm999&key=cgxNbd7
+http://93.125.34.51:30000/bel5/index.m3u8
+#EXTINF:-1,БелРос
+http://93.125.34.51:30000/TRO/index.m3u8
+#EXTINF:0,Белгород 24 
+http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
+#EXTINF:-1,Интер
+http://109.68.41.148:1935/live/inter_2/playlist.m3u8
+#EXTINF:-1,К1
+http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF:-1,Київ
+http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
+#EXTINF:-1,Brain TV HD
+http://jabber.divan.tv:8002/tv.m3u8
+#EXTINF:-1,UA TV
+http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8
+#EXTINF:-1,Сонце
+http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
+#EXTINF:-1,Citi TV
+http://api.tv.ipnet.ua/api/v1/manifest/2118742470.m3u8
+#EXTINF:-1,Новини 24
+http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8
+#EXTINF:-1,34
+http://api.tv.ipnet.ua/api/v1/manifest/2118742463.m3u8
+#EXTINF:-1,4 канал
+http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8
 #EXTINF:-1,ATR
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FATR&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Телевсесвит
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTelevsesvit&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Телевсесвит HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTelevsesvitHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Sirius TV
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fsiriustv&login=edemm999&key=cgxNbd7
-#EXTINF:-1,7 канал Украина
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2F7kanalUA&login=edemm999&key=cgxNbd7
-#EXTINF:-1,7 канал HD Украина
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2F7kanalHDUA&login=edemm999&key=cgxNbd7
-#EXTINF:-1,8 канал Украина
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2F8kanalUA&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Boutique
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBoutiqueTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,NewsNetwork
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNewsNetwork&login=edemm999&key=cgxNbd7
-#EXTINF:-1,News One
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNewsOne&login=edemm999&key=cgxNbd7
-#EXTINF:-1,News One HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNewsOneHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,112 Украина
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2F112Ukraine&login=edemm999&key=cgxNbd7
-#EXTINF:-1,112 Украина HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2F112UkraineHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Дом кино
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDomkino&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Дом кино Премиум HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDomkinoPremiumHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,VIP Comedy
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTV1000Comedy&login=edemm999&key=cgxNbd7
-#EXTINF:-1,ViP Comedy HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FViPComedyHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,ViP Megahit HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FViPMegahitHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,ViP Premiere HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FViPPremiereHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,VIP Serial HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fviasatgolfhd&login=edemm999&key=cgxNbd7
-#EXTINF:-1,TV1000
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTV1000NTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,TV1000 HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Ftv100hd&login=edemm999&key=cgxNbd7
-#EXTINF:-1,TV1000 Action
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTV1000ActionNTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,TV1000 Action HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Ftv1000actionhd&login=edemm999&key=cgxNbd7
-#EXTINF:-1,TV1000 Русское кино
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTV1000RusKino&login=edemm999&key=cgxNbd7
-#EXTINF:-1,TV1000 Русское кино HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Ftv1000rukinohd&login=edemm999&key=cgxNbd7
-#EXTINF:-1,TV1000 Premium
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTV1000PremiumLT&login=edemm999&key=cgxNbd7
-#EXTINF:-1,TV1000 Premium HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTV1000PremiumRU&login=edemm999&key=cgxNbd7
-#EXTINF:-1,TV1000 World Kino
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTV1000WorldKino&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Болт HD Россия
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBOLTHDRU&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Bollywood
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBollywood&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Bollywood HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBollywoodHD&login=edemm999&key=cgxNbd7
+http://api.tv.ipnet.ua/api/v1/manifest/2007308341.m3u8
+#EXTINF:0,Макси ТВ 
+http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
+#EXTINF:0,Еко ТВ 
+http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8
+#EXTINF:0,Еспресо 
+http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
+#EXTINF:-1,ВТВ-Плюс
+#EXTVLCOPT:network-caching=1000
+http://iptv.rubintele.com:8552/play/a007
+#EXTINF:0,Думская TV HD
+http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska720p/playlist.m3u8
+#EXTINF:-1,Галичина
+http://api.tv.ipnet.ua/api/v1/manifest/2118742464.m3u8
+#EXTINF:-1,Громадське ТБ
+http://api.tv.ipnet.ua/api/v1/manifest/2118742457.m3u8
+#EXTINF:0,5 Канал
+http://api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8
+#EXTINF:-1,112
+http://api.tv.ipnet.ua/api/v1/manifest/1442908080.m3u8
+#EXTINF:-1,112 HD
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1,Дом Кино Премиум HD
+http://91.231.219.145:80/tv_dom_kino_premium_HD/playlist.m3u8
 #EXTINF:-1,Шокирующее HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKinopokaz1HD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Кино Премиум HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKinoPremiumHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Кино ТВ
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKinoTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Кино ТВ HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKinoHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Кинокомедия
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKinokomedia&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Киномикс
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKinomix&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Киномикс HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKinomiksHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Кинопоказ 2 HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKinopokaz2HD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Кинопремьера HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKinopremieraHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Киносвидание
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKinosvidanie&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Киносвидание HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKinosvidanieHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Киносемья
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKinosemya&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Киносемья HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKinosemyaHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Киносерия
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKinoseria&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Кинохит
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKinohit&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Кинохит HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKinohitHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Мир сериала
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMirseriala&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Мужское кино
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMuzskoekino&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Мужское кино HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMuzskoekinoHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Детектив ТВ
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDetektivTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Наш Детектив HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNashDetektivHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Наш Кинороман HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNashKinoromanHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Остросюжетное HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FOstrosuzetnoeHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Наше HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNasheHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Наше Любимое HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNasheLubimoeHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Родное кино
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FRodnoekino&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Русская Комедия
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FRussianComedy&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Русский Бестселлер
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FRussianBestseller&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Русский Детектив
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Frussiandetektiv&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Русский Иллюзион
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FRussianIllusion&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Русский Роман
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FRussianRoman&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Русский Роман HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Frussianromanhd&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Романтичное HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FRomantichnoeHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Страшное HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fstrashnoehd&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Наше ТВ
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNasheTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Наше любимое кино
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNashelubimoekinoNTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Наше новое кино
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNashenovoekino&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Наше новое кино HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNashenovorkinoHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Еврокино
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FEurokino&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Иллюзион +
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FIllusionplus&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Индийское кино
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FIndiyskoekino&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Феникс + Кино
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Ffenixkino&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Дорама
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDorama&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Дорама HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDoramaHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Epic Drama HD 
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FEpicDramaHDRU&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Epic Drama FHD 
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FEpicDramaHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,TV XXI
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTVXXINTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Star Cinema
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FStarCinema&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Star Cinema HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FStarCinemaHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Star Family
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FStarFamily&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Star Family HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FStarFamilyHD&login=edemm999&key=cgxNbd7
+http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
+#EXTINF:-1,Комедийное HD
+http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
+#EXTINF:-1,VIP Comedy
+http://ott-cdn.ucom.am/s97/index.m3u8
 #EXTINF:-1,Paramount Channel
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FParamountChannel&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Paramount Channel HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fparamountchannelhd&login=edemm999&key=cgxNbd7
+http://stream.euroasia.lfstrm.tv/paramount_channel/1/index.m3u8
 #EXTINF:-1,Paramount Comedy
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FParamountComedy&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Paramount Comedy HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fparamountcomedyhd&login=edemm999&key=cgxNbd7
-#EXTINF:-1,FOX
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FFox&login=edemm999&key=cgxNbd7
-#EXTINF:-1,FOX HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FFoxHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Fox Life
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FFoxLife&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Fox Life HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Ffoxlifehd&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Eurochannel
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Feurochannel&login=edemm999&key=cgxNbd7
+http://93.125.34.51:30000/ParamountComedy/index.m3u8
 #EXTINF:-1,Sony
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FSony&login=edemm999&key=cgxNbd7
+http://stream.euroasia.lfstrm.tv/sony/1/index.m3u8
 #EXTINF:-1,Sony HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fsonyhd&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Sony Sci-Fi
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FSonySciFi&login=edemm999&key=cgxNbd7
+http://93.125.34.51:30000/SonyHD/index.m3u8
 #EXTINF:-1,Sony Turbo
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FSonyTurbo&login=edemm999&key=cgxNbd7
-#EXTINF:-1,A1
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FA1&login=edemm999&key=cgxNbd7
-#EXTINF:-1,A2
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FA2&login=edemm999&key=cgxNbd7
-#EXTINF:-1,A1 HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fa1hd&login=edemm999&key=cgxNbd7
-#EXTINF:-1,AHOME OF HBO 1
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FAHOMEOFHBO1&login=edemm999&key=cgxNbd7
-#EXTINF:-1,AHOME OF HBO 2
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FAHOMEOFHBO2&login=edemm999&key=cgxNbd7
-#EXTINF:-1,AHOME OF HBO 1 HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Famediahithd&login=edemm999&key=cgxNbd7
-#EXTINF:-1,AHOME OF HBO 2 HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FAHOMEOFHBO2HD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Spike
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FSpike&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Spike HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fspiektvhd&login=edemm999&key=cgxNbd7
-#EXTINF:-1,AMC
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FAMCRUS&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Fan
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FFanHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Fan HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FFanHDL&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Film Zone
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FFilm_zone&login=edemm999&key=cgxNbd7
-#EXTINF:-1,FilmBox
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FFilmBox&login=edemm999&key=cgxNbd7
-#EXTINF:-1,FilmBox Arthouse
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FFilmBoxArthouseHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,FilmBox Arthouse HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Ffilmboxarthousehdtene&login=edemm999&key=cgxNbd7
-#EXTINF:-1,НСТ
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNST&login=edemm999&key=cgxNbd7
-#EXTINF:-1,TOP 80s
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTOP80s&login=edemm999&key=cgxNbd7
-#EXTINF:-1,TOP Budo
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTOPBudo&login=edemm999&key=cgxNbd7
-#EXTINF:-1,TOP Cinema
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTOPCinema&login=edemm999&key=cgxNbd7
-#EXTINF:-1,TOP Cinema HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTOPCinemaHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,TOP Comedy HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTopComedyHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,TOP Horror HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTopHorrorHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,TOP Sevimli
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTOPSevimli&login=edemm999&key=cgxNbd7
-#EXTINF:-1,TOP СССР
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTOPSSSR&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Kino Sat
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKinosat&login=edemm999&key=cgxNbd7
+http://93.125.34.51:30000/SonyTurbo/index.m3u8
+#EXTINF:-1,SONY SCI-FI
+http://93.125.34.51:30000/Sony_Sci-Fi/index.m3u8
+#EXTINF:-1,U.HD
+http://95.216.143.86:8888/live/uhd/playlist.m3u8
 #EXTINF:-1,Hollywood
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FAMC&login=edemm999&key=cgxNbd7
+http://93.125.34.51:30000/AMC/index.m3u8
 #EXTINF:-1,Hollywood HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMGMHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Cinema
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fcinema&login=edemm999&key=cgxNbd7
-#EXTINF:-1,BOX Cinema HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBOXCinemaHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,BOX VHS
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBOXVHS&login=edemm999&key=cgxNbd7
-#EXTINF:-1,BCU Marvel DC
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBCUMARVELDC&login=edemm999&key=cgxNbd7
-#EXTINF:-1,BCU Кинозаказ
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBCUKinozakaz&login=edemm999&key=cgxNbd7
-#EXTINF:-1,BCU Кинозал 1
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBCUkinozal1&login=edemm999&key=cgxNbd7
-#EXTINF:-1,BCU Кинозал 2
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBCUkinozal2&login=edemm999&key=cgxNbd7
-#EXTINF:-1,BCU Кинозал 3
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBCUkinozal3&login=edemm999&key=cgxNbd7
-#EXTINF:-1,BCU Кинозал 4
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBCUkinozal4&login=edemm999&key=cgxNbd7
-#EXTINF:-1,BCU Кинозал 5
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBCUkinozal5&login=edemm999&key=cgxNbd7
-#EXTINF:-1,BCU Кинозал 6
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBCUkinozal6&login=edemm999&key=cgxNbd7
-#EXTINF:-1,BCU Кинозал 7
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBCUkinozal7&login=edemm999&key=cgxNbd7
-#EXTINF:-1,BCU Кинозал СССР
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FSSSR&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Discovery Channel
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDiscoveryChannel&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Discovery Channel HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDiscoveryChannelHD&login=edemm999&key=cgxNbd7
+http://93.125.34.51:30000/MGM_HD/index.m3u8
+#EXTINF:-1,HOME 4K
+http://93.125.34.51:30000/HOME_4K/index.m3u8
+#EXTINF:-1,Bollywood
+http://stream.euroasia.lfstrm.tv/bollywood_hd/1/index.m3u8
+#EXTINF:-1,BollywooD HD
+http://77.245.98.22:8000/play/403/index.m3u8
+#EXTINF:-1,Дом кино
+http://93.125.34.51:30000/DomKino/index.m3u8
+#EXTINF:-1,Киномикс
+http://93.125.34.51:30000/Kinomix/index.m3u8
+#EXTINF:-1,Кинокомедия
+http://93.125.34.51:30000/Kinokomedia/index.m3u8
+#EXTINF:-1,Кинопремьера
+http://93.125.34.51:30000/kinopremerahd/index.m3u8
+#EXTINF:-1,Киносвидание
+http://93.125.34.51:30000/Kinosvidanie/index.m3u8
+#EXTINF:-1,Киносерия
+http://93.125.34.51:30000/MnogoTV/index.m3u8
+#EXTINF:-1,Кинохит
+http://93.125.34.51:30000/Kinohit/index.m3u8
+#EXTINF:-1,Родное кино
+http://93.125.34.51:30000/RodnoeKino/index.m3u8
+#EXTINF:-1,Мир сериала
+http://93.125.34.51:30000/Mir_seriala/index.m3u8
+#EXTINF:-1,Мужское кино
+http://93.125.34.51:30000/Muzhskoyekino/index.m3u8
+#EXTINF:-1,Наше новое кино
+http://93.125.34.51:30000/NasheNovoeKino/index.m3u8
+#EXTINF:-1,Еврокино
+http://93.125.34.51:30000/Evrokino/index.m3u8
+#EXTINF:-1,Индийское кино
+http://93.125.34.51:30000/IndiyskoeKino/index.m3u8
+#EXTINF:-1,Русский Роман
+http://93.125.34.51:30000/RusskiyRoman/index.m3u8
+#EXTINF:-1,Русский бестселлер
+http://93.125.34.51:30000/Bestseller/index.m3u8
+#EXTINF:-1,Русский иллюзион
+http://93.125.34.51:30000/Russkij_illuzion/index.m3u8
+#EXTINF:-1,Иллюзион+
+http://93.125.34.51:30000/illuzion_plus/index.m3u8
+#EXTINF:-1,Русский Бестселер
+http://182.73.122.74:10005/bysid/420
+#EXTINF:-1,Русский детектив
+http://182.73.122.74:10005/bysid/416
+#EXTINF:-1,Русский роман
+http://182.73.122.74:10005/bysid/415
+#EXTINF:-1,Дорама
+http://ott-cdn.ucom.am/s95/index.m3u8
+#EXTINF:-1,НСТ
+http://93.125.34.51:30000/NSTV/index.m3u8
+#EXTINF:-1,TV XXI
+http://93.125.34.51:30000/TV_21/index.m3u8
+#EXTINF:-1,Феникс + Кино
+http://93.125.34.51:30000/FeniksKino/index.m3u8
+#EXTINF:-1,КИНОМЕНЮ HD
+http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
+#EXTINF:-1,СТРК HD
+http://sochi-strk.ru:1936/strk/strk.stream/playlist.m3u8
+#EXTINF:-1,43 HD
+http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
+#EXTINF:-1,Fox HD
+http://93.125.34.51:30000/foxhd/index.m3u8
+#EXTINF:-1,Fox Life HD
+http://93.125.34.51:30000/foxlifehd/index.m3u8
+#EXTINF:-1,FLIX HD
+http://193.93.216.50:8000/play/FLIX/index.m3u8
+#EXTINF:-1,FILMS TV
+#EXTVLCOPT:http-user-agent=smartlabs
+http://hls.goodgame.ru/hls/159693.m3u8
+#EXTINF:-1,A HBO
+http://ott-cdn.ucom.am/s64/index.m3u8
+#EXTINF:-1,Amedia 1
+http://ott-cdn.ucom.am/s45/index.m3u8
+#EXTINF:-1,Amedia 2
+http://ott-cdn.ucom.am/s33/index.m3u8
+#EXTINF:-1,Amedia 1 HD
+http://stream.euroasia.lfstrm.tv/amedia_1/1/index.m3u8
+#EXTINF:-1,Amedia 2 HD
+http://stream.euroasia.lfstrm.tv/amedia_2/1/index.m3u8
+#EXTINF:-1,Amedia Premium HD
+http://93.125.34.51:30000/AmediaPremiumHD/index.m3u8
+#EXTINF:-1,CINEMA
+http://stream.euroasia.lfstrm.tv/park_razvlecheniy/1/index.m3u8
+#EXTINF:-1,DOCENT 13
+#EXTVLCOPT:http-user-agent=smartlabs
+https://hls.goodgame.ru/hls/64556.m3u8
+#EXTINF:-1,Трансляция HD
+#EXTVLCOPT:http-user-agent=smartlabs
+http://hls.goodgame.ru/hls/145300.m3u8
+#EXTINF:0,Кинозал Зарубежная киноклассика
+http://streams.tv.mts.by/zarubezhnaya_classica/1/index.m3u8
+#EXTINF:0,Кинозал Советская киноклассика
+http://streams.tv.mts.by/soviet_classic/1/index.m3u8
+#EXTINF:0,Кинозал Индийская киноклассика
+http://streams.tv.mts.by/indiyskaya_classica/1/index.m3u8
+#EXTINF:0,Кинозал Классика Голливуда
+http://streams.tv.mts.by/hollywood_classic/1/index.m3u8
+#EXTINF:-1,Кинопоказ HD 2
+http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
+#EXTINF:0,КиноЗаказ 1
+https://hls.goodgame.ru/hls/114023.m3u8
+#EXTINF:0,КиноЗаказ 2
+http://hls.goodgame.ru/hls/12949.m3u8
+#EXTINF:0,КиноЗаказ 3
+http://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:0,КиноЗаказ 4
+http://hls.goodgame.ru/hls/114023.m3u8
+#EXTINF:-1,Кино 1
+http://v2.myowntv.org/content/35618/index.m3u8?seg-uhd-club
+#EXTINF:-1,Кино 2
+http://v2.myowntv.org/content/35617/index.m3u8?seg-uhd-club
+#EXTINF:-1,Кино 3
+http://v2.myowntv.org/content/35608/index.m3u8?seg-uhd-club
+#EXTINF:-1,Кино 4
+http://v2.myowntv.org/content/35606/index.m3u8?seg-uhd-club
+#EXTINF:-1,Кино 5
+http://v2.myowntv.org/content/35601/index.m3u8?seg-uhd-club
+#EXTINF:-1,Кино 6
+http://v2.myowntv.org/content/35600/index.m3u8?seg-uhd-club
+#EXTINF:-1,TV СССР
+http://v1.myowntv.org/content/35612/index.m3u8?seg-v1-a1.m3u8
+#EXTINF:-1,Сделано в СССР HD
+http://s2.myowntv.org/hls/made_in_ussr.m3u8
+#EXTINF:-1,BCHD
+http://s2.myowntv.org/hls/bchd.m3u8
+#EXTINF:-1,ВИДЕОСАЛОН VHS
+#EXTVLCOPT:http-user-agent=smartlabs
+https://hls.goodgame.ru/hls/151157.m3u8
+#EXTINF:-1,U!Premium ATV
+http://ott-cdn.ucom.am/s83/index.m3u8
+#EXTINF:0,Armenia Comedy ATV
+http://ott-cdn.ucom.am/s32/index.m3u8
+#EXTINF:0,Cineman ATV 
+http://ott-cdn.ucom.am/s66/04.m3u8 
+#EXTINF:0,Filmzone ATV 
+http://ott-cdn.ucom.am/s48/04.m3u8 
+#EXTINF:0,Kinoman ATV 
+http://ott-cdn.ucom.am/s94/04.m3u8
+#EXTINF:-1,Haykino ATV
+http://ott-cdn.ucom.am/s22/index.m3u8
+#EXTINF:-1,НТМ HD
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1,Discovery HD
+http://93.125.34.51:30000/DiscoveryHD/index.m3u8
 #EXTINF:-1,Discovery Science
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDiscoveryScience&login=edemm999&key=cgxNbd7
+http://93.125.34.51:30000/DiscoveryScience/index.m3u8
 #EXTINF:-1,Discovery Science HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fdiscoverysciencehd&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Discovery Showcase HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDiscoveryShowcaseHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Discovery World
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDiscoveryWorld&login=edemm999&key=cgxNbd7
-#EXTINF:-1,DTX
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDTX&login=edemm999&key=cgxNbd7
-#EXTINF:-1,DTX HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fdtxhd&login=edemm999&key=cgxNbd7
-#EXTINF:-1,ID Xtra
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDiscoveryIDXtra&login=edemm999&key=cgxNbd7
-#EXTINF:-1,ID Xtra HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fidxhd&login=edemm999&key=cgxNbd7
-#EXTINF:-1,HDL
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FHDLife&login=edemm999&key=cgxNbd7
+http://93.125.34.51:30000/DiscoveryScienceHD/index.m3u8
 #EXTINF:-1,National Geographic
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNationalGeographicRu&login=edemm999&key=cgxNbd7
+http://93.125.34.51:30000/NationalGeographic/index.m3u8
 #EXTINF:-1,National Geographic HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNationalGeographicHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,National Geographic CEE
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNatGeoUA&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Nat Geo Wild
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNatGeoWild&login=edemm999&key=cgxNbd7
+http://93.125.34.51:30000/NationalGeographicHD/index.m3u8
 #EXTINF:-1,Nat Geo Wild HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNatGeoWildHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,TLC
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTLC&login=edemm999&key=cgxNbd7
+http://93.125.34.51:30000/NatGeoWildHD/index.m3u8
+#EXTINF:-1,ID Xtra
+http://93.125.34.51:30000/ID_Xtra/index.m3u8
+#EXTINF:-1,HD Life
+http://93.125.34.51:30000/HDLife/index.m3u8
 #EXTINF:-1,TLC HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTLCHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Animal Planet
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FAnimalPlanetNTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Animal Planet HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FAnimalPlanetHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,DaVinchi Learning
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDaVinchiLearningNTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Travel Channel
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTravelChannel&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Travel Channel HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTravelChannelHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Travel+Adventure
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTravelAdventureNTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Travel+Adventure HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Ftraveladventurehd&login=edemm999&key=cgxNbd7
-#EXTINF:-1,DocuBox
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDocubox&login=edemm999&key=cgxNbd7
-#EXTINF:-1,DocuBox HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDocuBoxHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Viasat Explorer
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FViasatExplorerNTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Viasat Explore HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fviasatexplorehd&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Viasat Explore CEE
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FViasatExplore&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Viasat History
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FViasatHistoryNTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Viasat History HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fviasathistoryhd&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Viasat Nature
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FViasatNatureNTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Viasat Nature HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FViasatNatureHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Viasat Nature/History HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FViasatNatureHistoryHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Nasa TV
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNasaTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Nautical Channel HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNauticalChannelHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Эврика HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FEurekaHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Ocean TV
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FOceanTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Sea TV
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FSeaTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Fine Living
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FFineLiving&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Fine Living HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FFineLivingHDXTRA&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Outdoor Channel
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FOutdoorChannel&login=edemm999&key=cgxNbd7
+http://93.125.34.51:30000/TLCHD/index.m3u8
 #EXTINF:-1,Outdoor HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FOutdoorHD&login=edemm999&key=cgxNbd7
+http://93.125.34.51:30000/OutdoorHD/index.m3u8
+#EXTINF:-1,AnimalPlanet HD
+http://93.125.34.51:30000/AnimalPlanetHD/index.m3u8
+#EXTINF:-1,Эврика HD
+http://78.29.1.81/live/hd_eureka/copy/playlist.m3u8
+#EXTINF:-1,Travel + Adventure HD
+http://93.125.34.51:30000/TravelAdventureHD/index.m3u8
 #EXTINF:-1,Планета HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fplanetahd&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Поехали
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FPoexali&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Приключения HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTeletravelHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Food Network
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FFoodNetwork&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Food Network HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Ffoodnetworkhdrt&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Психология 21
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FPsihologia21&login=edemm999&key=cgxNbd7
-#EXTINF:-1,MyZen TV HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fmyzentvhd&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Tnomer
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTnomer&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Bambarbia
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBambarbia&login=edemm999&key=cgxNbd7
-#EXTINF:-1,BambarbiaHD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBambarbiaHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Boomerang
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBoomerangNTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,CBS Reality
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FCBSReality&login=edemm999&key=cgxNbd7
-#EXTINF:-1,CGTN Россия
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FCGTNRussia&login=edemm999&key=cgxNbd7
-#EXTINF:-1,NHK World
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fnhkworld&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Insight HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FInsightUHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Еда
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FEda&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Еда Премиум HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fedahd&login=edemm999&key=cgxNbd7
-#EXTINF:-1,ZooPark
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FZooparkNTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Домашние животные
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDomashnieZhivotnie&login=edemm999&key=cgxNbd7
-#EXTINF:-1,В мире животных HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FAnimalFamelyHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Глазами туриста HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FGlazamiTuristaHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Диалоги о рыбалке
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDialogiorubalke&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Диалоги о рыбалке HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fdialogiorubalkehd&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Дикая Охота HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDikayaOxotaHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Дикая Рыбалка HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDikayaRybalkaHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Дикий
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDikiy&login=edemm999&key=cgxNbd7
-#EXTINF:-1,История
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FIstoriya&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Дача
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDacha&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Дача HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDachaHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Вопросы и ответы
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FVoprosyiotvety75e&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Живая Природа HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FZhivajaPrirodaHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Живая планета
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FZhivayaPlaneta&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Живи
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FZhivi&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Живи HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FZhiviHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Ретро
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FRetro&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Морской
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMorskoy&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Морской HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fmorskojhd&login=edemm999&key=cgxNbd7
+http://93.125.34.51:30000/PlanetaHD/index.m3u8
+#EXTINF:-1,Fine Living
+http://93.125.34.51:30000/FineLiving/index.m3u8
 #EXTINF:-1,Моя Планета
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMoyaPlaneta&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Наука
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNauka&login=edemm999&key=cgxNbd7
+http://93.125.34.51:30000/MoyaPlaneta/index.m3u8
 #EXTINF:-1,Наука 2.0
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNauka20&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Мужской
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMuzskoy&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Загородная жизнь
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FZagorodnayaZizn&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Епоха
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FEpoque&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Етно HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FEtnoHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Жара
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FZhara&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Жара HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FZharaHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Совершенно секретно
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FSovsekretno&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Страна советов
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FStranaSovetov&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Супер
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FSuper&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Твой Дом HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Ftvoidomhd&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Твой дом
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTvoyDom&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Телепутешествия
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTeleputishestvie&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Терра
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTerra&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Техно 24
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTexno24&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Тлум HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTlumHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Точка ТВ
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTochkaTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Точка отрыва
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTochkaOtriva&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Трофей
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTrofey&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Трофей HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTrofeyHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Усадьба
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FUsadba&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Фауна
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FFauna&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Бобер
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBober&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Доктор
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDoktor&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Доктор HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDoktorHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Здоровое ТВ
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FZdorovoeTv75e&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Здоровье
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTonusTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Кто есть кто
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKtoestkto&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Кухня ТВ
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKuxniyaTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Красная линия
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKrasnayaLiniya&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Оружие
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Forujie&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Охота и рыбалка
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FOhotairubalka&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Охотник и рыболов HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fohotnikiribakhd&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Первый Вегетарианский
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FPervijVegetarianskiy&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Первый Метео
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMeteo&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Первый Образовательный
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FPervijObrazovatelyi&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Первый автомобильный
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FPervijAvtomobilnyi&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Драйв
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDrive75e&login=edemm999&key=cgxNbd7
+http://93.125.34.51:30000/Nauka20/index.m3u8
+#EXTINF:-1,24 Техно
+http://93.125.34.51:30000/24Techno/index.m3u8
+#EXTINF:-1,Нано ТВ
+http://93.125.34.51:30000/NanoTV/index.m3u8
 #EXTINF:-1,Ностальгия
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNostalgia&login=edemm999&key=cgxNbd7
+http://93.125.34.51:30000/Nostalgia/index.m3u8
+#EXTINF:-1,Ретро
+http://93.125.34.51:30000/Retro/index.m3u8
+#EXTINF:-1,Совершенно секретно
+http://93.125.34.51:30000/SovershenoSekretno/index.m3u8
+#EXTINF:-1,365 дней
+http://93.125.34.51:30000/365dnei/index.m3u8
+#EXTINF:-1,Ocean TV
+http://93.125.34.51:30000/OCEAN-TV/index.m3u8
+#EXTINF:-1,Boomerang
+http://93.125.34.51:30000/Boomerang/index.m3u8
+#EXTINF:-1,Бобёр
+http://93.125.34.51:30000/Bober/index.m3u8
+#EXTINF:-1,Психология 21
+http://93.125.34.51:30000/Psikhologiya21/index.m3u8
+#EXTINF:-1,Вопросы и ответы
+http://93.125.34.51:30000/Voprosy_i_Otvety/index.m3u8
+#EXTINF:-1,Кто есть кто
+http://93.125.34.51:30000/Kto_est_kto/index.m3u8
+#EXTINF:-1,Усадьба
+http://93.125.34.51:30000/Usadba/index.m3u8
+#EXTINF:-1,Оружие
+http://93.125.34.51:30000/Oruzhie/index.m3u8
+#EXTINF:-1,Мужской
+http://93.125.34.51:30000/Muzhskoy/index.m3u8
+#EXTINF:-1,Охота и рыбалка
+http://93.125.34.51:30000/Okhota_i_Rybalka/index.m3u8
+#EXTINF:-1,Zooпарк
+http://93.125.34.51:30000/ZooPark/index.m3u8
+#EXTINF:-1,Домашние животные
+http://93.125.34.51:30000/DomashnieZhivotnye/index.m3u8
+#EXTINF:-1,Драйв
+http://93.125.34.51:30000/Drive/index.m3u8
 #EXTINF:-1,Авто 24
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FAvto24&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Авто 24 HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Favto24hd&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Авто плюс
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FAvtoplus&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Fuel HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Ffueltvhd&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Galaxy
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FGalaxy&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Game Toon HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FGameToonHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,E TV
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FGameShow&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Fashion TV
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FFashionTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,HD Fashion
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FHDFashion&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Fashion TV HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FFashionTVHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,ID Fashion HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FIDFashionHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,FashionBox HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FFashionBox&login=edemm999&key=cgxNbd7
-#EXTINF:-1,World Fashion
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FWorldFashionNTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Большая Азия HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fbolshajaasia&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Eurosport 1
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FEurosport1&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Eurosport 1 HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FEurosport1HD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Eurosport 2
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FEurosport2&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Eurosport 2 HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FEurosport2HD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Eurosport 4K
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FEurosport4K&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Eurosport Gold
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Feurosportgold&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Eurosport Gold HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Feurosportgoldhd&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Viasat Sport
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FViasatSportNTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Viasat Sport HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FViasatSportHDNTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Viasat Sport Premium HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FViasatSportPremiumHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Моторспорт ТВ HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMotorsports&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Xsport
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FXsport&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Xsport HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FXsportHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Extreme Sports
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FExtremeSports&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Сетанта Евразия HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FSetantaEurasiaHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Сетанта Спорт HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FSetantaHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,NBA TV
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNBATV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,FastFun HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FFastFunHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,FastFunBox
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FFastnfunbox&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Русский Экстрим
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FRussianExtremeSD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Русский Экстрим HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FRussianEkstrimHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,FightBox
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FFightbox&login=edemm999&key=cgxNbd7
-#EXTINF:-1,FightBox HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FFightBoxHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,M1 Global
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FM1Global&login=edemm999&key=cgxNbd7
-#EXTINF:-1,ACB TV
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FABCTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,BT Sport 1 HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBT1&login=edemm999&key=cgxNbd7
-#EXTINF:-1,BT Sport 2 HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBT2&login=edemm999&key=cgxNbd7
-#EXTINF:-1,BT Sport 3 HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBT3&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Super Tennis HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FSuperTennisHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,OBOZ TV
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FOBOZTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,OBOZ TV HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FOBOZTVHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Nickelodeon
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNickelodeon&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Nickelodeon HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNickelodeonHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Nick Jr
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNickJr&login=edemm999&key=cgxNbd7
-#EXTINF:-1,NIKI Junior
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNIKIJunior&login=edemm999&key=cgxNbd7
-#EXTINF:-1,NIKI Junior HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNIKIJuniorHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,NIKI Kids
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNIKIKids&login=edemm999&key=cgxNbd7
-#EXTINF:-1,NIKI Kids HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNIKIKidsHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,2x2
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2F2x2&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Disney Junior
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDisneyJunior&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Disney XD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDisneyXDLTRU&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Канал Disney
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDisney&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Канал Disney +4
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fdianeyplus4&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Канал Disney +7
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDisneyplus7&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Карусель
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKarusel&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Jim Jam
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FJimJam&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Tiji
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTiji&login=edemm999&key=cgxNbd7
-#EXTINF:-1,KidZone
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKidZone&login=edemm999&key=cgxNbd7
-#EXTINF:-1,KidZone HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKidzoneHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Ginger HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FGingerHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Gulli Girl
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FGulliGirl&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Cartoon Network
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FCartoonNetwork&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Cartoon Network HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fcartoonnetworkhd&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Ani
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FAni&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Детский
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDetskiy&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Детский мир
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDetskiyMirNTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Baby TV
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBabyTVXTRA&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Duck TV
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDuckTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Pingviniukas
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FPingvinukas&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Малыш
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMalysh&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Малятко ТВ
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMalatkoTV&login=edemm999&key=cgxNbd7
+http://93.125.34.51:30000/Avto24/index.m3u8
+#EXTINF:-1,Авто Плюс
+http://93.125.34.51:30000/AvtoPlus/index.m3u8
+#EXTINF:-1,Доктор
+http://93.125.34.51:30000/24Dok/index.m3u8
+#EXTINF:-1,Здоровое ТВ
+http://93.125.34.51:30000/ZdorovoeTV/index.m3u8
+#EXTINF:-1,Жара
+http://93.125.34.51:30000/ZHARA/index.m3u8
+#EXTINF:-1,Живи
+http://93.125.34.51:30000/Zhivi/index.m3u8
+#EXTINF:-1,Загородная жизнь
+http://93.125.34.51:30000/ZagorodnayaZhizn/index.m3u8
+#EXTINF:-1,Кухня ТВ
+http://93.125.34.51:30000/Kuhnya/index.m3u8
+#EXTINF:-1,Ля-Минор
+http://93.125.34.51:30000/LaMinor/index.m3u8
 #EXTINF:-1,Мама
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMama&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Крапуз ТВ
-http://online.karapuztv.ru/content/33418/index.m3u8?token=karapuztv2018
+http://93.125.34.51:30000/Mama/index.m3u8
+#EXTINF:-1,Морской
+http://93.125.34.51:30000/Morskoy/index.m3u8
+#EXTINF:-1,Тлум HD
+http://93.125.34.51:30000/Tlum_HD/index.m3u8
+#EXTINF:-1,DTX
+http://182.73.122.74:10005/bysid/407
+#EXTINF:-1,da vinci
+http://stream.euroasia.lfstrm.tv/da_vinci/1/index.m3u8
+#EXTINF:-1,Da Vinci Learning
+http://stream.euroasia.lfstrm.tv/da_vinci_learning/1/index.m3u8
+#EXTINF:-1,Viasat Explore
+http://stream.euroasia.lfstrm.tv/viasat_explore/1/index.m3u8
+#EXTINF:-1,Viasat Explorer
+http://ott-cdn.ucom.am/s72/index.m3u8
+#EXTINF:-1,Viasat History
+http://stream.euroasia.lfstrm.tv/viasat_history/1/index.m3u8
+#EXTINF:-1,Viasat History
+http://ott-cdn.ucom.am/s70/index.m3u8
+#EXTINF:-1,Viasat Nature
+http://stream.euroasia.lfstrm.tv/viasat_nature/1/index.m3u8
+#EXTINF:-1,Viasat Nature
+http://ott-cdn.ucom.am/s67/index.m3u8
+#EXTINF:-1,Приключения HD
+http://ott-cdn.ucom.am/s99/index.m3u8
+#EXTINF:-1,Travel channel
+http://stream.euroasia.lfstrm.tv/travel_channel/1/index.m3u8
+#EXTINF:-1,CGTN Русский
+http://live.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1,Silence TV WORLD HD
+http://109.236.85.100:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:-1,Buy Home TV
+http://hls-edge.cdn.buy-home.tv/bhtvlive/_definst_/live/playlist.m3u8
+#EXTINF:-1,Телепутешествия
+http://ott-cdn.ucom.am/s71/index.m3u8
+#EXTINF:-1,Naroddip
+#EXTVLCOPT:http-user-agent=smartlabs
+http://hls.goodgame.ru/hls/33226.m3u8
+#EXTINF:-1,История
+http://ott-cdn.ucom.am/s40/index.m3u8
+#EXTINF:-1,Здоровье
+http://ott-cdn.ucom.am/s90/index.m3u8
+#EXTINF:-1,Зоо ТВ
+http://ott-cdn.ucom.am/s92/index.m3u8
+#EXTINF:-1,24 док
+http://stream.euroasia.lfstrm.tv/24_doc/1/index.m3u8
+#EXTINF:0,Настоящее время
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
+#EXTINF:0,Russian Travel Guide
+http://ott-cdn.ucom.am/s80/01.m3u8
+#EXTINF:-1,Лесной интернет-канал HD
+http://s2.myowntv.org/hls/lesnoy.m3u8
+#EXTINF:-1,Загородный
+http://ott-cdn.ucom.am/s31/index.m3u8
+#EXTINF:-1,RTG
+http://ott-cdn.ucom.am/s80/index.m3u8
+#EXTINF:-1,RTG HD
+http://ott-cdn.ucom.am/s63/index.m3u8
+#EXTINF:0,Luxury
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1,РЖД ТВ HD
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8
+#EXTINF:0,Еда Премиум HD
+http://now2.eaglecdn.com/stream/tveda_12/index.m3u8
+#EXTINF:0,Food Network 
+http://ott-cdn.ucom.am/s18/index.m3u8
+#EXTINF:0,Магия Кухни ТВ
+http://sc.id-tv.kz/MagiyaKuhni_36_37.m3u8
+#EXTINF:-1,Renome
+http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
+#EXTINF:-1,Рыбалка и охота
+http://stream.euroasia.lfstrm.tv/ohota/1/index.m3u8
+#EXTINF:-1,Авто плюс
+http://stream.euroasia.lfstrm.tv/auto_plus/1/index.m3u8
+#EXTINF:-1,Gamechanel
+#EXTVLCOPT:http-user-agent=smartlabs
+http://hls.goodgame.ru/hls/152506.m3u8
+#EXTINF:0,Travel HD BG
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+#EXTINF:0,Univer TV HD
+http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+#EXTINF:0,ID Fashion HD
+http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+#EXTINF:0,World Fashion Channel Россия HD
+http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v1a1/index.m3u8
+#EXTINF:-1,Extreme Sports
+http://93.125.34.51:30000/ExtremeSports/index.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://93.125.34.51:30000/Eurosport1HD/index.m3u8
+#EXTINF:-1,Eurosport 2
+http://93.125.34.51:30000/Eurosport2/index.m3u8
+#EXTINF:-1,Viasat Sport
+http://stream.euroasia.lfstrm.tv/viasat_sport/1/index.m3u8
+#EXTINF:0,Setanta Sport
+http://ott-cdn.ucom.am/s81/index.m3u8
+#EXTINF:-1,Setanta Sport HD
+http://92.46.127.146:8080/SetantaSport/index.m3u8
+#EXTINF:-1,Setanta Sport Plus
+http://stream.euroasia.lfstrm.tv/setanta_sport_plus/1/index.m3u8
+#EXTINF:-1,Setanta Sport Plus HD
+http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
+#EXTINF:-1,Беларусь 5 Спорт
+http://95.46.208.76:9898/belarus5
+#EXTINF:-1,Nickelodeon
+http://93.125.34.51:30000/Nickelodeon/index.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://93.125.34.51:30000/NickelodeonHD/index.m3u8
+#EXTINF:-1,Nick Jr.
+http://93.125.34.51:30000/NickJr/index.m3u8
+#EXTINF:-1,Disney
+http://93.125.34.51:30000/Disney/index.m3u8
+#EXTINF:-1,2х2
+http://93.125.34.51:30000/2x2/index.m3u8
+#EXTINF:-1,Gulli Girl
+http://93.125.34.51:30000/Gulli/index.m3u8
+#EXTINF:-1,JimJam
+http://93.125.34.51:30000/JimJam/index.m3u8
+#EXTINF:-1,Tigi
+http://93.125.34.51:30000/TiJi/index.m3u8
+#EXTINF:-1,Том & Джерри
+http://v2.myowntv.org/content/35845/index.m3u8?seg-uhd-club
+#EXTINF:-1,Карусель
+http://93.125.34.51:30000/Karusel/index.m3u8
+#EXTINF:-1,Рыжий
+http://ott-cdn.ucom.am/s57/index.m3u8
+#EXTINF:-1,Kidzone
+http://88.216.48.14:80/kidzone/live.m3u8
+#EXTINF:-1,Cartoon Network
+http://stream.euroasia.lfstrm.tv/cartoon_network/1/index.m3u8
+#EXTINF:0,Малятко 
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
+#EXTINF:-1,Детский
+http://93.125.34.51:30000/Detsky/index.m3u8
+#EXTINF:-1,Детский мир
+http://93.125.34.51:30000/DetskiMir-TeleKlub/index.m3u8
+#EXTINF:-1,Tuntunik
+http://ott-cdn.ucom.am/s46/index.m3u8
 #EXTINF:-1,Мульт
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMult&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Мульт и музыка
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMultiMusika&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Мультик HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMultikHD&login=edemm999&key=cgxNbd7
+http://93.125.34.51:30000/Mult/index.m3u8
 #EXTINF:-1,Мультимания
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMultimania&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Пес и Ко
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FPesiKo&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Пиксель ТВ
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FPikselTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Пингвин ЛОЛО
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FPingvinLOLORUS&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Bridge Dance
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBridgeDance&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Bridge HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBRIDGEHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Bridge TV
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBridgeTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Bridge TV Classic
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBridgeTVClassic&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Bridge Русский Хит
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBridgeRussianHit&login=edemm999&key=cgxNbd7
-#EXTINF:-1,EU Music
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FEUMusic&login=edemm999&key=cgxNbd7
-#EXTINF:-1,RU TV
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FRUTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,RU TV HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Frutvhd&login=edemm999&key=cgxNbd7
-#EXTINF:-1,EU Music HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FEUMusicHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Clubbing HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fclubbinkhd&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Deluxe Music
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDeluxeMusic&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Lale
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FLale&login=edemm999&key=cgxNbd7
-#EXTINF:-1,MCM Top
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMCMTop&login=edemm999&key=cgxNbd7
-#EXTINF:-1,FilMystic HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FFilMysticHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,1 HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2F1HD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,360 TuneBox HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2F360TuneBoxHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,C music HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FCmusicTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Муз ТВ
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMuzTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,МузСоюз
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMuzSoyuz&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Музыка первого
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMuzikapervogo&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Mezzo
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMezzo&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Mezzo Live HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMezzoLiveHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Monte Karlo Music Radio
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMontekarlomusicradio&login=edemm999&key=cgxNbd7
-#EXTINF:-1,MostVideo HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMostVideoTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,MTV Dance
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMTVDance&login=edemm999&key=cgxNbd7
-#EXTINF:-1,MTV Dance Int
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMTVDanceInt&login=edemm999&key=cgxNbd7
+http://93.125.34.51:30000/Multimania/index.m3u8
+#EXTINF:-1,СКАЗКИ ЗАЙКИ
+http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
+#EXTINF:-1,Малятко ТВ
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8?codec=mpeg4&app=playlist
+#EXTINF:-1,One.by
+http://rtmp.one.by:1200
+#EXTINF:-1,One.by 4K
+http://rtmp.one.by:1499
+#EXTINF:-1,One.by HD
+http://rtmp.one.by:1300
+#EXTINF:-1,One.by Россия
+http://rtmp.one.by:2200
+#EXTINF:-1,One.by Россия HD
+http://rtmp.one.by:2300
+#EXTINF:-1,Техно микс
+http://v1.myowntv.org/content/34763/index.m3u8?token=vk.com/iptv_iptv
+#EXTINF:-1,SONG TV HD Russia
+https://songtvru.ru/lhigh/playlist.m3u8
+#EXTINF:-1,SONG TV FHD Russia
+https://songtvru.ru/hd/playlist.m3u8
+#EXTINF:0,Kronehit HD
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1,KISS TV
+https://fms-https1.mediadirect.ro/live3/_definst_/kiss/playlist.m3u8
+#EXTINF:-1,Kral HD
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+#EXTINF:-1,Kral World HD
+http://stmpo0wa.rocketcdn.com/kralworldtv_720/chunklist.m3u8
+#EXTINF:-1,KRATU
+http://iptv.rubintele.com:8552/play/a008
+#EXTINF:0 type="stream" channelId="-1", HIT TV HD
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
+#EXTINF:-1,NRJ Hits
+http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", NRJ Hits HD
+http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
+#EXTINF:0,1 Music Channel
+http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:-1,O-TV
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
+#EXTINF:-1,М1
+http://212.115.255.197/hls/m1.m3u8
+#EXTINF:-1,М2
+http://212.115.255.197/hls/m2.m3u8
+#EXTINF:0,Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
 #EXTINF:-1,MTV HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fmtvhd&login=edemm999&key=cgxNbd7
-#EXTINF:-1,MTV Hits
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMTVHits&login=edemm999&key=cgxNbd7
-#EXTINF:-1,MTV Hits
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMTVHitsInt&login=edemm999&key=cgxNbd7
-#EXTINF:-1,MTV Live HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMTVLiveHDInt&login=edemm999&key=cgxNbd7
-#EXTINF:-1,MTV Live HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMTVLiveHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,MTV Rocks
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMTVRocks&login=edemm999&key=cgxNbd7
-#EXTINF:-1,MTV Rocks Int
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMTVRocksInt&login=edemm999&key=cgxNbd7
-#EXTINF:-1,MTV Россия
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Museum HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fmuseumhd&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Music Box Россия
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FRussianMusicBox&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Music Box Россия HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Frumusicboxhd&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Music Box Украина
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMusicBoxUA&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Music Box Украина HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMusicBoxUAHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,MusicBox Gold
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMusicBoxGold&login=edemm999&key=cgxNbd7
-#EXTINF:-1,OTV
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FOTV&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Европа плюс HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FEuropaplusHD&login=edemm999&key=cgxNbd7
-#EXTINF:-1,Европа плюс ТВ
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FEuropaPlus&login=edemm999&key=cgxNbd7
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:-1,MTV HITS
+http://182.73.122.74:10005/bysid/412
+#EXTINF:-1,Music Box RU Gold
+http://live-musicbox.cdnvideo.ru/musicbox2/mboxtv.sdp/playlist.m3u8
+#EXTINF:-1,Music Choice
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1,MusicBox UA
+http://212.26.132.86/hls/mb_ua_2500.m3u8
+#EXTINF:0,MusicBox UA
+http://212.26.132.86/hls/mb_ua_2500.m3u8
+#EXTINF:-1,Lale
+http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1,Retro Music Tv 
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1,Релакс
+http://live.planeta-online.tv:1935/public/channel_3/playlist.m3u8
+#EXTINF:,Камин
+http://play.lanet.tv/live/2009.m3u8
 
 #EXTINF:-1 group-title="IPTV-2(slynet)",112 Украина
 http://api.tv.ipnet.ua/api/v1/manifest/1442908080.m3u8?codec=mpeg4
