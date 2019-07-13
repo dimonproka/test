@@ -1094,6 +1094,8 @@ http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7/tet/tet.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Интер
 http://109.68.41.148:1935/live/inter_2/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",ICTV
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/ictv/ictv.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",К1
 http://109.68.40.67/life/k1_3/index.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",НТН
@@ -1148,77 +1150,117 @@ http://api.tv.ipnet.ua/api/v1/manifest/1442908080.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",112 HD
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Дом Кино Премиум HD
-http://91.231.219.145:80/tv_dom_kino_premium_HD/playlist.m3u8
+http://193.111.244.23:7777/dom_kino_premium_hd/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Дом кино премиум HD
+http://tvport.it-tele.net:8000/66b737995212187db9a8bb26bdb4ba02
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Шокирующее HD
 http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Комедийное HD
 http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Остросюжетное HD
-http://188.35.9.11:2015
+http://tvport.it-tele.net:8000/309be0ff6f8765e5845126c377df8bd5
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",ViP Comedy
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7/vipcomedy/vipcomedy.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",VIP Megahit
-http://188.35.9.11:2016
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",VIP Premiere
-http://188.35.9.11:2013
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",ViP Megahit
+http://kv-3ln-n01.ollcdn.net/hls-tv/22/128147971028ef43d29d88c5490c0005/5ca630d7/vipmegahithd/vipmegahithd.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",ViP Premiere
+http://kv-3ln-n01.ollcdn.net/hls-tv/22/128147971028ef43d29d88c5490c0005/5ca630d7/vippremierehd/vippremierehd.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",TV1000
+http://185.129.1.242/tv1000/index.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",TV1000
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7/tv1000/tv1000.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",TV1000
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/619.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",TV1000 ACTION
+http://194.44.203.253/hls/123/stream.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",TV1000 Action
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7/tv1000action/tv1000action.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",TV1000 Action
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/959.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",TV1000 Русское кино
+http://185.129.1.242/tv1000ruskoekino/index.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",TV1000 Русское кино
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7/tv1000ruskino/tv1000ruskino.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",TV1000 Русское кино
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/539.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Holywood
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/238.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Bollywood HD
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/741.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Fox HD
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/469.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Fox Life HD
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/470.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Paramount Comedy
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/529.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",TV1000 WORLD KINO
+http://194.44.203.253/hls/40/stream.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Hollywood HD
+http://82.202.163.118:80/0130/mono.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",bollywood
+http://185.129.1.242/bollywoodtv/index.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Bollywood
+http://77.245.98.22:8000/play/403/index.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",FOX
+http://82.202.163.118:80/0115/mono.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",FOX
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/fox/fox.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",FOX life
+http://82.202.163.118:80/0114/mono.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",FOX life
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/foxlife/foxlife.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",FOX Life HD
+http://109.235.192.213:4022/azrtv/11
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",paramaunt comedy
+http://185.129.1.242/paramauntcomedy/index.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Paramount channel
+http://185.129.1.242/paramountchannel/index.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",U.HD
 http://95.216.143.86:8888/live/uhd/playlist.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",CINEMA
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/262.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",КиноХит
-http://77.245.98.22:8000/play/321/index.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Дом Кино
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/215.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",КиноДром
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/1036.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",КиноСвидание
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/879.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Кинокомедия
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/119.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Киномикс
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/885.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Кинопремьера HD
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/706.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Киносемья HD
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/1011.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Киносерия
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/74.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Enter-Фильм
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7/enterfilm/enterfilm.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Epic Drama
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/epicdrama/epicdrama.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Star Cinema HD
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/starcinemahd/starcinemahd.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Star Family
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/starfamily/starfamily.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Film Ua Drama
+http://hls.telenet.lv:7878/FilmUaDrama/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Film Zone
+http://hls.telenet.lv:7878/filmzone/playlist.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Кинохит
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/707.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",ЕвроКино
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/903.m3u8
+http://185.129.1.242/kinoxit/index.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Дом Кино
+http://193.111.244.23:7777/dom_kino/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Кино ТВ
+http://185.129.1.242/kinotv/index.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Кино ТВ HD
+http://193.111.244.23:7777/kino_tv_hd/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Кинопремиум HD
+http://tvport.it-tele.net:8000/fa6eca5757e2029ce6f0e5e9ff90d952
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Кинокомедия
+http://185.129.1.242/kinokomedia/index.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Кинокомедия HD
+http://hls.telenet.lv:7878/kinokomedijaHD/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Киномикс
+http://185.129.1.242/kinomiks/index.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Киномикс HD
+http://hls.telenet.lv:7878/kinomiksHD/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Кинопремьера
+http://109.235.192.213:4022/azrtv/116
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Кинопремьера HD
+http://tvport.it-tele.net:8000/fefd227015ff8ac044cefb4ae595507d
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Киносерия
+http://185.129.1.242/kinoseria/index.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Киносерия HD
+http://hls.telenet.lv:7878/kinoserijaHD/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Киносвидание
+http://82.202.163.118:80/092/mono.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Киносемья
+http://82.202.163.118:80/091/mono.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Комедия
+http://185.129.1.242/telekanalkomedia/index.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Еврокино
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7/evrokino/evrokino.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Индийское Кино
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/229.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Индийское кино
+http://185.129.1.242/indiskoekino/index.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Индийское кино
+http://82.202.163.118:80/097/mono.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Мужское кино
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/246.m3u8
+http://185.129.1.242/mujskoekino/index.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Наше новое кино
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/882.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Родное кино
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/960.m3u8
+http://185.129.1.242/nashenovoekino/index.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Наше новое кино HD
+http://hls.telenet.lv:7878/nashenovoekinoHD/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Роднеое кино
+http://185.129.1.242/rodnoekino/index.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Мир сериала
+http://185.129.1.242/mirseriala/index.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Любимое.TV
 http://live.planeta-online.tv:1935/public/channel_6/playlist.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Русский Бестселер
@@ -1242,12 +1284,6 @@ http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
 http://hls.goodgame.ru/hls/159693.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",312 Кино HD
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Spike HD
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/1018.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Sony Sci-Fi
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/207.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Sony Turbo
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/456.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Amedia Premium
 http://92.43.140.249/s64/04.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Amedia 1 
@@ -1267,18 +1303,22 @@ http://82.193.71.93/Kino24LV/video.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",DOCENT 13
 #EXTVLCOPT:http-user-agent=smartlabs
 https://hls.goodgame.ru/hls/64556.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Кинозал Зарубежная киноклассика
-http://streams.tv.mts.by/zarubezhnaya_classica/1/index.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Кинозал Советская киноклассика
-http://streams.tv.mts.by/soviet_classic/1/index.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Кинозал Индийская киноклассика
-http://streams.tv.mts.by/indiyskaya_classica/1/index.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Кинозал Классика Голливуда
-http://streams.tv.mts.by/hollywood_classic/1/index.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",ВИДЕОСАЛОН VHS
+#EXTVLCOPT:http-user-agent=smartlabs
+https://hls.goodgame.ru/hls/151157.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Видеосалон VHS
+http://51.254.59.155/hls/vhstv.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Sever tv kino
+https://s.catcast.me/hls/sever_tvkino.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Severtv Kino
+#EXTVLCOPT:http-user-agent=smartlabs
+https://hls.goodgame.ru/hls/146065.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",КиноЗаказ 1
 http://hls.goodgame.ru/hls/12949.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",КиноЗаказ 2
 http://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",CCCP
+https://v3.catcast.me/contentv2/36506/index.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Сделано в СССР
 http://ussr.playlist-24.club/vFrwZBu0/p19YTcSe/playlist.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",TV PRO
@@ -1303,40 +1343,70 @@ http://ott-cdn.ucom.am/s94/04.m3u8
 http://ott-cdn.ucom.am/s22/index.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",НТМ HD
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Discovery
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/154.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",NASA TV
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/17.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Nat Geo Wild
-http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7/natgeowild/natgeowild.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Nat Geo Wild
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/177.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Победа
+http://ott-cdn.ucom.am/s47/index.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Discovery Channel HD
+http://82.202.163.118:80/047/mono.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",discovery science
+http://185.129.1.242/discoveryscience/index.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Discovery Science
+http://tvport.it-tele.net:8000/fae5e9752a49e0cebbdb07ca0f1abc60
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Discovery Science HD
+http://82.202.163.118:80/048/mono.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Discovery Showcase HD
+http://50.7.244.58:18526
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Discovery Turbo Xtra HD
+http://82.202.163.118:80/049/mono.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Investigation Discovery
+http://82.202.163.118:80/051/mono.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",National Geographic
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7/nationalgeographic/nationalgeographic.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",National Geographic
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/107.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",National Geographic HD
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/1047.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",NAVIGATOR TV
-http://46.149.48.13:8000/play/a01r/index.m3u8
+http://pub1-cdn.perm.ertelecom.ru/natgeohd_gibrid/0/track_2_4000/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Nat Geo Wild
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7/natgeowild/natgeowild.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Nat Geo Wild HD
+http://pub1-cdn.perm.ertelecom.ru/natgeowildhd_gibrid/0/track_2_4000/playlist.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",TLC
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/254.m3u8
+http://185.129.1.242/tlc/index.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",TLC
+http://82.202.163.118:80/052/mono.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Animal Planet
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/124.m3u8
+http://185.129.1.242/animalplanet/index.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Animal Planet
+http://tvport.it-tele.net:8000/b9822568a5d05813b058193c94a27c39
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Animal Planet
+http://pub1-cdn.perm.ertelecom.ru/animalplanet_gibrid/0/track_2_4000/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",DTX
+http://109.235.192.213:4022/azrtv/83
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",DTX
 http://182.73.122.74:10005/bysid/407
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",FINE LIVING
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/552.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Fine Living
 http://ott-cdn.ucom.am/s51/index.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Travel Channel
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/248.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Travel+Adventure HD
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/964.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Travel Channel HD
+http://82.202.163.118:80/072/mono.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Travel Channel HD
+http://46.32.68.167/s/live/925/86.169.51.136/1/0.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Travel+ Adventure HD
+http://46.32.68.167/s/live/904/86.169.51.136/1/0.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Travel+Adventure
+http://82.202.163.118:80/073/mono.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Travel Guid-TV
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Travel HD BG
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",history
+http://185.129.1.242/history/index.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",HISTORY
+http://82.202.163.118:80/050/mono.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",History
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/history/history.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",History HD
+http://hls.telenet.lv:7878/history/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Galaxy
+http://pub1-cdn.perm.ertelecom.ru/galaxy_gibrid/0/track_2_4000/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Ginger HD
+http://78.29.1.70/live/ginger_hd/copy/playlist.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Вмире Животных HD
 http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/991.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Эврика
@@ -1349,12 +1419,16 @@ http://nano.teleservice.su:8080/hls/nano.m3u8
 http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/129.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Da Vinci Kids
 http://213.174.8.7:11111/index.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Viasat Explorer
-http://ott-cdn.ucom.am/s72/index.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Viasat History
-https://hls-viasat.cdnvideo.ru/hls/relay/1501746731655/index.m3u8?md5=2Dxnjzcr2UxtTABLqdfYTA&e=1541934953&hls_proxy_host=97544926393025ab05ebfb4dc3486095
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Viasat Nature
-http://ott-cdn.ucom.am/s67/index.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Da Vinci Learning
+http://pub1-cdn.perm.ertelecom.ru/davinci_gibrid/0/track_2_4000/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",viasat explorer
+http://185.129.1.242/viasatexplorer/index.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",viasat history
+http://185.129.1.242/viasathistory/index.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",viasat nature
+http://185.129.1.242/viasatnature/index.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Viasat Nature/History HD
+http://82.202.163.118:80/066/mono.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Приключения
 http://ott-cdn.ucom.am/s99/index.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Наука 2.0
@@ -1439,18 +1513,22 @@ http://hls.goodgame.ru/hls/152506.m3u8
 http://brodilo.tv/channel.php
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Univer TV HD
 http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",NAVIGATOR TV
+http://46.149.48.13:8000/play/a01r/index.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",ID Fashion HD
 http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",World Fashion Channel Россия HD
 http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Russian Extreme
-http://ott-cdn.ucom.am/s47/index.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Extreme Sports
+http://194.44.203.253/hls/93/stream.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Eurosport 1
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/178.m3u8
+http://109.235.192.213:4022/azrtv/68
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Eurosport 2
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/143.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",МАТЧ!
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/780.m3u8
+http://194.44.203.253/hls/117/stream.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",viasat sport
+http://185.129.1.242/viasatsport/index.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Viasat sport HD
+http://193.111.244.23:7777/viasat_sport_hd/playlist.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",МАТЧ! АРЕНА
 http://46.19.43.248:9981/stream/channelid/1313029335
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",МАТЧ! БОЕЦ
@@ -1460,27 +1538,15 @@ http://46.19.43.248:9981/stream/channelid/1405443465
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",МАТЧ! НАШ СПОРТ
 http://46.19.43.248:9981/stream/channelid/1951989673
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",МАТЧ! ФУТБОЛ 1
-http://188.35.9.11:2025
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",МАТЧ! ФУТБОЛ 1
 http://46.19.43.248:9981/stream/channelid/354688218
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",МАТЧ! ФУТБОЛ 2
-http://188.35.9.11:2026
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",МАТЧ! ФУТБОЛ 2
 http://46.19.43.248:9981/stream/channelid/1669396465
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",МАТЧ! ФУТБОЛ 2 HD
-http://188.35.9.11:2011
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",МАТЧ! ФУТБОЛ 3
-http://188.35.9.11:2027
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",МАТЧ! ФУТБОЛ 3
 http://46.19.43.248:9981/stream/channelid/2058911058
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",МАТЧ! ФУТБОЛ 3 HD
-http://188.35.9.11:2012
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",МАТЧ! Футбол 2 HD
 http://83.174.198.141/Futbol2HD.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",МАТЧ! Футбол 3 HD
 http://83.174.198.141/Futbol3HD.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",NBA TV
-http://151.237.84.98:5199
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Setanta Sport
 http://ott-cdn.ucom.am/s81/index.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Setanta Sport HD
@@ -1490,7 +1556,7 @@ http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Беларусь 5 Спорт
 http://95.46.208.76:9898/belarus5
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Nickelodeon
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/460.m3u8
+http://pub1-cdn.perm.ertelecom.ru/nickelodeon_gibrid/0/track_2_4000/playlist.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Nicki Junior
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7/nikijunior/nikijunior.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Nicki Junior HD
@@ -1499,16 +1565,22 @@ http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7/nikikids/nikikids.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Nicki Kids HD
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7/nikikidshd/nikikidshd.m3u8
-#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",TiJi
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/243.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Gulli
+http://pub1-cdn.perm.ertelecom.ru/gulli_gibrid/0/track_2_4000/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Jim Jam
+http://pub1-cdn.perm.ertelecom.ru/jimjam_gibrid/0/track_2_4000/playlist.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Tiji
 http://ott-cdn.ucom.am/s59/index.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Disney канал
 http://95.216.187.219:8080/081-disney
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",cartoon network
+http://185.129.1.242/cartoonnetworkrus/index.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",2x2
 http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/220.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",2x2
 http://video-4-306.rutube.ru/stream/10113616/5c7a9178adf67b6976216334abb42f4f/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Kidzone
+http://hls.telenet.lv:7878/kidzone/playlist.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",BigBuckBunny HD
 http://live.mdcgate.com:8080/hls/bigbuckbunny.m3u8
 #EXTINF:-1 group-title="IPTV-1(smarttvapp2)",Рыжий
