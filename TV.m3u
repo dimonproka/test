@@ -3409,3 +3409,18 @@ http://yurgan.bonus-tv.ru/cdn/yurgan/tracks-v1a1/index.m3u8
 http://live-saha.cdnvideo.ru/saha/yak24/playlist.m3u8
 #EXTINF:-1 group-title="IPTV-3(listiptv)",Ямал-Регион (Салехард)
 http://live-yamalregion.cdnvideo.ru/yamalregion/yamalregion.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV-4(18+)",Jasmin TV (18+)
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-4(18+)",Jasmin TV HD (18+)
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-4(18+)",VISIT-X TV (18+)
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-4(18+)",Cento X Cento TV (18+)
+http://37.9.0.201:8811
+#EXTINF:-1 group-title="IPTV-4(18+)",Dusk (18+)
+http://37.9.0.201:8890
+#EXTINF:-1 group-title="IPTV-4(18+)",Passione TV (18+)
+http://37.9.0.201:8888
+#EXTINF:-1 group-title="IPTV-4(18+)",Evil Angel TV (18+)
+http://37.9.0.201:8889
