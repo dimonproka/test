@@ -39,7 +39,7 @@ http://tv.shtorm.com/air/018/index.m3u8
 http://tv.shtorm.com/air/023/index.m3u8
 #EXTINF:-1 group-title="Shtorm", Черноморская ТРК
 http://tv.shtorm.com/air/024/index.m3u8
-#EXTINF:-1 tvg-name="Винтаж", Винтаж ТВ
+#EXTINF:-1 group-title="Shtorm", Винтаж ТВ
 http://tv.shtorm.com/air/026/index.m3u8
 #EXTINF:-1 group-title="Shtorm", Индиго
 http://tv.shtorm.com/air/028/index.m3u8
