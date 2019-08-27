@@ -241,28 +241,50 @@ http://webcam.shtorm.com/camera/CAM17/17.m3u8
 #EXTINF:-1 group-title="Камеры", Александрия, просп. Соборный
 http://webcam.shtorm.com/camera/CAM18/18.m3u8
 
+#EXTINF:-1 group-title="IPTV-1",Первый
+http://188.128.15.118:8080/play/a1
+#EXTINF:-1 group-title="IPTV-1",Первый
+http://188.128.15.118:8080/play/a218
+#EXTINF:-1 group-title="IPTV-1",Первый
+http://212.112.101.69:8081/stream05/output.m3u8
 #EXTINF:-1 group-title="IPTV-1",Первый Канал
 http://79.135.71.195:7777
-#EXTINF:-1 group-title="IPTV-1",Первый канал
-http://182.73.122.74:10005/bysid/414
-#EXTINF:-1 group-title="IPTV-1",Известия
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-1",Первый Канал HD
+http://188.35.9.5:10005/stolen/103r/imposter.rar
+#EXTINF:-1 group-title="IPTV-1",Первый городской Калининград
+http://live-1gorodskoi.cdnvideo.ru/1gorodskoi/klg.sdp/playlist.m3u8
 #EXTINF:-1 group-title="IPTV-1",Первый городской Киров
 http://live-1gorodskoi.cdnvideo.ru/1gorodskoi/1kirov.sdp/playlist.m3u8
-#EXTINF:-1 group-title="IPTV-1",Первый Городской Калининград
-http://live-1gorodskoi.cdnvideo.ru/1gorodskoi/klg.sdp/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-1",Первый городской Нижний Новгород
+http://live-1gorodskoi.cdnvideo.ru/1gorodskoi/nn.sdp/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-1",Первый канал
+http://46.18.202.220:8879/Perviy/ch1.m3u8
+#EXTINF:-1 group-title="IPTV-1",Первый канал
+http://176.114.16.54:80/ort/index.m3u8
+#EXTINF:-1 group-title="IPTV-1",Первый канал
+http://78.29.1.82/live/1kanal/copy/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-1",Первый канал
+http://gorod.tv/s/live/1/178.141.19.226/1561206607632/0.m3u8
+#EXTINF:-1 group-title="IPTV-1",Первый канал
+http://ott-cdn.ucom.am/s14/index.m3u8
+#EXTINF:-1 group-title="IPTV-1",Первый канал Europe
+http://91.194.72.46:10051/play/1TVRUS_Europe/index.m3u8
+#EXTINF:-1 group-title="IPTV-1",Первый канал HD
+http://176.114.16.54:80/1HD/index.m3u8
+#EXTINF:-1 group-title="IPTV-1",Первый канал HD
+http://31.185.0.40:8080/OrtHD/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-1",Первый канал HD +4
+http://188.128.15.118:8080/play/a98
+#EXTINF:-1 group-title="IPTV-1",Известия
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="IPTV-1",Московский образовательный ТВ HD
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
-#EXTINF:-1 group-title="IPTV-1",Россия РТР
-http://ott-cdn.ucom.am/s15/index.m3u8
+#EXTINF:-1 group-title="IPTV-1",Россия HD
+http://188.128.15.118:8080/play/a172
 #EXTINF:-1 group-title="IPTV-1",Россия 1
-http://79.135.71.195:7778
-#EXTINF:-1 group-title="IPTV-1",Россия1
-http://182.73.122.74:10005/bysid/403
+http://188.128.15.118:8080/play/a2
 #EXTINF:-1 group-title="IPTV-1",Россия 24
-http://ott-cdn.ucom.am/s21/index.m3u8
-#EXTINF:-1 group-title="IPTV-1",Россия К
-http://ott-cdn.ucom.am/s16/index.m3u8
+http://188.128.15.118:8080/play/a16
 #EXTINF:-1 group-title="IPTV-1",Мир 
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/chunklist.m3u8
 #EXTINF:-1 group-title="IPTV-1",Мир HD
@@ -272,39 +294,43 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 #EXTINF:-1 group-title="IPTV-1",Мир 24 HD 
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="IPTV-1",ТНТ
-http://182.73.122.74:10005/bysid/413
-#EXTINF:-1 group-title="IPTV-1",ТНТ
-http://ott-cdn.ucom.am/s19/index.m3u8
+http://188.128.15.118:8080/play/a19
+#EXTINF:-1 group-title="IPTV-1",ТНТ4
+http://188.128.15.118:8080/play/a58
 #EXTINF:-1 group-title="IPTV-1",НТВ
-http://95.216.187.219:8080/000-ntv
-#EXTINF:-1 group-title="IPTV-1",НТВ мир
-http://ott-cdn.ucom.am/s17/index.m3u8
-#EXTINF:-1 group-title="IPTV-1",Звезда HD 
-http://livezvezda.cdnvideo.ru/zv/zvezda1.sdp/playlist.m3u8
+http://188.128.15.118:8080/play/a93
+#EXTINF:-1 group-title="IPTV-1",Звезда
+http://188.128.15.118:8080/play/a55
 #EXTINF:-1 group-title="IPTV-1",НАШЕ ТВ
 http://hls-01-nashetv.magonet.ru/nashetv/live/index.m3u8
-#EXTINF:-1 group-title="IPTV-1",ННТВ
-http://live-nntv.cdnvideo.ru/nntv/nntv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="IPTV-1",360 HD
 http://360tv-cdn.facecast.io/360/channel2/1.m3u8
 #EXTINF:-1 group-title="IPTV-1",360 Новости HD
 http://360tv-cdn.facecast.io/360/channel1/1.m3u8
 #EXTINF:-1 group-title="IPTV-1",Рен ТВ
-http://ott-cdn.ucom.am/s85/index.m3u8
-#EXTINF:-1 group-title="IPTV-1",ОТР
-http://live-otronline.cdnvideo.ru/otr-decklink/otr/playlist.m3u8
+http://188.128.15.118:8080/play/a7
 #EXTINF:-1 group-title="IPTV-1",Домашний
-http://ott-cdn.ucom.am/s88/index.m3u8
+http://188.128.15.118:8080/play/a8
+#EXTINF:-1 group-title="IPTV-1",ОТР
+http://188.128.15.118:8080/play/a145
 #EXTINF:-1 group-title="IPTV-1",СТС
-http://ott-cdn.ucom.am/s52/index.m3u8
+http://188.35.9.11:21101/udp/131p
+#EXTINF:-1 group-title="IPTV-1",СТС
+http://176.114.16.54:80/sts/index.m3u8
 #EXTINF:-1 group-title="IPTV-1",Пятница
-http://ott-cdn.ucom.am/s50/index.m3u8
+http://188.128.15.118:8080/play/a4
+#EXTINF:-1 group-title="IPTV-1",ТВ-3
+http://188.128.15.118:8080/play/a15
 #EXTINF:-1 group-title="IPTV-1",ТВЦ
-http://ott-cdn.ucom.am/s54/index.m3u8
-#EXTINF:-1 group-title="IPTV-1",Сарафан
-http://ott-cdn.ucom.am/s38/index.m3u8
-#EXTINF:-1 group-title="IPTV-1",Че (Север ) +2
-http://tvsever.ru:8080/hls/ach2.m3u8
+http://188.128.15.118:8080/play/a6
+#EXTINF:-1 group-title="IPTV-1",Супер
+http://188.128.15.118:8080/play/a269
+#EXTINF:-1 group-title="IPTV-1",Че +7
+http://188.128.15.118:8080/play/a11
+#EXTINF:-1 group-title="IPTV-1",Ю
+http://188.128.15.118:8080/play/a228
+#EXTINF:-1 group-title="IPTV-1",Перец International
+http://streams.tv.mts.by/peretz_int/1/index.m3u8
 #EXTINF:-1 group-title="IPTV-1",Крик ТВ
 http://cdn-01.bonus-tv.ru:8080/kriktv_edge/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="IPTV-1",Новый мир
@@ -333,8 +359,6 @@ http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7/tet/tet.m3u8
 #EXTINF:-1 group-title="IPTV-1",Интер
 http://109.68.41.148:1935/live/inter_2/playlist.m3u8
-#EXTINF:-1 group-title="IPTV-1",ICTV
-http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/ictv/ictv.m3u8
 #EXTINF:-1 group-title="IPTV-1",К1
 http://109.68.40.67/life/k1_3/index.m3u8
 #EXTINF:-1 group-title="IPTV-1",НТН
@@ -353,15 +377,19 @@ http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska720p/playlist.m3u8
 #EXTINF:-1 group-title="IPTV-1",112 Украина HD
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 #EXTINF:-1 group-title="IPTV-1",Дом Кино Премиум HD
-http://193.111.244.23:7777/dom_kino_premium_hd/playlist.m3u8
-#EXTINF:-1 group-title="IPTV-1",Дом кино премиум HD
-http://tvport.it-tele.net:8000/66b737995212187db9a8bb26bdb4ba02
+http://188.128.15.118:8080/play/a92
+#EXTINF:-1 group-title="IPTV-1",Ultra HD cinema
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2&hd
 #EXTINF:-1 group-title="IPTV-1",Шокирующее HD
 http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
 #EXTINF:-1 group-title="IPTV-1",Комедийное HD
 http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
-#EXTINF:-1 group-title="IPTV-1",Остросюжетное HD
-http://tvport.it-tele.net:8000/309be0ff6f8765e5845126c377df8bd5
+#EXTINF:-1 group-title="IPTV-1",ViP Comedy
+http://188.128.15.118:8080/play/a273
+#EXTINF:-1 group-title="IPTV-1",ViP Megahit
+http://188.128.15.118:8080/play/a272
+#EXTINF:-1 group-title="IPTV-1",ViP Premiere
+http://188.128.15.118:8080/play/a271
 #EXTINF:-1 group-title="IPTV-1",ViP Comedy
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7/vipcomedy/vipcomedy.m3u8
 #EXTINF:-1 group-title="IPTV-1",ViP Megahit
@@ -374,10 +402,18 @@ http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7/tv1000action/tv1000action.m3u8
 #EXTINF:-1 group-title="IPTV-1",TV1000 Русское кино
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7/tv1000ruskino/tv1000ruskino.m3u8
+#EXTINF:-1 group-title="IPTV-1",TV1000
+http://188.128.15.118:8080/play/a31
+#EXTINF:-1 group-title="IPTV-1",TV1000 Action
+http://188.128.15.118:8080/play/a30
+#EXTINF:-1 group-title="IPTV-1",TV1000 Русское кино
+http://188.128.15.118:8080/play/a35
 #EXTINF:-1 group-title="IPTV-1",Bollywood HD
 http://81.28.160.9/iptv/12207/26007/jTw9YQSafbMK3UAu
 #EXTINF:-1 group-title="IPTV-1",Bollywood
 http://77.245.98.22:8000/play/403/index.m3u8
+#EXTINF:-1 group-title="IPTV-1",312 Кино HD
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 group-title="IPTV-1",FOX
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/fox/fox.m3u8
 #EXTINF:-1 group-title="IPTV-1",FOX life
@@ -388,82 +424,70 @@ http://95.216.143.86:8888/live/uhd/playlist.m3u8
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7/enterfilm/enterfilm.m3u8
 #EXTINF:-1 group-title="IPTV-1",Epic Drama
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/epicdrama/epicdrama.m3u8
-#EXTINF:-1 group-title="IPTV-1",Star Cinema HD
+#EXTINF:-1 group-title="IPTV-1",Star Cinema
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/starcinemahd/starcinemahd.m3u8
 #EXTINF:-1 group-title="IPTV-1",Star Family
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/starfamily/starfamily.m3u8
-#EXTINF:-1 group-title="IPTV-1",КИНОКОМЕДИЯ
-http://tvport.it-tele.net:8000/19caf07012c584095861c7cac8011659
-#EXTINF:-1 group-title="IPTV-1",КИНОМИКС
-http://tvport.it-tele.net:8000/98d796f7f57d0c5fd37a053b0f521be2
-#EXTINF:-1 group-title="IPTV-1",КИНОСЕМЬЯ
-http://46.149.48.13:8000/play/a027/index.m3u8
-#EXTINF:-1 group-title="IPTV-1",Дом кино
-http://193.111.244.25:80/domkino/playlist.m3u8
-#EXTINF:-1 group-title="IPTV-1",Кинопремиум HD
-http://tvport.it-tele.net:8000/fa6eca5757e2029ce6f0e5e9ff90d952
-#EXTINF:-1 group-title="IPTV-1",Кинопремьера HD
-http://tvport.it-tele.net:8000/fefd227015ff8ac044cefb4ae595507d
-#EXTINF:-1 group-title="IPTV-1",Еврокино
-http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7/evrokino/evrokino.m3u8
+#EXTINF:-1 group-title="IPTV-1",Дом Кино
+http://188.128.15.118:8080/play/a118
+#EXTINF:-1 group-title="IPTV-1",Кино UHD
+http://188.35.9.26:16050/udp/238.0.16.1:69000
 #EXTINF:-1 group-title="IPTV-1",Кино ТВ
-http://tvport.it-tele.net:8000/ca11d23839ef9e958ff6a6cd020f6e7d
+http://91.205.131.7:80/kino-tv/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="IPTV-1",Кино ТВ
+http://91.205.131.7:80/kino_tv_hd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="IPTV-1",Кино ТВ HD
-http://193.111.244.9:7777/kino_tv_hd/playlist.m3u8
-#EXTINF:-1 group-title="IPTV-1",Кино премиум HD
-http://tvport.it-tele.net:8000/fa6eca5757e2029ce6f0e5e9ff90d952
+http://78.29.1.82/live/kino_tv_hd/copy/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-1",Кинозал 2
+http://v3.catcast.me/content2/36487/index.m3u8
+#EXTINF:-1 group-title="IPTV-1",Кинозал 7 Канал
+http://212.112.101.69:8081/stream76/output.m3u8
+#EXTINF:-1 group-title="IPTV-1",Кинозал Cinemax
+http://212.112.101.69:8081/stream42/output.m3u8
+#EXTINF:-1 group-title="IPTV-1",Кинозал СТВ
+http://212.112.101.69:8081/stream23/output.m3u8
+#EXTINF:-1 group-title="IPTV-1",Кинозал Санат KG
+http://212.112.101.69:8081/stream19/output.m3u8
+#EXTINF:-1 group-title="IPTV-1",Кинозал Семейный
+http://212.112.101.69:8081/stream25/output.m3u8
+#EXTINF:-1 group-title="IPTV-1",Кинокомедия
+http://188.128.15.118:8080/play/a128
 #EXTINF:-1 group-title="IPTV-1",Киноман
 http://ott-cdn.ucom.am/s94/index.m3u8
 #EXTINF:-1 group-title="IPTV-1",Киноменю HD
 http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
-#EXTINF:-1 group-title="IPTV-1",Киномикс
-http://193.111.244.25:80/kinomiks/playlist.m3u8
-#EXTINF:-1 group-title="IPTV-1",Кинопремьера HD
-http://193.111.244.9:7777/kinopremierahd/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-1",Кинопремьера
+http://91.205.131.7:80/premiera/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="IPTV-1",Киносат
+http://188.128.15.118:8080/play/a263
 #EXTINF:-1 group-title="IPTV-1",Киносвидание
-http://tvport.it-tele.net:8000/7937fc29ea7ec452423909c9cb8d8d8d
-#EXTINF:-1 group-title="IPTV-1",Киносвидание
-http://193.111.244.9:7777/kinosvidanie/playlist.m3u8
-#EXTINF:-1 group-title="IPTV-1",Мужское кино
-http://46.149.48.13:8000/play/a010/index.m3u8
-#EXTINF:-1 group-title="IPTV-1",Мужское кино HD
-http://176.62.191.181:38022/dop20505/muzhik-kino/index.m3u8
-#EXTINF:-1 group-title="IPTV-1",НАШЕ НОВОЕ КИНО
-http://tvport.it-tele.net:8000/b86f2b4f4e85073f3cf7d6e9ca214ee0
-#EXTINF:-1 group-title="IPTV-1",РОДНОЕ КИНО
-http://tvport.it-tele.net:8000/accb1212ec898e9e50d2be059689199e
-#EXTINF:-1 group-title="IPTV-1",Наше любимое кино
-http://46.149.48.13:8000/play/a01l/index.m3u8
+http://91.205.131.7:80/kinosvidanie/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="IPTV-1",Киносемья
-http://185.35.4.37:8087/premiera/ch.m3u8
-#EXTINF:-1 group-title="IPTV-1",Киносемья
-http://193.111.244.25:80/kinosemja/playlist.m3u8
+http://91.205.131.7:80/kinosemya/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="IPTV-1",Киносерия
-http://tvport.it-tele.net:8000/4c9d6c9b50b830cddba1f1381e87da92
+http://91.205.131.7:80/mnogo-tv/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="IPTV-1",Киносерия
-http://185.35.4.37:8087/mnogotv/ch.m3u8
+http://46.18.202.220:8879/MnogoTV/ch1.m3u8
+#EXTINF:-1 group-title="IPTV-1",Киносерия
+http://78.29.1.216/live/kinoseriya/copy/playlist.m3u8
 #EXTINF:-1 group-title="IPTV-1",Кинохит
-http://185.35.4.37:8087/kinohit/ch.m3u8
+http://91.205.131.7:80/kinohit/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="IPTV-1",Кинохит
-http://193.111.244.9:7777/kinohit/index.m3u8
+http://46.18.202.220:8879/Kinohit/ch1.m3u8
 #EXTINF:-1 group-title="IPTV-1",Кинохит
-http://77.245.98.22:8000/play/321/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="IPTV-1",Кинохит
-http://193.111.244.25:80/kinohit/playlist.m3u8
-#EXTINF:-1 group-title="IPTV-1",Кинохит
-http://46.149.48.13:8000/play/a00z/index.m3u8
+http://77.245.98.22:8000/play/321/index.m3u8
 #EXTINF:-1 group-title="IPTV-1",Классика кино HD
 http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
-#EXTINF:-1 group-title="IPTV-1",Индийское кино
-http://176.62.191.181:38022/dop20505/indijatv/index.m3u8
-#EXTINF:-1 group-title="IPTV-1",Индийское кино
-http://212.29.231.242:8080/btv_159/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="IPTV-1",Кносвидание
-http://193.111.244.25:80/kinosvidanie/playlist.m3u8
-#EXTINF:-1 group-title="IPTV-1",Любимое.TV
-http://live.planeta-online.tv:1935/public/channel_6/playlist.m3u8
-#EXTINF:-1 group-title="IPTV-1",Мир Сериала
-http://188.35.9.5:10007/stolen/125e/parasite.install
+#EXTINF:-1 group-title="IPTV-1",Комедийное
+http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
+#EXTINF:-1 group-title="IPTV-1",Любимое Кино
+http://188.128.15.118:8080/play/a53
+#EXTINF:-1 group-title="IPTV-1",Любимый HD
+http://212.112.101.69:8081/stream21/output.m3u8
+#EXTINF:-1 group-title="IPTV-1",Комедия
+http://188.128.15.118:8080/play/a253
+#EXTINF:-1 group-title="IPTV-1",Еврокино
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7/evrokino/evrokino.m3u8
 #EXTINF:-1 group-title="IPTV-1",Русский Бестселер
 http://182.73.122.74:10005/bysid/420
 #EXTINF:-1 group-title="IPTV-1",Русский детектив
@@ -480,12 +504,6 @@ http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
 http://sochi-strk.ru:1936/strk/strk.stream/playlist.m3u8
 #EXTINF:-1 group-title="IPTV-1",43 HD
 http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
-#EXTINF:-1 group-title="IPTV-1",312 Кино HD
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 group-title="IPTV-1",Amedia Premium
-http://92.43.140.249/s64/04.m3u8
-#EXTINF:-1 group-title="IPTV-1",Amedia 1 
-http://92.43.140.249/s45/04.m3u8
 #EXTINF:-1 group-title="IPTV-1",Amedia Premium
 http://ott-cdn.ucom.am/s64/index.m3u8
 #EXTINF:-1 group-title="IPTV-1",A HBO
@@ -502,8 +520,6 @@ https://hls.goodgame.ru/hls/64556.m3u8
 #EXTINF:-1 group-title="IPTV-1",ВИДЕОСАЛОН VHS
 #EXTVLCOPT:http-user-agent=smartlabs
 https://hls.goodgame.ru/hls/151157.m3u8
-#EXTINF:-1 group-title="IPTV-1",Видеосалон VHS
-http://51.254.59.155/hls/vhstv.m3u8
 #EXTINF:-1 group-title="IPTV-1",Severtv Kino
 #EXTVLCOPT:http-user-agent=smartlabs
 https://hls.goodgame.ru/hls/146065.m3u8
@@ -533,58 +549,64 @@ http://ott-cdn.ucom.am/s22/index.m3u8
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 #EXTINF:-1 group-title="IPTV-1",Победа
 http://ott-cdn.ucom.am/s47/index.m3u8
+#EXTINF:-1 group-title="IPTV-1",Discovery Channel
+http://213.174.8.7:8000/play/24/index.m3u8
+#EXTINF:-1 group-title="IPTV-1",Discovery
+http://188.128.15.118:8080/play/a88
 #EXTINF:-1 group-title="IPTV-1",Discovery Science
-http://tvport.it-tele.net:8000/fae5e9752a49e0cebbdb07ca0f1abc60
-#EXTINF:-1 group-title="IPTV-1",Discovery Showcase HD
-http://50.7.244.58:18526
+http://188.128.15.118:8080/play/a37
 #EXTINF:-1 group-title="IPTV-1",National Geographic
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7/nationalgeographic/nationalgeographic.m3u8
-#EXTINF:-1 group-title="IPTV-1",National Geographic HD
-http://46.32.68.167/s/live/922/86.169.51.136/1/0.m3u8
 #EXTINF:-1 group-title="IPTV-1",Nat Geo Wild
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7/natgeowild/natgeowild.m3u8
-#EXTINF:-1 group-title="IPTV-1",NAT GEO WILD HD
-http://46.32.68.167/s/live/915/86.169.51.136/1/0.m3u8
+#EXTINF:-1 group-title="IPTV-1",Nat Geo Wild HD
+http://188.128.15.118:8080/play/a182
+#EXTINF:-1 group-title="IPTV-1",Nat Geo
+http://188.128.15.118:8080/play/a78
+#EXTINF:-1 group-title="IPTV-1",Nat Geo HD
+http://188.128.15.118:8080/play/a104
+#EXTINF:-1 group-title="IPTV-1",Nat Geo Wild
+http://188.128.15.118:8080/play/a84
 #EXTINF:-1 group-title="IPTV-1",TLC
-http://193.111.244.25:80/tlc/playlist.m3u8
+http://188.128.15.118:8080/play/a38
+#EXTINF:-1 group-title="IPTV-1",TLC
+http://188.128.15.118:8080/play/a221
 #EXTINF:-1 group-title="IPTV-1",Animal Planet
-http://tvport.it-tele.net:8000/b9822568a5d05813b058193c94a27c39
-#EXTINF:-1 group-title="IPTV-1",Animal Planet HD
-http://46.32.68.167/s/live/918/86.169.51.136/1/0.m3u8
-#EXTINF:-1 group-title="IPTV-1",DTX
-http://182.73.122.74:10005/bysid/407
+http://188.128.15.118:8080/play/a26
 #EXTINF:-1 group-title="IPTV-1",Fine Living
 http://ott-cdn.ucom.am/s51/index.m3u8
-#EXTINF:-1 group-title="IPTV-1",Travel Channel HD
-http://46.32.68.167/s/live/925/86.169.51.136/1/0.m3u8
-#EXTINF:-1 group-title="IPTV-1",Travel+ Adventure HD
-http://46.32.68.167/s/live/904/86.169.51.136/1/0.m3u8
+#EXTINF:-1 group-title="IPTV-1",Travel
+http://95.153.22.122:8000/play/a016/index.m3u8
+#EXTINF:-1 group-title="IPTV-1",Travel
+http://212.112.101.69:8081/stream67/output.m3u8
+#EXTINF:-1 group-title="IPTV-1",Travel adventure
+http://188.128.15.118:8080/play/a105
 #EXTINF:-1 group-title="IPTV-1",Travel Guid-TV
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
 #EXTINF:-1 group-title="IPTV-1",Travel HD BG
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 #EXTINF:-1 group-title="IPTV-1",History
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/history/history.m3u8
-#EXTINF:-1 group-title="IPTV-1",History HD
-http://46.32.68.167/s/live/926/86.169.51.136/1/0.m3u8
 #EXTINF:-1 group-title="IPTV-1",Ginger HD
 http://78.29.1.70/live/ginger_hd/copy/playlist.m3u8
 #EXTINF:-1 group-title="IPTV-1",Эврика
 http://ott-cdn.ucom.am/s44/index.m3u8
 #EXTINF:-1 group-title="IPTV-1",Da Vinci Kids
 http://213.174.8.7:11111/index.m3u8
-#EXTINF:-1 group-title="IPTV-1",Viasat Explore
-http://188.35.9.5:10020/stolen/485v/hot.dll
+#EXTINF:-1 group-title="IPTV-1",Viasat Explorer
+http://188.128.15.118:8080/play/a32
 #EXTINF:-1 group-title="IPTV-1",Viasat History
-https://hls-viasat.cdnvideo.ru/hls/relay/1501746731655/index.m3u8?md5=2Dxnjzcr2UxtTABLqdfYTA&e=1541934953&hls_proxy_host=97544926393025ab05ebfb4dc3486095
+http://188.128.15.118:8080/play/a33
+#EXTINF:-1 group-title="IPTV-1",Viasat Nature
+http://188.128.15.118:8080/play/a28
 #EXTINF:-1 group-title="IPTV-1",Приключения
 http://ott-cdn.ucom.am/s99/index.m3u8
 #EXTINF:-1 group-title="IPTV-1",Неизвестная планета
 http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
 #EXTINF:-1 group-title="IPTV-1",Наука 2.0
-http://193.111.244.25:80/nauka20/playlist.m3u8
-#EXTINF:-1 group-title="IPTV-1",Наука 2.0
 http://ott-cdn.ucom.am/s98/index.m3u8
+#EXTINF:-1 group-title="IPTV-1",24 Техно
+http://212.112.101.69:8081/stream63/output.m3u8
 #EXTINF:-1 group-title="IPTV-1",Техно 24
 http://ott-cdn.ucom.am/s68/index.m3u8
 #EXTINF:-1 group-title="IPTV-1",Моя Планета
@@ -642,8 +664,6 @@ http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8
 http://now2.eaglecdn.com/stream/tveda_12/index.m3u8
 #EXTINF:-1 group-title="IPTV-1",Food Network
 http://ott-cdn.ucom.am/s18/index.m3u8
-#EXTINF:-1 group-title="IPTV-1",Магия Кухни ТВ
-http://sc.id-tv.kz/MagiyaKuhni_36_37.m3u8
 #EXTINF:-1 group-title="IPTV-1",Вкусное ТВ
 http://live.planeta-online.tv:1935/public/channel_133/playlist.m3u8
 #EXTINF:-1 group-title="IPTV-1",Renome
@@ -661,48 +681,38 @@ http://hls.goodgame.ru/hls/152506.m3u8
 http://brodilo.tv/channel.php
 #EXTINF:-1 group-title="IPTV-1",Univer TV HD
 http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
-#EXTINF:-1 group-title="IPTV-1",NAVIGATOR TV
-http://46.149.48.13:8000/play/a01r/index.m3u8
 #EXTINF:-1 group-title="IPTV-1",ID Fashion HD
 http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 #EXTINF:-1 group-title="IPTV-1",World Fashion Channel Россия HD
 http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="IPTV-1",Eurosport 1
-http://tvport.it-tele.net:8000/228ae58f824e7668c245ecb1e5c1c850
-#EXTINF:-1 group-title="IPTV-1",Eurosport 2
-http://tvport.it-tele.net:8000/440f706cdc90fc2a7b78e72a6d318ad9
-#EXTINF:-1 group-title="IPTV-1",viasat sport
-http://185.129.1.242/viasatsport/index.m3u8
 #EXTINF:-1 group-title="IPTV-1",Viasat Sport
-http://46.19.43.248:9981/stream/channelid/344696513
-#EXTINF:-1 group-title="IPTV-1",Viasat sport HD
-http://193.111.244.23:7777/viasat_sport_hd/playlist.m3u8
-#EXTINF:-1 group-title="IPTV-1",МАТЧ! АРЕНА
-http://46.19.43.248:9981/stream/channelid/1313029335
-#EXTINF:-1 group-title="IPTV-1",МАТЧ! БОЕЦ
-http://46.19.43.248:9981/stream/channelid/1585100965
-#EXTINF:-1 group-title="IPTV-1",МАТЧ! ИГРА
-http://46.19.43.248:9981/stream/channelid/1405443465
-#EXTINF:-1 group-title="IPTV-1",МАТЧ! НАШ СПОРТ
-http://46.19.43.248:9981/stream/channelid/1951989673
-#EXTINF:-1 group-title="IPTV-1",МАТЧ! ФУТБОЛ 1
-http://46.19.43.248:9981/stream/channelid/354688218
-#EXTINF:-1 group-title="IPTV-1",МАТЧ! ФУТБОЛ 2
-http://46.19.43.248:9981/stream/channelid/1669396465
-#EXTINF:-1 group-title="IPTV-1",МАТЧ! ФУТБОЛ 3
-http://46.19.43.248:9981/stream/channelid/2058911058
-#EXTINF:-1 group-title="IPTV-1",МАТЧ! Футбол 2 HD
-http://83.174.198.141/Futbol2HD.m3u8
-#EXTINF:-1 group-title="IPTV-1",МАТЧ! Футбол 3 HD
-http://83.174.198.141/Futbol3HD.m3u8
+http://188.128.15.118:8080/play/a34
+#EXTINF:-1 group-title="IPTV-1",Матч HD
+http://188.128.15.118:8080/play/a163
+#EXTINF:-1 group-title="IPTV-1",Матч ТВ
+http://188.128.15.118:8080/play/a1
+#EXTINF:-1 group-title="IPTV-1",Матч! HD
+http://188.35.9.5:10007/stolen/196k/parasite.install
+#EXTINF:-1 group-title="IPTV-1",Матч! Арена
+http://188.128.15.118:8080/play/a97
+#EXTINF:-1 group-title="IPTV-1",Матч! Боец
+http://188.128.15.118:8080/play/a125
+#EXTINF:-1 group-title="IPTV-1",Матч! Футбол 1
+http://188.128.15.118:8080/play/a174
+#EXTINF:-1 group-title="IPTV-1",Матч! Футбол 2
+http://188.128.15.118:8080/play/a175
+#EXTINF:-1 group-title="IPTV-1",Матч! Футбол 3
+http://188.128.15.118:8080/play/a176
 #EXTINF:-1 group-title="IPTV-1",Setanta Sport
 http://ott-cdn.ucom.am/s81/index.m3u8
 #EXTINF:-1 group-title="IPTV-1",Setanta Sport HD
 http://92.46.127.146:8080/SetantaSport/index.m3u8
 #EXTINF:-1 group-title="IPTV-1",Setanta Sport Plus HD
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
-#EXTINF:-1 group-title="IPTV-1",Nick
-http://193.111.244.25:80/nick/playlist.m3u8
+#EXTINF:-1 group-title="IPTV-1",Nickelodeon
+http://212.112.101.69:8081/stream43/output.m3u8
+#EXTINF:-1 group-title="IPTV-1",NickJr
+http://212.112.101.69:8081/stream68/output.m3u8
 #EXTINF:-1 group-title="IPTV-1",Nicki Junior
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7/nikijunior/nikijunior.m3u8
 #EXTINF:-1 group-title="IPTV-1",Nicki Junior HD
@@ -711,16 +721,8 @@ http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7/nikikids/nikikids.m3u8
 #EXTINF:-1 group-title="IPTV-1",Nicki Kids HD
 http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147972228ef43d29d88c5490c0005/5ca630d7/nikikidshd/nikikidshd.m3u8
-#EXTINF:-1 group-title="IPTV-1",jim jam
-http://193.111.244.25:80/jimjam/playlist.m3u8
 #EXTINF:-1 group-title="IPTV-1",Tiji
 http://ott-cdn.ucom.am/s59/index.m3u8
-#EXTINF:-1 group-title="IPTV-1",Disney канал
-http://193.111.244.25:80/disney/playlist.m3u8
-#EXTINF:-1 group-title="IPTV-1",Cartoon Network
-http://46.32.68.167/s/live/601/86.169.51.136/1/0.m3u8
-#EXTINF:-1 group-title="IPTV-1",2х2
-http://46.149.48.13:8000/play/a01u/index.m3u8
 #EXTINF:-1 group-title="IPTV-1",Рыжий
 http://ott-cdn.ucom.am/s57/index.m3u8
 #EXTINF:-1 group-title="IPTV-1",Tuntunik
@@ -791,8 +793,6 @@ http://ec.playmedia.fr/beblack/africa/playlist.m3u8
 http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
 #EXTINF:-1 group-title="IPTV-1",BeBlack Classik
 http://ec.playmedia.fr/beblack/classik/playlist.m3u8
-#EXTINF:-1 group-title="IPTV-1",Релакс
-http://live.planeta-online.tv:1935/public/channel_3/playlist.m3u8
 
 #EXTINF:-1 group-title="IPTV-2",Bridge TV
 http://ott-cdn.ucom.am/s34/04.m3u8
