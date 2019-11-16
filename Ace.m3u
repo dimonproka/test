@@ -199,6 +199,10 @@ acestream://1b4696e85c29c86ecaf1abbcf423c136039bf6ee
 acestream://4c1abbb5396ff7373ba49b5280cd70db50c39147
 #EXTINF:-1,Sony Entertainment Television
 acestream://8789f606f62a64354d6612dabeef0863d3e2bda5
+#EXTINF:-1,Sony Turbo
+acestream://262395e86f4c3393dddb9f1faac4f293825ccf08
+#EXTINF:-1,Sony Sony Sci-Fi
+acestream://89b9742c5623772f78f70a073059bc96083e1aca
 #EXTINF:-1,TV 1000 Action
 acestream://bdcd46d5b6b08a85fbcb0146a707f339a897085c
 #EXTINF:-1,TV 1000
