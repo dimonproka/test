@@ -181,6 +181,10 @@ acestream://472e28919c04ac5649b757dacc1de6743dadf5e4
 acestream://52dc5025e0ed31a6f75ebfaaaef45b87ccf3d4ed
 #EXTINF:-1,AXN Sci-Fi
 acestream://89b9742c5623772f78f70a073059bc96083e1aca
+#EXTINF:-1,Sony Entertainment Television
+acestream://8789f606f62a64354d6612dabeef0863d3e2bda5
+#EXTINF:-1,Sony Turbo
+acestream://262395e86f4c3393dddb9f1faac4f293825ccf08
 #EXTINF:-1,Amedia 1
 acestream://32806720cc363a53ac0ae2791a005a02cd252ee8
 #EXTINF:-1,AMEDIA HIT
@@ -197,12 +201,6 @@ acestream://d19479886c008e532ce21d31680cc5f76ba554c8
 acestream://1b4696e85c29c86ecaf1abbcf423c136039bf6ee
 #EXTINF:-1,Paramount
 acestream://4c1abbb5396ff7373ba49b5280cd70db50c39147
-#EXTINF:-1,Sony Entertainment Television
-acestream://8789f606f62a64354d6612dabeef0863d3e2bda5
-#EXTINF:-1,Sony Turbo
-acestream://262395e86f4c3393dddb9f1faac4f293825ccf08
-#EXTINF:-1,Sony Sci-Fi
-acestream://89b9742c5623772f78f70a073059bc96083e1aca
 #EXTINF:-1,TV 1000 Action
 acestream://bdcd46d5b6b08a85fbcb0146a707f339a897085c
 #EXTINF:-1,TV 1000
