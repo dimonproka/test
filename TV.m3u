@@ -1,287 +1,278 @@
 #EXTM3U deinterlace=1 tvg-logo=Auto m3uautoload=1 cache=1000 url-tvg="http://epg.it999.ru/edem.xml.gz"
 
-#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/ua1_logo.png", UA: Перший HD
+#EXTINF:-1 group-title="Shtorm", UA: Перший HD
 http://tv.shtorm.com/air/002/index.m3u8
-#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/ttv.png", TTV
+#EXTINF:-1 group-title="Shtorm", TTV
 http://tv.shtorm.com/air/004/index.m3u8
-#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/uakrop.png", UA: Кропивницький
+#EXTINF:-1 group-title="Shtorm", UA: Кропивницький
 http://tv.shtorm.com/air/005/index.m3u8
-#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/2plus2.png", 2+2
+#EXTINF:-1 group-title="Shtorm", 2+2
 http://tv.shtorm.com/air/006/index.m3u8
-#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/viter.png", Вітер HD
+#EXTINF:-1 group-title="Shtorm", Вітер HD
 http://tv.shtorm.com/air/112/index.m3u8
-#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/tet.png", ТЕТ
+#EXTINF:-1 group-title="Shtorm", ТЕТ
 http://tv.shtorm.com/air/008/index.m3u8
-#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/ictv.png", ICTV
+#EXTINF:-1 group-title="Shtorm", ICTV
 http://tv.shtorm.com/air/009/index.m3u8
-#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/stb.png", СТБ
+#EXTINF:-1 group-title="Shtorm", СТБ
 http://tv.shtorm.com/air/010/index.m3u8
-#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/novy.png", Новый канал
+#EXTINF:-1 group-title="Shtorm", Новый канал
 http://tv.shtorm.com/air/011/index.m3u8
-#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/trkukraine.png", Украина HD
+#EXTINF:-1 group-title="Shtorm", Украина HD
 http://tv.shtorm.com/air/012/index.m3u8
-#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/1plus1.png", 1+1
+#EXTINF:-1 group-title="Shtorm", 1+1
 http://tv.shtorm.com/air/015/index.m3u8
-#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/inter.png", Интер
+#EXTINF:-1 group-title="Shtorm", Интер
 http://tv.shtorm.com/air/016/index.m3u8
-#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/k1.png", К1
+#EXTINF:-1 group-title="Shtorm", К1
 http://tv.shtorm.com/air/017/index.m3u8
-#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/k2.png", К2
+#EXTINF:-1 group-title="Shtorm", К2
 http://tv.shtorm.com/air/018/index.m3u8
-#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/zoom.png", ZOOM
+#EXTINF:-1 group-title="Shtorm", ZOOM
 http://tv.shtorm.com/air/023/index.m3u8
-#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/chernomorka.png", Черноморская ТРК
+#EXTINF:-1 group-title="Shtorm", Черноморская ТРК
 http://tv.shtorm.com/air/024/index.m3u8
-#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/vintage.png", Винтаж ТВ
+#EXTINF:-1 group-title="Shtorm", Винтаж ТВ
 http://tv.shtorm.com/air/026/index.m3u8
-#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/indigo.png", Индиго HD
+#EXTINF:-1 group-title="Shtorm", Индиго HD
 http://tv.shtorm.com/air/028/index.m3u8
-#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/atr.png", ATR HD
+#EXTINF:-1 group-title="Shtorm", ATR HD
 http://tv.shtorm.com/air/029/index.m3u8
-#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/nlotv.png", НЛО TV HD
+#EXTINF:-1 group-title="Shtorm", НЛО TV HD
 http://tv.shtorm.com/air/030/index.m3u8
-#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/otse.png", ОЦЕ
+#EXTINF:-1 group-title="Shtorm", ОЦЕ
 http://tv.shtorm.com/air/047/index.m3u8
-#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/maxxi.png", MAXXI-TV
+#EXTINF:-1 group-title="Shtorm", MAXXI-TV
 http://tv.shtorm.com/air/048/index.m3u8
-#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/solnce.png", Солнце HD
+#EXTINF:-1 group-title="Shtorm", Солнце HD
 http://tv.shtorm.com/air/050/index.m3u8
-#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/kvartal.png", Квартал ТВ
+#EXTINF:-1 group-title="Shtorm", Квартал ТВ
 http://tv.shtorm.com/air/055/index.m3u8
-#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/natali.png", Наталi
+#EXTINF:-1 group-title="Shtorm", Наталi
 http://tv.shtorm.com/air/014/index.m3u8
-#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/fashionbox.png", FashionBox HD
+#EXTINF:-1 group-title="Shtorm", FashionBox HD
 http://tv.shtorm.com/air/089/index.m3u8
-#EXTINF:-1, Fashion TV
+#EXTINF:-1 group-title="Shtorm", Fashion TV
 http://tv.shtorm.com/air/120/index.m3u8
-#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/karavan.png", Караван TV
+#EXTINF:-1 group-title="Shtorm", Караван TV
 http://tv.shtorm.com/air/118/index.m3u8
-#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/milady.png", Milady Television
+#EXTINF:-1 group-title="Shtorm", Milady Television
 http://tv.shtorm.com/air/119/index.m3u8
-#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/sea.png",Sea TV HD
+#EXTINF:-1 group-title="Shtorm",Sea TV HD
 http://tv.shtorm.com/air/095/index.m3u8
-#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/svarozhichi.png", Сварожичи
+#EXTINF:-1 group-title="Shtorm", Сварожичи
 http://tv.shtorm.com/air/109/index.m3u8
-#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/krt.png", КРТ
+#EXTINF:-1 group-title="Shtorm", КРТ
 http://tv.shtorm.com/air/115/index.m3u8
-
-#EXTINF:-1, Дорама
+#EXTINF:-1 group-title="Shtorm", Дорама
 http://tv.shtorm.com/air/128/index.m3u8
-#EXTINF:-1, OstWest
+#EXTINF:-1 group-title="Shtorm", OstWest
 http://tv.shtorm.com/air/129/index.m3u8
-#EXTINF:-1, Zee TV
+#EXTINF:-1 group-title="Shtorm", Zee TV
 http://tv.shtorm.com/air/130/index.m3u8
-
-#EXTINF:-1 group-title="Информационные" tvg-logo="http://tv.shtorm.com/static/logo/rada.png", РАДА
+#EXTINF:-1 group-title="Shtorm", РАДА
 http://tv.shtorm.com/air/001/index.m3u8
-#EXTINF:-1 group-title="Информационные" tvg-logo="http://tv.shtorm.com/static/logo/uakrim.png", UA: Крим
+#EXTINF:-1 group-title="Shtorm", UA: Крим
 http://tv.shtorm.com/air/007/index.m3u8
-#EXTINF:-1 group-title="Информационные" tvg-logo="http://tv.shtorm.com/static/logo/ntn.png", НТН
+#EXTINF:-1 group-title="Shtorm", НТН
 http://tv.shtorm.com/air/033/index.m3u8
-#EXTINF:-1 group-title="Информационные" tvg-logo="http://tv.shtorm.com/static/logo/zik.png", ZIK HD
+#EXTINF:-1 group-title="Shtorm", ZIK HD
 http://tv.shtorm.com/air/043/index.m3u8
-#EXTINF:-1 group-title="Информационные" tvg-logo="http://tv.shtorm.com/static/logo/hromadske.png", Громадське ТБ HD
+#EXTINF:-1 group-title="Shtorm", Громадське ТБ HD
 http://tv.shtorm.com/air/114/index.m3u8
-#EXTINF:-1 group-title="Информационные" tvg-logo="http://tv.shtorm.com/static/logo/pravdatut.png", ПравдаТУТ HD
+#EXTINF:-1 group-title="Shtorm", ПравдаТУТ HD
 http://tv.shtorm.com/air/031/index.m3u8
-#EXTINF:-1 group-title="Информационные" tvg-logo="http://tv.shtorm.com/static/logo/5channel.png", 5-й кaнал HD
+#EXTINF:-1 group-title="Shtorm", 5-й кaнал HD
 http://tv.shtorm.com/air/020/index.m3u8
-#EXTINF:-1 group-title="Информационные" tvg-logo="http://tv.shtorm.com/static/logo/pryamoy.png", Прямий HD
+#EXTINF:-1 group-title="Shtorm", Прямий HD
 http://tv.shtorm.com/air/037/index.m3u8
-#EXTINF:-1 group-title="Информационные" tvg-logo="http://tv.shtorm.com/static/logo/oboztv.png", OBOZ TV HD
+#EXTINF:-1 group-title="Shtorm", OBOZ TV HD
 http://tv.shtorm.com/air/100/index.m3u8
-#EXTINF:-1 group-title="Информационные" tvg-logo="http://tv.shtorm.com/static/logo/espreso.png", ЕСПРЕСО TV
+#EXTINF:-1 group-title="Shtorm", ЕСПРЕСО TV
 http://tv.shtorm.com/air/027/index.m3u8
-#EXTINF:-1 group-title="Информационные" tvg-logo="http://tv.shtorm.com/static/logo/112channel.png", 112 Украина HD
+#EXTINF:-1 group-title="Shtorm", 112 Украина HD
 http://tv.shtorm.com/air/032/index.m3u8
-#EXTINF:-1 group-title="Информационные" tvg-logo="http://tv.shtorm.com/static/logo/newsone.png", NewsOne 
+#EXTINF:-1 group-title="Shtorm", NewsOne 
 http://tv.shtorm.com/air/034/index.m3u8
-#EXTINF:-1 group-title="Информационные" tvg-logo="http://tv.shtorm.com/static/logo/24channel.png", 24 News
+#EXTINF:-1 group-title="Shtorm", 24 News
 http://tv.shtorm.com/air/035/index.m3u8
-#EXTINF:-1 group-title="Информационные" tvg-logo="http://tv.shtorm.com/static/logo/unian.png", Unian TV
+#EXTINF:-1 group-title="Shtorm", Unian TV
 http://tv.shtorm.com/air/038/index.m3u8
-#EXTINF:-1 group-title="Информационные" tvg-logo="http://tv.shtorm.com/static/logo/1delovoi.png", Первый деловой
+#EXTINF:-1 group-title="Shtorm", Первый деловой
 http://tv.shtorm.com/air/039/index.m3u8
-#EXTINF:-1 group-title="Информационные" tvg-logo="http://tv.shtorm.com/static/logo/8channel.png", 8 канал
+#EXTINF:-1 group-title="Shtorm", 8 канал
 http://tv.shtorm.com/air/110/index.m3u8
-
-#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/bigudi.png", Бигуди
+#EXTINF:-1 group-title="Shtorm", Бигуди
 http://tv.shtorm.com/air/025/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/enterfilm.png", Enter-фильм
+#EXTINF:-1 group-title="Shtorm", Enter-фильм
 http://tv.shtorm.com/air/022/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/starcinema.png", Star Cinema HD
+#EXTINF:-1 group-title="Shtorm", Star Cinema HD
 http://tv.shtorm.com/air/096/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/starfamily.png", Star Family HD
+#EXTINF:-1 group-title="Shtorm", Star Family HD
 http://tv.shtorm.com/air/097/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/paramountcomedy.png", Paramount Comedy
+#EXTINF:-1 group-title="Shtorm", Paramount Comedy
 http://tv.shtorm.com/air/101/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/vipcomedy.png", VIP Comedy
+#EXTINF:-1 group-title="Shtorm", VIP Comedy
 http://tv.shtorm.com/air/059/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/tv1000.png", TV1000
+#EXTINF:-1 group-title="Shtorm", TV1000
 http://tv.shtorm.com/air/078/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/tv1000worldkino.png", TV1000 World Kino
+#EXTINF:-1 group-title="Shtorm", TV1000 World Kino
 http://tv.shtorm.com/air/079/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/tv1000action.png", TV1000 Action
+#EXTINF:-1 group-title="Shtorm", TV1000 Action
 http://tv.shtorm.com/air/087/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/filmboxarthouse.png", FilmBox Arthouse HD
+#EXTINF:-1 group-title="Shtorm", FilmBox Arthouse HD
 http://tv.shtorm.com/air/092/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/filmbox.png", FilmBox
+#EXTINF:-1 group-title="Shtorm", FilmBox
 http://tv.shtorm.com/air/093/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/eurokino.png", ЕВРОКИНО
+#EXTINF:-1 group-title="Shtorm", ЕВРОКИНО
 http://tv.shtorm.com/air/086/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/fox.png", FOX
+#EXTINF:-1 group-title="Shtorm", FOX
 http://tv.shtorm.com/air/074/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/foxlife.png", FOX Life
+#EXTINF:-1 group-title="Shtorm", FOX Life
 http://tv.shtorm.com/air/075/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/spike.png", Spike
+#EXTINF:-1 group-title="Shtorm", Spike
 http://tv.shtorm.com/air/064/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/filmuadrama.png", FilmUA Drama HD
+#EXTINF:-1 group-title="Shtorm", FilmUA Drama HD
 http://tv.shtorm.com/air/073/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/bolt.png", BOLT HD
+#EXTINF:-1 group-title="Shtorm", BOLT HD
 http://tv.shtorm.com/air/084/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/sonychannel.png", Sony Channel
+#EXTINF:-1 group-title="Shtorm", Sony Channel
 http://tv.shtorm.com/air/106/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/sonyscifi.png", Sony Sci Fi
+#EXTINF:-1 group-title="Shtorm", Sony Sci Fi
 http://tv.shtorm.com/air/107/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/sonyturbo.png", Sony Turbo
+#EXTINF:-1 group-title="Shtorm", Sony Turbo
 http://tv.shtorm.com/air/108/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/epicdrama.png", EPIC DRAMA HD
+#EXTINF:-1 group-title="Shtorm", EPIC DRAMA HD
 http://tv.shtorm.com/air/113/index.m3u8
-
-#EXTINF:-1 group-title="Детские" tvg-logo="http://tv.shtorm.com/static/logo/nikikids.png", Nikki Kids HD
+#EXTINF:-1 group-title="Shtorm", Nikki Kids HD
 http://tv.shtorm.com/air/098/index.m3u8
-#EXTINF:-1 group-title="Детские" tvg-logo="http://tv.shtorm.com/static/logo/nikijunior.png", Nikki Junior HD
+#EXTINF:-1 group-title="Shtorm", Nikki Junior HD
 http://tv.shtorm.com/air/099/index.m3u8
-#EXTINF:-1 group-title="Детские" tvg-logo="http://tv.shtorm.com/static/logo/pixeltv.png", Пиксель
+#EXTINF:-1 group-title="Shtorm", Пиксель
 http://tv.shtorm.com/air/021/index.m3u8
-#EXTINF:-1 group-title="Детские" tvg-logo="http://tv.shtorm.com/static/logo/malyatko.png", Малятко TV
+#EXTINF:-1 group-title="Shtorm", Малятко TV
 http://tv.shtorm.com/air/040/index.m3u8
-#EXTINF:-1 group-title="Детские" tvg-logo="http://tv.shtorm.com/static/logo/plusplus.png", ПлюсПлюс
+#EXTINF:-1 group-title="Shtorm", ПлюсПлюс
 http://tv.shtorm.com/air/042/index.m3u8
-#EXTINF:-1 group-title="Детские" tvg-logo="http://tv.shtorm.com/static/logo/nickelodeon.png", Nickelodeon
+#EXTINF:-1 group-title="Shtorm", Nickelodeon
 http://tv.shtorm.com/air/066/index.m3u8
-#EXTINF:-1 group-title="Детские" tvg-logo="http://tv.shtorm.com/static/logo/cartoon.png", Cartoon network
+#EXTINF:-1 group-title="Shtorm", Cartoon network
 http://tv.shtorm.com/air/068/index.m3u8
-#EXTINF:-1 group-title="Детские" tvg-logo="http://tv.shtorm.com/static/logo/detskiymir.png", Детский Мир
+#EXTINF:-1 group-title="Shtorm", Детский Мир
 http://tv.shtorm.com/air/085/index.m3u8
-#EXTINF:-1 group-title="Детские" tvg-logo="http://tv.shtorm.com/static/logo/lale.png", Lale
+#EXTINF:-1 group-title="Shtorm", Lale
 http://tv.shtorm.com/air/111/index.m3u8
-
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/uaculture.png", UA: Культура
+#EXTINF:-1 group-title="Shtorm", UA: Культура
 http://tv.shtorm.com/air/003/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/mega.png", Мега
+#EXTINF:-1 group-title="Shtorm", Мега
 http://tv.shtorm.com/air/013/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/davinci.png", Da Vinci
+#EXTINF:-1 group-title="Shtorm", Da Vinci
 http://tv.shtorm.com/air/053/index.m3u8
-#EXTINF:-1;category=Познавательные, Discovery Science
+#EXTINF:-1 group-title="Shtorm", Discovery Science
 http://tv.shtorm.com/air/103/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/discovery.png", Discovery Channel
+#EXTINF:-1 group-title="Shtorm", Discovery Channel
 http://tv.shtorm.com/air/069/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/nationalgeo.png", National Geographic
+#EXTINF:-1 group-title="Shtorm", National Geographic
 http://tv.shtorm.com/air/057/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/natgeowild.png", National Geographic Wild 
+#EXTINF:-1 group-title="Shtorm", National Geographic Wild 
 http://tv.shtorm.com/air/056/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/dacha.png", Дача HD
+#EXTINF:-1 group-title="Shtorm", Дача HD
 http://tv.shtorm.com/air/036/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/englishclub.png", English Club TV HD
+#EXTINF:-1 group-title="Shtorm", English Club TV HD
 http://tv.shtorm.com/air/051/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/docuboxhd.png", DocuBox HD
+#EXTINF:-1 group-title="Shtorm", DocuBox HD
 http://tv.shtorm.com/air/094/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/epoque.png", EPOQUE
+#EXTINF:-1 group-title="Shtorm", EPOQUE
 http://tv.shtorm.com/air/062/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/zoopark.png", ZooПарк
+#EXTINF:-1 group-title="Shtorm", ZooПарк
 http://tv.shtorm.com/air/067/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/animalplanet.png", Animal Planet
+#EXTINF:-1 group-title="Shtorm", Animal Planet
 http://tv.shtorm.com/air/070/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/tlc.png", TLC
+#EXTINF:-1 group-title="Shtorm", TLC
 http://tv.shtorm.com/air/072/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/terra.png", Терра
+#EXTINF:-1 group-title="Shtorm", Терра
 http://tv.shtorm.com/air/065/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/fauna.png", Фауна
+#EXTINF:-1 group-title="Shtorm", Фауна
 http://tv.shtorm.com/air/052/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/nauka.png", Наукa
+#EXTINF:-1 group-title="Shtorm", Наукa
 http://tv.shtorm.com/air/063/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/historyhd.png", History HD
+#EXTINF:-1 group-title="Shtorm", History HD
 http://tv.shtorm.com/air/080/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/viasathistory.png", Viasat History
+#EXTINF:-1 group-title="Shtorm", Viasat History
 http://tv.shtorm.com/air/076/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/viasatnature.png", Viasat Nature
+#EXTINF:-1 group-title="Shtorm", Viasat Nature
 http://tv.shtorm.com/air/077/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Viasat Explorer
+#EXTINF:-1 group-title="Shtorm", Viasat Explorer
 http://tv.shtorm.com/air/081/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/366tv.png", 36.6 TV HD
+#EXTINF:-1 group-title="Shtorm", 36.6 TV HD
 http://tv.shtorm.com/air/105/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/ekotv.png", ЕКО TV
+#EXTINF:-1 group-title="Shtorm", ЕКО TV
 http://tv.shtorm.com/air/117/index.m3u8
-
-#EXTINF:-1 group-title="Музыка" tvg-logo="http://tv.shtorm.com/static/logo/m1tv.png", М1
+#EXTINF:-1 group-title="Shtorm", М1
 http://tv.shtorm.com/air/019/index.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="http://tv.shtorm.com/static/logo/m2tv.png", М2
+#EXTINF:-1 group-title="Shtorm", М2
 http://tv.shtorm.com/air/044/index.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="http://tv.shtorm.com/static/logo/otvmusic.png", OTV
+#EXTINF:-1 group-title="Shtorm", OTV
 http://tv.shtorm.com/air/045/index.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="http://tv.shtorm.com/static/logo/eumusichd.png", EU Music HD
+#EXTINF:-1 group-title="Shtorm", EU Music HD
 http://tv.shtorm.com/air/046/index.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="http://tv.shtorm.com/static/logo/360tunebox.png", 360 Tune Box HD
+#EXTINF:-1 group-title="Shtorm", 360 Tune Box HD
 http://tv.shtorm.com/air/088/index.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="http://tv.shtorm.com/static/logo/music4ever.png", 4ever music HD
+#EXTINF:-1 group-title="Shtorm", 4ever music HD
 http://tv.shtorm.com/air/104/index.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="http://tv.shtorm.com/static/logo/musicbox.png", Music Box
+#EXTINF:-1 group-title="Shtorm", Music Box
 http://tv.shtorm.com/air/058/index.m3u8
-#EXTINF:-1 group-title="Музыка", MTV Europe
+#EXTINF:-1 group-title="Shtorm", MTV Europe
 http://tv.shtorm.com/air/121/index.m3u8
-#EXTINF:-1 group-title="Музыка", MTV Hits
+#EXTINF:-1 group-title="Shtorm", MTV Hits
 http://tv.shtorm.com/air/122/index.m3u8
-#EXTINF:-1 group-title="Музыка", MTV Rocks
+#EXTINF:-1 group-title="Shtorm", MTV Rocks
 http://tv.shtorm.com/air/123/index.m3u8
-#EXTINF:-1 group-title="Музыка", VH1
+#EXTINF:-1 group-title="Shtorm", VH1
 http://tv.shtorm.com/air/124/index.m3u8
-#EXTINF:-1 group-title="Музыка", VH1 Classic
+#EXTINF:-1 group-title="Shtorm", VH1 Classic
 http://tv.shtorm.com/air/125/index.m3u8
-#EXTINF:-1 group-title="Музыка", MTV Dance
+#EXTINF:-1 group-title="Shtorm", MTV Dance
 http://tv.shtorm.com/air/126/index.m3u8
-#EXTINF:-1 group-title="Музыка", MTV Live HD
+#EXTINF:-1 group-title="Shtorm", MTV Live HD
 http://tv.shtorm.com/air/127/index.m3u8
-
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://tv.shtorm.com/static/logo/setantasports.png", Setanta Sports HD
+#EXTINF:-1 group-title="Shtorm", Setanta Sports HD
 http://tv.shtorm.com/air/116/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://tv.shtorm.com/static/logo/xsport.png", XSPORT
+#EXTINF:-1 group-title="Shtorm", XSPORT
 http://tv.shtorm.com/air/041/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://tv.shtorm.com/static/logo/fastandfunbox.png", FAST&FUN Box HD
+#EXTINF:-1 group-title="Shtorm", FAST&FUN Box HD
 http://tv.shtorm.com/air/090/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://tv.shtorm.com/static/logo/fightbox.png", FightBox HD
+#EXTINF:-1 group-title="Shtorm", FightBox HD
 http://tv.shtorm.com/air/091/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://tv.shtorm.com/static/logo/eurosport1.png", EUROSPORT 1
+#EXTINF:-1 group-title="Shtorm", EUROSPORT 1
 http://tv.shtorm.com/air/082/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://tv.shtorm.com/static/logo/eurosport2.png", EUROSPORT 2
+#EXTINF:-1 group-title="Shtorm", EUROSPORT 2
 http://tv.shtorm.com/air/083/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://tv.shtorm.com/static/logo/football1.png", Футбол1
+#EXTINF:-1 group-title="Shtorm", Футбол1
 http://tv.shtorm.com/air/060/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://tv.shtorm.com/static/logo/football2.png", Футбол2
+#EXTINF:-1 group-title="Shtorm", Футбол2
 http://tv.shtorm.com/air/061/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://tv.shtorm.com/static/logo/1auto.png", Первый автомобильный
+#EXTINF:-1 group-title="Shtorm", Первый автомобильный
 http://tv.shtorm.com/air/049/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://tv.shtorm.com/static/logo/trofey.png", Трофей HD
+#EXTINF:-1 group-title="Shtorm", Трофей HD
 http://tv.shtorm.com/air/054/index.m3u8
-
-#EXTINF:-1 group-title="Камеры" tvg-logo="http://tv.shtorm.com/static/logo/shtorm.jpg", Площадь Героев Майдана верхняя камера HD
+#EXTINF:-1 group-title="Shtorm", Площадь Героев Майдана верхняя камера HD
 http://webcam.shtorm.com/camera/CAM17/17.m3u8
-#EXTINF:-1 group-title="Камеры" tvg-logo="http://tv.shtorm.com/static/logo/shtorm.jpg", Площадь Героев Майдана нижняя камера HD
+#EXTINF:-1 group-title="Shtorm", Площадь Героев Майдана нижняя камера HD
 http://webcam.shtorm.com/camera/CAM12/12.m3u8
-#EXTINF:-1 group-title="Камеры" tvg-logo="http://tv.shtorm.com/static/logo/shtorm.jpg", Площадь горисполкома HD
+#EXTINF:-1 group-title="Shtorm", Площадь горисполкома HD
 http://webcam.shtorm.com/camera/CAM14/14.m3u8
-#EXTINF:-1 group-title="Камеры" tvg-logo="http://tv.shtorm.com/static/logo/shtorm.jpg", Ангел HD
+#EXTINF:-1 group-title="Shtorm", Ангел HD
 http://webcam.shtorm.com/camera/CAM16/16.m3u8
-#EXTINF:-1 group-title="Камеры" tvg-logo="http://tv.shtorm.com/static/logo/shtorm.jpg", Отель Турист HD
+#EXTINF:-1 group-title="Shtorm", Отель Турист HD
 http://webcam.shtorm.com/camera/CAM15/15.m3u8
-#EXTINF:-1 group-title="Камеры" tvg-logo="http://tv.shtorm.com/static/logo/shtorm.jpg", Александрия проспект Соборный HD
+#EXTINF:-1 group-title="Shtorm", Александрия проспект Соборный HD
 http://webcam.shtorm.com/camera/CAM18/18.m3u8
-
-#EXTINF:-1 group-title="Радио", Другий канал — «Промінь»
+#EXTINF:-1 group-title="Shtorm", Другий канал — «Промінь»
 http://tv.shtorm.com/air/201/index.m3u8
-#EXTINF:-1 group-title="Радио", Перший канал Українского радіо
+#EXTINF:-1 group-title="Shtorm", Перший канал Українского радіо
 http://tv.shtorm.com/air/202/index.m3u8
-#EXTINF:-1 group-title="Радио", Третій канал — радіо «Культура»
+#EXTINF:-1 group-title="Shtorm", Третій канал — радіо «Культура»
 http://tv.shtorm.com/air/203/index.m3u8
 
 #EXTINF:-1 group-title="INTERNET IPTV",Первый канал
@@ -538,7 +529,7 @@ http://185.176.117.243/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8
 http://185.176.117.243/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",TV1000 Русское кино
 http://178.124.183.5/hls/PWIKICZUYF/variant.m3u8?version=2
-#EXTINF:-1 group-title="INTERNET IPTV" ,TV1000 Premium
+#EXTINF:-1 group-title="INTERNET IPTV",TV1000 Premium
 http://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",TV1000 PREMIUM HD
 http://185.176.117.243/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20003=96000-video=5000000.m3u8
@@ -929,7 +920,7 @@ http://185.176.117.243/live/eds/Disney_XD/HLS_encr/Disney_XD.m3u8
 http://185.176.117.243/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Карусель
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="INTERNET IPTV" ,Малятко
+#EXTINF:-1 group-title="INTERNET IPTV",Малятко
 http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Tiji
 http://ott-cdn.ucom.am/s59/index.m3u8
