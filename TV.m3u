@@ -1,266 +1,333 @@
 #EXTM3U deinterlace=1 tvg-logo=Auto m3uautoload=1 cache=1000 url-tvg="http://epg.it999.ru/edem.xml.gz"
-#EXTINF:-1 group-title="Shtorm", РАДА
-http://tv.shtorm.com/air/001/index.m3u8
-#EXTINF:-1 group-title="Shtorm", UA: Перший HD
-http://tv.shtorm.com/air/002/index.m3u8
-#EXTINF:-1 group-title="Shtorm", UA: Культура
-http://tv.shtorm.com/air/003/index.m3u8
-#EXTINF:-1 group-title="Shtorm", TTV
-http://tv.shtorm.com/air/004/index.m3u8
-#EXTINF:-1 group-title="Shtorm", UA: Кропивницький
-http://tv.shtorm.com/air/005/index.m3u8
-#EXTINF:-1 group-title="Shtorm", 2+2
-http://tv.shtorm.com/air/006/index.m3u8
-#EXTINF:-1 group-title="Shtorm", UA: Крим
-http://tv.shtorm.com/air/007/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Вітер HD
-http://tv.shtorm.com/air/112/index.m3u8
-#EXTINF:-1 group-title="Shtorm", ТЕТ
-http://tv.shtorm.com/air/008/index.m3u8
-#EXTINF:-1 group-title="Shtorm", ICTV
-http://tv.shtorm.com/air/009/index.m3u8
-#EXTINF:-1 group-title="Shtorm", СТБ
-http://tv.shtorm.com/air/010/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Новый канал
-http://tv.shtorm.com/air/011/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Украина
-http://tv.shtorm.com/air/012/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Мега
-http://tv.shtorm.com/air/013/index.m3u8
-#EXTINF:-1 group-title="Shtorm", 1+1
-http://tv.shtorm.com/air/015/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Интер
-http://tv.shtorm.com/air/016/index.m3u8
-#EXTINF:-1 group-title="Shtorm", К1
-http://tv.shtorm.com/air/017/index.m3u8
-#EXTINF:-1 group-title="Shtorm", К2
-http://tv.shtorm.com/air/018/index.m3u8
-#EXTINF:-1 group-title="Shtorm", ZOOM
-http://tv.shtorm.com/air/023/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Черноморская ТРК
-http://tv.shtorm.com/air/024/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Винтаж ТВ
-http://tv.shtorm.com/air/026/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Индиго
-http://tv.shtorm.com/air/028/index.m3u8
-#EXTINF:-1 group-title="Shtorm", ATR HD
-http://tv.shtorm.com/air/029/index.m3u8
-#EXTINF:-1 group-title="Shtorm", НЛО-ТВ
-http://tv.shtorm.com/air/030/index.m3u8
-#EXTINF:-1 group-title="Shtorm", НТН
-http://tv.shtorm.com/air/033/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Дача HD
-http://tv.shtorm.com/air/036/index.m3u8
-#EXTINF:-1 group-title="Shtorm", ZIK HD
-http://tv.shtorm.com/air/043/index.m3u8
-#EXTINF:-1 group-title="Shtorm", ОЦЕ
-http://tv.shtorm.com/air/047/index.m3u8
-#EXTINF:-1 group-title="Shtorm", MAXXI-TV
-http://tv.shtorm.com/air/048/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Солнце
-http://tv.shtorm.com/air/050/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Квартал ТВ
-http://tv.shtorm.com/air/055/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Наталi
-http://tv.shtorm.com/air/014/index.m3u8
-#EXTINF:-1 group-title="Shtorm",Бигуди
-http://tv.shtorm.com/air/025/index.m3u8
-#EXTINF:-1 group-title="Shtorm", FashionBox HD
-http://tv.shtorm.com/air/089/index.m3u8
-#EXTINF:-1 group-title="Shtorm",English Club TV HD
-http://tv.shtorm.com/air/051/index.m3u8
-#EXTINF:-1 group-title="Shtorm",Первый автомобильный
-http://tv.shtorm.com/air/049/index.m3u8
-#EXTINF:-1 group-title="Shtorm",Трофей HD
-http://tv.shtorm.com/air/054/index.m3u8
-#EXTINF:-1 group-title="Shtorm",Sea TV HD
-http://tv.shtorm.com/air/095/index.m3u8
-#EXTINF:-1 group-title="Shtorm",Горизонт
-http://tv.shtorm.com/air/109/index.m3u8
-#EXTINF:-1 group-title="Shtorm",Громадське ТБ HD
-http://tv.shtorm.com/air/114/index.m3u8
-#EXTINF:-1 group-title="Shtorm",КРТ
-http://tv.shtorm.com/air/115/index.m3u8
-#EXTINF:-1 group-title="Shtorm", ПравдаТУТ
-http://tv.shtorm.com/air/031/index.m3u8
-#EXTINF:-1 group-title="Shtorm", 5-й кaнал
-http://tv.shtorm.com/air/020/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Прямий HD
-http://tv.shtorm.com/air/037/index.m3u8
-#EXTINF:-1 group-title="Shtorm", OBOZ TV HD
-http://tv.shtorm.com/air/100/index.m3u8
-#EXTINF:-1 group-title="Shtorm", ЕСПРЕСО TV
-http://tv.shtorm.com/air/027/index.m3u8
-#EXTINF:-1 group-title="Shtorm", 112 Украина HD
-http://tv.shtorm.com/air/032/index.m3u8
-#EXTINF:-1 group-title="Shtorm", NewsOne 
-http://tv.shtorm.com/air/034/index.m3u8
-#EXTINF:-1 group-title="Shtorm", 24 News
-http://tv.shtorm.com/air/035/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Unian TV
-http://tv.shtorm.com/air/038/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Первый деловой
-http://tv.shtorm.com/air/039/index.m3u8
-#EXTINF:-1 group-title="Shtorm", 8 канал
-http://tv.shtorm.com/air/110/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Enter-фильм
-http://tv.shtorm.com/air/022/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Star Cinema HD
-http://tv.shtorm.com/air/096/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Star Family HD
-http://tv.shtorm.com/air/097/index.m3u8
-#EXTINF:-1 group-title="Shtorm", FOX
-http://tv.shtorm.com/air/074/index.m3u8
-#EXTINF:-1 group-title="Shtorm", FOX Life
-http://tv.shtorm.com/air/075/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Paramount Comedy
-http://tv.shtorm.com/air/101/index.m3u8
-#EXTINF:-1 group-title="Shtorm", VIP Comedy
-http://tv.shtorm.com/air/059/index.m3u8
-#EXTINF:-1 group-title="Shtorm", TV1000 East
-http://tv.shtorm.com/air/078/index.m3u8
-#EXTINF:-1 group-title="Shtorm", TV1000 World Kino
-http://tv.shtorm.com/air/079/index.m3u8
-#EXTINF:-1 group-title="Shtorm", TV1000 Action
-http://tv.shtorm.com/air/087/index.m3u8
-#EXTINF:-1 group-title="Shtorm", FilmBox Arthouse HD
-http://tv.shtorm.com/air/092/index.m3u8
-#EXTINF:-1 group-title="Shtorm", FilmBox
-http://tv.shtorm.com/air/093/index.m3u8
-#EXTINF:-1 group-title="Shtorm", ЕВРОКИНО
-http://tv.shtorm.com/air/086/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Spike
-http://tv.shtorm.com/air/064/index.m3u8
-#EXTINF:-1 group-title="Shtorm", FilmUA Drama HD
-http://tv.shtorm.com/air/073/index.m3u8
-#EXTINF:-1 group-title="Shtorm", BOLT HD
-http://tv.shtorm.com/air/084/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Sony Channel
-http://tv.shtorm.com/air/106/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Sony Sci Fi
-http://tv.shtorm.com/air/107/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Sony Turbo
-http://tv.shtorm.com/air/108/index.m3u8
-#EXTINF:-1 group-title="Shtorm", EPIC DRAMA HD
-http://tv.shtorm.com/air/113/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Nikki Kids HD
-http://tv.shtorm.com/air/098/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Nikki Junior HD
-http://tv.shtorm.com/air/099/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Пиксель
-http://tv.shtorm.com/air/021/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Малятко TV
-http://tv.shtorm.com/air/040/index.m3u8
-#EXTINF:-1 group-title="Shtorm", ПлюсПлюс
-http://tv.shtorm.com/air/042/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Nickelodeon
-http://tv.shtorm.com/air/066/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Cartoon network
-http://tv.shtorm.com/air/068/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Детский Мир
-http://tv.shtorm.com/air/085/index.m3u8
-#EXTINF:-1 group-title="Shtorm",Lale
-http://tv.shtorm.com/air/111/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Da Vinci
-http://tv.shtorm.com/air/053/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Discovery Channel
-http://tv.shtorm.com/air/069/index.m3u8
-#EXTINF:-1 group-title="Shtorm", National Geographic
-http://tv.shtorm.com/air/057/index.m3u8
-#EXTINF:-1 group-title="Shtorm", National Geographic Wild 
-http://tv.shtorm.com/air/056/index.m3u8
-#EXTINF:-1 group-title="Shtorm", DocuBox HD
-http://tv.shtorm.com/air/094/index.m3u8
-#EXTINF:-1 group-title="Shtorm", EPOQUE
-http://tv.shtorm.com/air/062/index.m3u8
-#EXTINF:-1 group-title="Shtorm", ZooПарк
-http://tv.shtorm.com/air/067/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Discovery Showcase HD
-http://tv.shtorm.com/air/071/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Animal Planet
-http://tv.shtorm.com/air/070/index.m3u8
-#EXTINF:-1 group-title="Shtorm", TLC
-http://tv.shtorm.com/air/072/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Терра
-http://tv.shtorm.com/air/065/index.m3u8
-#EXTINF:-1 group-title="Shtorm", IDX
-http://tv.shtorm.com/air/103/index.m3u8
-#EXTINF:-1 group-title="Shtorm", ФАУНА
-http://tv.shtorm.com/air/052/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Наукa
-http://tv.shtorm.com/air/063/index.m3u8
-#EXTINF:-1 group-title="Shtorm", History HD
-http://tv.shtorm.com/air/080/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Viasat History
-http://tv.shtorm.com/air/076/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Viasat Nature CEE
-http://tv.shtorm.com/air/077/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Viasat Explorer
-http://tv.shtorm.com/air/081/index.m3u8
-#EXTINF:-1 group-title="Shtorm", 36.6 TV
-http://tv.shtorm.com/air/105/index.m3u8
-#EXTINF:-1 group-title="Shtorm", М1
-http://tv.shtorm.com/air/019/index.m3u8
-#EXTINF:-1 group-title="Shtorm", М2
-http://tv.shtorm.com/air/044/index.m3u8
-#EXTINF:-1 group-title="Shtorm", OTV
-http://tv.shtorm.com/air/045/index.m3u8
-#EXTINF:-1 group-title="Shtorm", EU Music HD
-http://tv.shtorm.com/air/046/index.m3u8
-#EXTINF:-1 group-title="Shtorm", 360 Tune Box HD
-http://tv.shtorm.com/air/088/index.m3u8
-#EXTINF:-1 group-title="Shtorm", 4ever music HD
-http://tv.shtorm.com/air/104/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Music Box
-http://tv.shtorm.com/air/058/index.m3u8
-#EXTINF:-1 group-title="Shtorm", XSPORT
-http://tv.shtorm.com/air/041/index.m3u8
-#EXTINF:-1 group-title="Shtorm", FAST FUN Box HD
-http://tv.shtorm.com/air/090/index.m3u8
-#EXTINF:-1 group-title="Shtorm", FightBox HD
-http://tv.shtorm.com/air/091/index.m3u8
-#EXTINF:-1 group-title="Shtorm", EUROSPORT
-http://tv.shtorm.com/air/082/index.m3u8
-#EXTINF:-1 group-title="Shtorm", EUROSPORT 2
-http://tv.shtorm.com/air/083/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Футбол1
-http://tv.shtorm.com/air/060/index.m3u8
-#EXTINF:-1 group-title="Shtorm", Футбол2
-http://tv.shtorm.com/air/061/index.m3u8
 
-#EXTINF:-1 group-title="Камеры", Героев майдана кам. 1
-http://webcam.shtorm.com/camera/CAM15/15.m3u8
-#EXTINF:-1 group-title="Камеры", Героев майдана кам. 2
-http://webcam.shtorm.com/camera/CAM12/12.m3u8
-#EXTINF:-1 group-title="Камеры", Горисполком
-http://webcam.shtorm.com/camera/CAM14/14.m3u8
-#EXTINF:-1 group-title="Камеры", Ангел
-http://webcam.shtorm.com/camera/CAM16/16.m3u8
-#EXTINF:-1 group-title="Камеры", Отель турист
+#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/ua1_logo.png", UA: Перший HD
+http://tv.shtorm.com/air/002/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/ttv.png", TTV
+http://tv.shtorm.com/air/004/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/uakrop.png", UA: Кропивницький
+http://tv.shtorm.com/air/005/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/2plus2.png", 2+2
+http://tv.shtorm.com/air/006/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/viter.png", Вітер HD
+http://tv.shtorm.com/air/112/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/tet.png", ТЕТ
+http://tv.shtorm.com/air/008/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/ictv.png", ICTV
+http://tv.shtorm.com/air/009/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/stb.png", СТБ
+http://tv.shtorm.com/air/010/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/novy.png", Новый канал
+http://tv.shtorm.com/air/011/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/trkukraine.png", Украина HD
+http://tv.shtorm.com/air/012/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/1plus1.png", 1+1
+http://tv.shtorm.com/air/015/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/inter.png", Интер
+http://tv.shtorm.com/air/016/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/k1.png", К1
+http://tv.shtorm.com/air/017/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/k2.png", К2
+http://tv.shtorm.com/air/018/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/zoom.png", ZOOM
+http://tv.shtorm.com/air/023/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/chernomorka.png", Черноморская ТРК
+http://tv.shtorm.com/air/024/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/vintage.png", Винтаж ТВ
+http://tv.shtorm.com/air/026/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/indigo.png", Индиго HD
+http://tv.shtorm.com/air/028/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/atr.png", ATR HD
+http://tv.shtorm.com/air/029/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/nlotv.png", НЛО TV HD
+http://tv.shtorm.com/air/030/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/otse.png", ОЦЕ
+http://tv.shtorm.com/air/047/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/maxxi.png", MAXXI-TV
+http://tv.shtorm.com/air/048/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/solnce.png", Солнце HD
+http://tv.shtorm.com/air/050/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/kvartal.png", Квартал ТВ
+http://tv.shtorm.com/air/055/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/natali.png", Наталi
+http://tv.shtorm.com/air/014/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/fashionbox.png", FashionBox HD
+http://tv.shtorm.com/air/089/index.m3u8
+#EXTINF:-1, Fashion TV
+http://tv.shtorm.com/air/120/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/karavan.png", Караван TV
+http://tv.shtorm.com/air/118/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/milady.png", Milady Television
+http://tv.shtorm.com/air/119/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/sea.png",Sea TV HD
+http://tv.shtorm.com/air/095/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/svarozhichi.png", Сварожичи
+http://tv.shtorm.com/air/109/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.shtorm.com/static/logo/krt.png", КРТ
+http://tv.shtorm.com/air/115/index.m3u8
+
+#EXTINF:-1, Дорама
+http://tv.shtorm.com/air/128/index.m3u8
+#EXTINF:-1, OstWest
+http://tv.shtorm.com/air/129/index.m3u8
+#EXTINF:-1, Zee TV
+http://tv.shtorm.com/air/130/index.m3u8
+
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://tv.shtorm.com/static/logo/rada.png", РАДА
+http://tv.shtorm.com/air/001/index.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://tv.shtorm.com/static/logo/uakrim.png", UA: Крим
+http://tv.shtorm.com/air/007/index.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://tv.shtorm.com/static/logo/ntn.png", НТН
+http://tv.shtorm.com/air/033/index.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://tv.shtorm.com/static/logo/zik.png", ZIK HD
+http://tv.shtorm.com/air/043/index.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://tv.shtorm.com/static/logo/hromadske.png", Громадське ТБ HD
+http://tv.shtorm.com/air/114/index.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://tv.shtorm.com/static/logo/pravdatut.png", ПравдаТУТ HD
+http://tv.shtorm.com/air/031/index.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://tv.shtorm.com/static/logo/5channel.png", 5-й кaнал HD
+http://tv.shtorm.com/air/020/index.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://tv.shtorm.com/static/logo/pryamoy.png", Прямий HD
+http://tv.shtorm.com/air/037/index.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://tv.shtorm.com/static/logo/oboztv.png", OBOZ TV HD
+http://tv.shtorm.com/air/100/index.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://tv.shtorm.com/static/logo/espreso.png", ЕСПРЕСО TV
+http://tv.shtorm.com/air/027/index.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://tv.shtorm.com/static/logo/112channel.png", 112 Украина HD
+http://tv.shtorm.com/air/032/index.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://tv.shtorm.com/static/logo/newsone.png", NewsOne 
+http://tv.shtorm.com/air/034/index.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://tv.shtorm.com/static/logo/24channel.png", 24 News
+http://tv.shtorm.com/air/035/index.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://tv.shtorm.com/static/logo/unian.png", Unian TV
+http://tv.shtorm.com/air/038/index.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://tv.shtorm.com/static/logo/1delovoi.png", Первый деловой
+http://tv.shtorm.com/air/039/index.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-logo="http://tv.shtorm.com/static/logo/8channel.png", 8 канал
+http://tv.shtorm.com/air/110/index.m3u8
+
+#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/bigudi.png", Бигуди
+http://tv.shtorm.com/air/025/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/enterfilm.png", Enter-фильм
+http://tv.shtorm.com/air/022/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/starcinema.png", Star Cinema HD
+http://tv.shtorm.com/air/096/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/starfamily.png", Star Family HD
+http://tv.shtorm.com/air/097/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/paramountcomedy.png", Paramount Comedy
+http://tv.shtorm.com/air/101/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/vipcomedy.png", VIP Comedy
+http://tv.shtorm.com/air/059/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/tv1000.png", TV1000
+http://tv.shtorm.com/air/078/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/tv1000worldkino.png", TV1000 World Kino
+http://tv.shtorm.com/air/079/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/tv1000action.png", TV1000 Action
+http://tv.shtorm.com/air/087/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/filmboxarthouse.png", FilmBox Arthouse HD
+http://tv.shtorm.com/air/092/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/filmbox.png", FilmBox
+http://tv.shtorm.com/air/093/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/eurokino.png", ЕВРОКИНО
+http://tv.shtorm.com/air/086/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/fox.png", FOX
+http://tv.shtorm.com/air/074/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/foxlife.png", FOX Life
+http://tv.shtorm.com/air/075/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/spike.png", Spike
+http://tv.shtorm.com/air/064/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/filmuadrama.png", FilmUA Drama HD
+http://tv.shtorm.com/air/073/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/bolt.png", BOLT HD
+http://tv.shtorm.com/air/084/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/sonychannel.png", Sony Channel
+http://tv.shtorm.com/air/106/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/sonyscifi.png", Sony Sci Fi
+http://tv.shtorm.com/air/107/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/sonyturbo.png", Sony Turbo
+http://tv.shtorm.com/air/108/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.shtorm.com/static/logo/epicdrama.png", EPIC DRAMA HD
+http://tv.shtorm.com/air/113/index.m3u8
+
+#EXTINF:-1 group-title="Детские" tvg-logo="http://tv.shtorm.com/static/logo/nikikids.png", Nikki Kids HD
+http://tv.shtorm.com/air/098/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://tv.shtorm.com/static/logo/nikijunior.png", Nikki Junior HD
+http://tv.shtorm.com/air/099/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://tv.shtorm.com/static/logo/pixeltv.png", Пиксель
+http://tv.shtorm.com/air/021/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://tv.shtorm.com/static/logo/malyatko.png", Малятко TV
+http://tv.shtorm.com/air/040/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://tv.shtorm.com/static/logo/plusplus.png", ПлюсПлюс
+http://tv.shtorm.com/air/042/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://tv.shtorm.com/static/logo/nickelodeon.png", Nickelodeon
+http://tv.shtorm.com/air/066/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://tv.shtorm.com/static/logo/cartoon.png", Cartoon network
+http://tv.shtorm.com/air/068/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://tv.shtorm.com/static/logo/detskiymir.png", Детский Мир
+http://tv.shtorm.com/air/085/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="http://tv.shtorm.com/static/logo/lale.png", Lale
+http://tv.shtorm.com/air/111/index.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/uaculture.png", UA: Культура
+http://tv.shtorm.com/air/003/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/mega.png", Мега
+http://tv.shtorm.com/air/013/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/davinci.png", Da Vinci
+http://tv.shtorm.com/air/053/index.m3u8
+#EXTINF:-1;category=Познавательные, Discovery Science
+http://tv.shtorm.com/air/103/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/discovery.png", Discovery Channel
+http://tv.shtorm.com/air/069/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/nationalgeo.png", National Geographic
+http://tv.shtorm.com/air/057/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/natgeowild.png", National Geographic Wild 
+http://tv.shtorm.com/air/056/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/dacha.png", Дача HD
+http://tv.shtorm.com/air/036/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/englishclub.png", English Club TV HD
+http://tv.shtorm.com/air/051/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/docuboxhd.png", DocuBox HD
+http://tv.shtorm.com/air/094/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/epoque.png", EPOQUE
+http://tv.shtorm.com/air/062/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/zoopark.png", ZooПарк
+http://tv.shtorm.com/air/067/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/animalplanet.png", Animal Planet
+http://tv.shtorm.com/air/070/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/tlc.png", TLC
+http://tv.shtorm.com/air/072/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/terra.png", Терра
+http://tv.shtorm.com/air/065/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/fauna.png", Фауна
+http://tv.shtorm.com/air/052/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/nauka.png", Наукa
+http://tv.shtorm.com/air/063/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/historyhd.png", History HD
+http://tv.shtorm.com/air/080/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/viasathistory.png", Viasat History
+http://tv.shtorm.com/air/076/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/viasatnature.png", Viasat Nature
+http://tv.shtorm.com/air/077/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Viasat Explorer
+http://tv.shtorm.com/air/081/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/366tv.png", 36.6 TV HD
+http://tv.shtorm.com/air/105/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.shtorm.com/static/logo/ekotv.png", ЕКО TV
+http://tv.shtorm.com/air/117/index.m3u8
+
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://tv.shtorm.com/static/logo/m1tv.png", М1
+http://tv.shtorm.com/air/019/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://tv.shtorm.com/static/logo/m2tv.png", М2
+http://tv.shtorm.com/air/044/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://tv.shtorm.com/static/logo/otvmusic.png", OTV
+http://tv.shtorm.com/air/045/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://tv.shtorm.com/static/logo/eumusichd.png", EU Music HD
+http://tv.shtorm.com/air/046/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://tv.shtorm.com/static/logo/360tunebox.png", 360 Tune Box HD
+http://tv.shtorm.com/air/088/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://tv.shtorm.com/static/logo/music4ever.png", 4ever music HD
+http://tv.shtorm.com/air/104/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://tv.shtorm.com/static/logo/musicbox.png", Music Box
+http://tv.shtorm.com/air/058/index.m3u8
+#EXTINF:-1 group-title="Музыка", MTV Europe
+http://tv.shtorm.com/air/121/index.m3u8
+#EXTINF:-1 group-title="Музыка", MTV Hits
+http://tv.shtorm.com/air/122/index.m3u8
+#EXTINF:-1 group-title="Музыка", MTV Rocks
+http://tv.shtorm.com/air/123/index.m3u8
+#EXTINF:-1 group-title="Музыка", VH1
+http://tv.shtorm.com/air/124/index.m3u8
+#EXTINF:-1 group-title="Музыка", VH1 Classic
+http://tv.shtorm.com/air/125/index.m3u8
+#EXTINF:-1 group-title="Музыка", MTV Dance
+http://tv.shtorm.com/air/126/index.m3u8
+#EXTINF:-1 group-title="Музыка", MTV Live HD
+http://tv.shtorm.com/air/127/index.m3u8
+
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://tv.shtorm.com/static/logo/setantasports.png", Setanta Sports HD
+http://tv.shtorm.com/air/116/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://tv.shtorm.com/static/logo/xsport.png", XSPORT
+http://tv.shtorm.com/air/041/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://tv.shtorm.com/static/logo/fastandfunbox.png", FAST&FUN Box HD
+http://tv.shtorm.com/air/090/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://tv.shtorm.com/static/logo/fightbox.png", FightBox HD
+http://tv.shtorm.com/air/091/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://tv.shtorm.com/static/logo/eurosport1.png", EUROSPORT 1
+http://tv.shtorm.com/air/082/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://tv.shtorm.com/static/logo/eurosport2.png", EUROSPORT 2
+http://tv.shtorm.com/air/083/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://tv.shtorm.com/static/logo/football1.png", Футбол1
+http://tv.shtorm.com/air/060/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://tv.shtorm.com/static/logo/football2.png", Футбол2
+http://tv.shtorm.com/air/061/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://tv.shtorm.com/static/logo/1auto.png", Первый автомобильный
+http://tv.shtorm.com/air/049/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://tv.shtorm.com/static/logo/trofey.png", Трофей HD
+http://tv.shtorm.com/air/054/index.m3u8
+
+#EXTINF:-1 group-title="Камеры" tvg-logo="http://tv.shtorm.com/static/logo/shtorm.jpg", Площадь Героев Майдана верхняя камера HD
 http://webcam.shtorm.com/camera/CAM17/17.m3u8
-#EXTINF:-1 group-title="Камеры", Александрия, просп. Соборный
+#EXTINF:-1 group-title="Камеры" tvg-logo="http://tv.shtorm.com/static/logo/shtorm.jpg", Площадь Героев Майдана нижняя камера HD
+http://webcam.shtorm.com/camera/CAM12/12.m3u8
+#EXTINF:-1 group-title="Камеры" tvg-logo="http://tv.shtorm.com/static/logo/shtorm.jpg", Площадь горисполкома HD
+http://webcam.shtorm.com/camera/CAM14/14.m3u8
+#EXTINF:-1 group-title="Камеры" tvg-logo="http://tv.shtorm.com/static/logo/shtorm.jpg", Ангел HD
+http://webcam.shtorm.com/camera/CAM16/16.m3u8
+#EXTINF:-1 group-title="Камеры" tvg-logo="http://tv.shtorm.com/static/logo/shtorm.jpg", Отель Турист HD
+http://webcam.shtorm.com/camera/CAM15/15.m3u8
+#EXTINF:-1 group-title="Камеры" tvg-logo="http://tv.shtorm.com/static/logo/shtorm.jpg", Александрия проспект Соборный HD
 http://webcam.shtorm.com/camera/CAM18/18.m3u8
 
+#EXTINF:-1 group-title="Радио", Другий канал — «Промінь»
+http://tv.shtorm.com/air/201/index.m3u8
+#EXTINF:-1 group-title="Радио", Перший канал Українского радіо
+http://tv.shtorm.com/air/202/index.m3u8
+#EXTINF:-1 group-title="Радио", Третій канал — радіо «Культура»
+http://tv.shtorm.com/air/203/index.m3u8
+
+#EXTINF:-1 group-title="INTERNET IPTV",Первый канал
+http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Первый канал
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",Первый канал (+5)
+http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_IRK_1TV/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",Первый канал (+6)
+http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",Первый Тульский
+http://rt-ct-tula-htlive-lb.cdn.ngenix.net/hls/CH_R01_PERV_TUL/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",Первый Ярославский
+http://rt-ct-yarl-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",Первый городской (Киров)
+http://rt-vlg-kirov-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KIROV_PERVYGORODSKOY/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",Первый городской (Омск)
+http://rt-sib-omsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_1GORODSKOY/variant.m3u8?version=2
 #EXTINF:-1 group-title="INTERNET IPTV",Первый Канал
 http://79.135.71.195:7777
-#EXTINF:-1 group-title="INTERNET IPTV",Первый Канал HD
-http://188.35.9.5:10005/stolen/103r/imposter.rar
-#EXTINF:-1 group-title="INTERNET IPTV",Первый городской Калининград
-http://live-1gorodskoi.cdnvideo.ru/1gorodskoi/klg.sdp/playlist.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Первый городской Нижний Новгород
-http://live-1gorodskoi.cdnvideo.ru/1gorodskoi/nn.sdp/playlist.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Первый канал
-http://ott-cdn.ucom.am/s14/index.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Московский образовательный ТВ HD
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Россия 1
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="INTERNET IPTV",Россия 1
 http://79.135.71.195:7778
 #EXTINF:-1 group-title="INTERNET IPTV",Россия 1 HD
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Россия РТР
 http://ott-cdn.ucom.am/s15/index.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Россия 24
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",Россия К
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",Россия К
+http://178.124.183.5/hls/9XJGVFFAWZ/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",Москва 24
+http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",Москва Доверие
+http://dmitry-tv.ru/his/itv_zabava/CH_MOSKVADOVERIE.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Звезда
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",ТВ Центр
+http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Мир 
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/chunklist.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Мир HD
@@ -275,46 +342,58 @@ http://hls-01-nashetv.magonet.ru/nashetv/live/index.m3u8
 http://360tv-cdn.facecast.io/360/channel2/1.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",360 Новости HD
 http://360tv-cdn.facecast.io/360/channel1/1.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",НТВ HD
-http://188.35.9.5:10007/stolen/141n/parasite.install
+#EXTINF:-1 group-title="INTERNET IPTV",НТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="INTERNET IPTV",НТВ мир
 http://ott-cdn.ucom.am/s17/index.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",ТНТ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",ТНТ4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",ТВ Центр
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",РЕН ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="INTERNET IPTV",Рен ТВ
 http://185.176.117.243/live/eds/Ren_TV/HLS_encr/Ren_TV.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Пятница! (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="INTERNET IPTV",ON! Пятница
-http://sc.id-tv.kz/Tan_36_37.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",СТС (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="INTERNET IPTV",ЧЕ
-http://176.114.16.54:80/che/index.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Пятый канал
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",Домашний
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",Пятница!
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",Пятница HD
+https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",СТС
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",СТС Kids
+http://178.124.183.5/hls/CH_CTCKIDS/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",Сарафан
+http://178.124.183.5/hls/Y9GP8UFTZO/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",ТВ-3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",Супер
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="INTERNET IPTV",Че
-http://46.32.68.167/s/live/802/86.169.51.136/1/0.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Че (Север ) +2
-http://tvsever.ru:8080/hls/ach2.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="INTERNET IPTV",Ю
-http://46.32.68.167/s/live/809/86.169.51.136/1/0.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Ю
-http://176.114.16.54:80/utv/index.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="INTERNET IPTV",Крик ТВ
 http://cdn-01.bonus-tv.ru:8080/kriktv_edge/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Новый мир
 http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",ОТР
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",ОТР
 http://live-otronline.cdnvideo.ru/otr-decklink/otr/playlist.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Русский Север
 http://rusevertv.ru/576/rs_crf28_.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Ростов-папа HD
-http://hls-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Парк Патриот HD
 http://serv25.vintera.tv:8081/parad/patriot/playlist.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",8 Канал
 http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Калейдоскоп ТВ 
 http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",ИКС HD 
-http://ikstv-htlive.cdn.ngenix.net/live/ikstv/playlist.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Известия ТВ HD
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Известия ТВ FHD
@@ -333,26 +412,70 @@ http://178.124.183.5/hls/GCKYZGGFEJ/variant.m3u8?version=2
 http://178.124.183.5/hls/TSNEW37RPC/variant.m3u8?version=2
 #EXTINF:-1 group-title="INTERNET IPTV",Беларусь 4
 http://95.46.208.8:26258/belarus4
-#EXTINF:-1 group-title="INTERNET IPTV",Беларусь 4 (Могилёв)
-http://86.57.225.238:8090
+#EXTINF:-1 group-title="INTERNET IPTV",Беларусь 4 Брест
+http://178.124.183.5/hls/CH_BELARUS4BR/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",Беларусь 4 Витебск
+http://178.124.183.5/hls/CH_BELARUS4VIT/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",Беларусь 4 Гомель
+http://178.124.183.5/hls/CH_BELARUS4GOM/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",Беларусь 4 Гродно
+http://178.124.183.5/hls/CH_BELARUS4GR/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",Беларусь 4 Могилев
+http://178.124.183.5/hls/CH_BELARUS4MOG/variant.m3u8?version=2
 #EXTINF:-1 group-title="INTERNET IPTV",Беларусь 5
 http://178.124.183.5/hls/JRKVSUPCP8/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",Беларусь 24 HD
+https://nimble01edge01.hoster.by/belarus24hd/livehd/chunks.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",НТВ Беларусь
+http://178.124.183.5/hls/DYJ5GH8HOK/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",ОНТ
+http://178.124.183.14/hls/NCLEFHVZGR/bw2500000/playlist.m3u8?version=2
 #EXTINF:-1 group-title="INTERNET IPTV",1+1
 http://195.162.90.141:8080/69eb7dadf6604e79b88645a16172adda
 #EXTINF:-1 group-title="INTERNET IPTV",1+1
 http://109.95.47.229:809/120cas/index.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Новый Канал
+http://109.95.47.229:809/105cas/index.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",СТБ
+http://109.95.47.229:809/102cas/index.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Интер
 http://109.68.41.148:1935/live/inter_2/playlist.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",K1
-https://edge2.iptv.macc.com.ua/life/k1_2/index.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Мега
+http://188.35.9.5:10007/stolen/140r/parasite.install
+#EXTINF:-1 group-title="INTERNET IPTV",1 Крым
+http://31.40.128.20/hls/021_krim_1.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",К1
 http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",K2
+http://188.35.9.11:11072/d
 #EXTINF:-1 group-title="INTERNET IPTV",НТН
 http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",КВН
-http://109.248.236.41:4433/udp/238.1.1.111:1234
-#EXTINF:-1 group-title="INTERNET IPTV",ЧП Инфо
-http://109.68.40.67/life/magnolia_2/index.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Прямый
+http://95.67.21.100/hls/prm_ua_hi/index.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Сонце
+http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Галичина
+http://api.tv.ipnet.ua/api/v1/manifest/2118742464.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Киев ТВ
+http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Громадске
+http://api.tv.ipnet.ua/api/v1/manifest/2118742457.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Еспресо
+http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",4 канал
+http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",КРТ
+http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Наш
+http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Eco TV
+http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",РАИ
+http://api.tv.ipnet.ua/api/v1/manifest/2118742460.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Правда ТУТ
+http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Первый Деловой
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Bambarbia TV HD
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",ВТВ-Плюс
@@ -362,58 +485,79 @@ http://iptv.rubintele.com:8552/play/a007
 http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska720p/playlist.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",112 Украина HD
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Ultra HD Cinema HD
+http://dmitry-tv.ru/his/itv_zabava/CH_ULTRAHDCINEMA_HLSHD.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Ultra HD Cinema QHD
+http://dmitry-tv.ru/his/itv_zabava/CH_ULTRAHDCINEMA_HLSQHD.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Ultra HD Cinema UHD
+http://dmitry-tv.ru/his/itv_zabava/CH_ULTRAHDCINEMA_HLSUHD.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Ultra HD cinema
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2&hd
+#EXTINF:-1 group-title="INTERNET IPTV",Ultra HD Cinema FulHD
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Ultra HD Cinema
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-147600
+#EXTINF:-1 group-title="INTERNET IPTV",ULTO
+http://ultotv.ru:8888/live/uhd/playlist.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Шокирующее HD
 http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
 #EXTINF:-1 group-title="INTERNET IPTV",Комедийное HD
 http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
-#EXTINF:-1 group-title="INTERNET IPTV",ViP Comedy HD
+#EXTINF:-1 group-title="INTERNET IPTV",Остросюжетное HD
+http://188.35.9.11:2015
+#EXTINF:-1 group-title="INTERNET IPTV",Marvel ТВ
+http://v3.myowntv.org/content/35525/index.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Наше Крутое HD
+http://ba5729d5.krasnafhg.ru/iptv/EAEWFFWBXPVVLY/915/index.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",ViP Comedy
 http://streamer.sktv.peers.tv/streaming/tv_1000_comedy_hd/364/copy/playlist.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",ViP Megahit
 http://streamer.sktv.peers.tv/streaming/tv_1000_megahit_hd/364/copy/playlist.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",VIP Megahit HD
-http://188.35.9.5:10020/stolen/403x/hot.dll
 #EXTINF:-1 group-title="INTERNET IPTV",ViP Premiere
 http://streamer.sktv.peers.tv/streaming/tv1000_premium_hd/364/copy/playlist.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",ViP Megahit HD
+http://188.35.9.11:2016
+#EXTINF:-1 group-title="INTERNET IPTV",ViP Premiere HD
+http://188.35.9.15:2013
+#EXTINF:-1 group-title="INTERNET IPTV",ViP Comedy
+http://220.79.125.230:8080/play/a01g/index.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",ViP Megahit
+http://220.79.125.230:8080/play/a01f/index.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",ViP Premiere
+http://220.79.125.230:8080/play/a01e/index.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",TV1000
+http://178.124.183.5/hls/6WMZMUEWGN/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",TV1000 Action
+http://178.124.183.5/hls/9X9NUEEKGW/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",TV1000 Русское кино
+http://178.124.183.5/hls/PWIKICZUYF/variant.m3u8?version=2
 #EXTINF:-1 group-title="INTERNET IPTV",TV1000
 http://185.176.117.243/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",TV1000 Action
 http://185.176.117.243/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",TV1000 Русское кино
 http://178.124.183.5/hls/PWIKICZUYF/variant.m3u8?version=2
-#EXTINF:-1 group-title="INTERNET IPTV",TV1000 Premium
+#EXTINF:-1 group-title="INTERNET IPTV" ,TV1000 Premium
+http://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",TV1000 PREMIUM HD
 http://185.176.117.243/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20003=96000-video=5000000.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",TV1000 Premium HD
-http://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20003=96000-video=5000000.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",TV1000
-http://188.35.9.5:10020/stolen/484c/hot.dll
-#EXTINF:-1 group-title="INTERNET IPTV",TV 1000 Action
-http://92.43.140.249/s91/04.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Amedia Premium 
-http://92.43.140.249/s64/04.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Hollywood
-http://46.32.68.167/s/live/256/86.169.51.136/1/0.m3u8
+http://46.32.68.167/s/live/256/86.169.51.136/0/0.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Bollywood
+http://151.0.48.26:8080/ch0139
+#EXTINF:-1 group-title="INTERNET IPTV",FILM TV
+http://195.9.195.3:8080/manifest/165462_master.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",BOLT
 http://178.124.183.5/hls/CH_BOLT/variant.m3u8?version=2
 #EXTINF:-1 group-title="INTERNET IPTV",FOX
 http://178.124.183.5/hls/CH_FOX/variant.m3u8?version=2
-#EXTINF:-1 group-title="INTERNET IPTV",FOX
-http://213.252.252.2/live/eds/FOX/HLS_encr/FOX-audio_20000=96000-video=2200000.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",FOX Life
 http://178.124.183.5/hls/CH_FOXL/variant.m3u8?version=2
-#EXTINF:-1 group-title="INTERNET IPTV",Paramount Comedy
-http://46.32.68.167/s/live/250/86.169.51.136/1/0.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Sony Channel
-http://46.32.68.167/s/live/259/86.169.51.136/1/0.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Sony Channel HD
 http://178.124.183.5/hls/VPRSUR2WN2/variant.m3u8?version=2
 #EXTINF:-1 group-title="INTERNET IPTV",Sony Sci-Fi
-http://46.32.68.167/s/live/258/86.169.51.136/1/0.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Sony Sci-Fi
 http://178.124.183.5/hls/EDVYQYGHF8/variant.m3u8?version=2
-#EXTINF:-1 group-title="INTERNET IPTV",Sony Turbo
-http://46.32.68.167/s/live/260/86.169.51.136/1/0.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Sony Sci-Fi 
 http://178.124.183.12/hls/EDVYQYGHF8/bw2000000/playlist.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Иллюзион__ 
@@ -422,70 +566,40 @@ http://178.124.183.12/hls/V8TRED4CZL/bw2000000/playlist.m3u8
 http://185.176.117.243/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Epic Drama
 http://88.119.220.2/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",STAR CINEMA
+http://178.124.183.5/hls/CH_STARCINEMA/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",STAR FAMILY
+http://178.124.183.5/hls/CH_FAMILY/variant.m3u8?version=2
 #EXTINF:-1 group-title="INTERNET IPTV",Красная линия 
 https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Марс-ТВ 
-https://autopilot.catcast.me/content/37033/index.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Настоящее Страшное Телевидение 
-http://92.43.140.249/s87/04.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Победа 
 http://ott-cdn.ucom.am/s47/04.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Русский иллюзион 
 http://178.124.183.12/hls/CMV4SNACFQ/bw2000000/playlist.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",312 Кино HD
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",U.HD
-http://95.216.143.86:8888/live/uhd/playlist.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Кино UHD
 http://188.35.9.26:16050/udp/238.0.16.1:69000
-#EXTINF:-1 group-title="INTERNET IPTV",Мир Сериала
-http://188.35.9.5:10007/stolen/125e/parasite.install
-#EXTINF:-1 group-title="INTERNET IPTV",Русский Роман HD
-http://188.35.9.5:10007/stolen/127k/parasite.install
-#EXTINF:-1 group-title="INTERNET IPTV",Enter-фільм
-http://188.35.9.5:10007/stolen/138w/parasite.install
+#EXTINF:-1 group-title="INTERNET IPTV",Кино ТВ HD
+http://220.79.125.230:8080/play/a014/index.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Кино ТВ
 http://195.162.90.141:8080/ca11d23839ef9e958ff6a6cd020f6e7d
-#EXTINF:-1 group-title="INTERNET IPTV",Кинозал 2
-http://v3.catcast.me/content2/36487/index.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Кинозал HD1 Медиатек
-http://cdn.mediatech.by/cs_virtkinozalhd1/index.m3u8?token=00MTA4MjI4NnwzMzl8MA==&filter=tracks:v1a1a2a3
-#EXTINF:-1 group-title="INTERNET IPTV",Кинозал HD2 Медиатек
-http://cdn.mediatech.by/cs_virtkinozalhd2/index.m3u8?token=00MTA4MjI4NnwzMzl8MA==&filter=tracks:v1a1a2a3
-#EXTINF:-1 group-title="INTERNET IPTV",Кинозал HD3 Медиатек
-http://cdn.mediatech.by/cs_virtkinozalhd3/index.m3u8?token=00MTA4MjI4NnwzMzl8MA==&filter=tracks:v1a1a2a3
-#EXTINF:-1 group-title="INTERNET IPTV",Кинокомедия
-http://46.32.68.167/s/live/254/86.169.51.136/1/0.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Дом Кино
+http://220.79.125.230:8080/play/a012/index.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Дом кино
+http://178.57.121.38:8080/domkino/index.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",НСТ
+http://178.124.183.5/hls/NEZVX5TVZX/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",Еврокино
+http://178.124.183.5/hls/JEDUS3FS7V/variant.m3u8?version=2
 #EXTINF:-1 group-title="INTERNET IPTV",Киноман
 http://ott-cdn.ucom.am/s94/index.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Киноменю HD
-http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Киномикс
-http://46.32.68.167/s/live/265/86.169.51.136/1/0.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Киномикс
 http://178.124.183.5/hls/VVG76MWUGX/variant.m3u8?version=2
 #EXTINF:-1 group-title="INTERNET IPTV",Кинопремиум HD
 http://195.162.90.141:8080/fa6eca5757e2029ce6f0e5e9ff90d952
 #EXTINF:-1 group-title="INTERNET IPTV",Кинопремьера HD
 http://178.124.183.5/hls/CH_KINOPREMERA/variant.m3u8?version=2
-#EXTINF:-1 group-title="INTERNET IPTV",Киносвидание
-http://46.32.68.167/s/live/267/86.169.51.136/1/0.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Киносемья
-http://46.32.68.167/s/live/266/86.169.51.136/1/0.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Киносемья
-http://178.124.183.5/hls/FEDXG8XPOR/variant.m3u8?version=2
-#EXTINF:-1 group-title="INTERNET IPTV",Киносерия
-http://46.32.68.167/s/live/253/86.169.51.136/1/0.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Киносерия
-http://178.124.183.5/hls/CH_KINOSERIA/variant.m3u8?version=2
-#EXTINF:-1 group-title="INTERNET IPTV",Кинохит
-http://178.124.183.5/hls/HDOHSSZQCP/variant.m3u8?version=2
-#EXTINF:-1 group-title="INTERNET IPTV",Кинопремьера HD
-http://178.124.183.5/hls/CH_KINOPREMERA/variant.m3u8?version=2
-#EXTINF:-1 group-title="INTERNET IPTV",Кинопремиум HD
-http://195.162.90.141:8080/fa6eca5757e2029ce6f0e5e9ff90d952
-#EXTINF:-1 group-title="INTERNET IPTV",Кинопремьера HD
-http://45.67.230.146:8000/play/a017/index.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Киносемья
 http://178.124.183.5/hls/FEDXG8XPOR/variant.m3u8?version=2
 #EXTINF:-1 group-title="INTERNET IPTV",Киносерия
@@ -500,44 +614,14 @@ http://178.124.183.5/hls/UVPWPN2KTN/variant.m3u8?version=2
 http://178.124.183.5/hls/CH_NASHEKINO/variant.m3u8?version=2
 #EXTINF:-1 group-title="INTERNET IPTV",Наше ТВ
 http://hls-01-nashetv.magonet.ru/nashetv/live/index.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Мир Сериала
-http://188.35.9.5:10007/stolen/125e/parasite.install
-#EXTINF:-1 group-title="INTERNET IPTV",Киноменю HD
-http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Киномикс
-http://86.57.225.245:7015/play/a005
-#EXTINF:-1 group-title="INTERNET IPTV",Киносвидание
-http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/728/index.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Киносемья
-http://86.57.225.245:7015/play/a00p
-#EXTINF:-1 group-title="INTERNET IPTV",Классика кино
-http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Наше Любимое кино
-http://109.248.90.69:4044/udp/239.195.1.31:1234
 #EXTINF:-1 group-title="INTERNET IPTV",Наше новое кино
 http://178.124.183.5/hls/UVPWPN2KTN/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",Наше любимое кино
+http://178.124.183.5/hls/CH_NASHEKINO/variant.m3u8?version=2
 #EXTINF:-1 group-title="INTERNET IPTV",Индийское кино
 http://178.124.183.5/hls/CH_INDIYATV/variant.m3u8?version=2
-#EXTINF:-1 group-title="INTERNET IPTV",Остросюжетное HD
-http://188.35.9.11:2015
-#EXTINF:-1 group-title="INTERNET IPTV",Премьера TV 
-http://live.planeta-online.tv:1935/public/channel_5/playlist.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Родное кино
-http://86.57.225.245:7015/play/a00j
-#EXTINF:-1 group-title="INTERNET IPTV",Filmzone ATV
-http://ott-cdn.ucom.am/s48/04.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Kinoman ATV
-http://ott-cdn.ucom.am/s94/04.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Русский Бестселлер
-http://ott-cdn.ucom.am/s52/03.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Еврокино
-http://178.124.183.5/hls/JEDUS3FS7V/variant.m3u8?version=2
-#EXTINF:-1 group-title="INTERNET IPTV",Epic Drama
-http://185.176.117.243/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Epic Drama
-http://88.119.220.2/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Киноман
-http://ott-cdn.ucom.am/s94/index.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Родное Кино
+http://178.124.183.5/hls/CH_NTVPLUSNASHEKINO/variant.m3u8?version=2
 #EXTINF:-1 group-title="INTERNET IPTV",Русский Бестселер
 http://182.73.122.74:10005/bysid/420
 #EXTINF:-1 group-title="INTERNET IPTV",Русский детектив
@@ -548,8 +632,18 @@ http://182.73.122.74:10005/bysid/415
 http://ott-cdn.ucom.am/s95/index.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",НСТ
 http://ott-cdn.ucom.am/s87/index.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Amedia Premium
+http://151.0.48.26:8080/ch0135
+#EXTINF:-1 group-title="INTERNET IPTV",Amedia Hit
+http://151.0.48.26:8080/ch0134
 #EXTINF:-1 group-title="INTERNET IPTV",Amedia Premium HD
 http://178.124.183.5/hls/CH_AMEDIAPREMIUM/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",Amedia Hit HD
+http://178.124.183.5/hls/CH_AMEDIAHIT/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",Amedia 1 HD
+http://178.124.183.5/hls/CH_AMEDIA/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",Amedia 2
+http://178.124.183.5/hls/H4DP5GK3AE/variant.m3u8?version=2
 #EXTINF:-1 group-title="INTERNET IPTV",Amedia Premium
 http://ott-cdn.ucom.am/s64/index.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",A HBO
@@ -558,20 +652,24 @@ http://ott-cdn.ucom.am/s64/index.m3u8
 http://ott-cdn.ucom.am/s45/index.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Amedia 2
 http://ott-cdn.ucom.am/s33/index.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",KINO 24
-http://82.193.71.93/Kino24LV/video.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",DOCENT 13
+#EXTVLCOPT:http-user-agent=smartlabs
+https://hls.goodgame.ru/hls/64556.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",FAN HD
+http://217.25.216.4:8085/udp/238.2.29.234:1234
 #EXTINF:-1 group-title="INTERNET IPTV",КиноЗаказ 1
 http://hls.goodgame.ru/hls/12949.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",КиноЗаказ 2
 http://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",VHS TV
 http://51.254.59.155/hls/vhstv.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Severtv Kino
+#EXTVLCOPT:http-user-agent=smartlabs
+https://hls.goodgame.ru/hls/146065.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Классика кино HD
 http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Сделано в СССР HD
-http://cdn-a0pn7wmu.playlist-24.club/vFrwZBu0/p19YTcSe/playlist.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",PRO 100 TV
-http://82.193.71.93/Pro100TvRuSattelite/video.m3u8
+http://tv.ussr.icu/vFrwZBu0/p19YTcSe/playlist.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",U!Premium ATV
 http://ott-cdn.ucom.am/s83/index.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Armenia Comedy ATV
@@ -588,52 +686,87 @@ http://ott-cdn.ucom.am/s22/index.m3u8
 http://live.planeta-online.tv:1935/public/smil:channel_5.smil/chunklist_b858000.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",НТМ HD
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Discovery Channel
+http://78.157.230.19/streaming/discovery/364/gpu_tvrecw/playlist.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Discovery
-http://213.174.8.7:8000/play/24/index.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Discovery
-http://46.32.68.167/s/live/423/86.169.51.136/1/0.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",DTX HD
-http://212.12.194.10/dtxhd/live.m3u8
+http://220.79.125.230:8080/play/a002/index.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Discovery Channel
+http://109.248.236.41:4433/udp/238.1.1.124:1234
+#EXTINF:-1 group-title="INTERNET IPTV",Discovery channel
+http://46.32.68.167/s/live/423/816951136/819088191919/0.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Discovery Channel
+http://46.32.68.167/s/live/423/86.169.51.136/0/0.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",National Geographic
 http://178.124.183.5/hls/CH_NATGEO/variant.m3u8?version=2
 #EXTINF:-1 group-title="INTERNET IPTV",National Geographic HD
 http://185.176.117.243/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",National Geographic HD
 http://88.119.220.2/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Nat Geo HD
-http://213.252.252.2/live/eds/NatGeoHD/HLS_encr/NatGeoHD-audio_20000=96000-video=5000000.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Nat Geo Wild
-http://188.35.9.5:10020/stolen/487n/hot.dll
-#EXTINF:-1 group-title="INTERNET IPTV",NASA TV HD
-http://188.35.9.5:10020/stolen/483x/hot.dll
+http://178.124.183.5/hls/ESCMSBZJ8X/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",Nat Geo Wild HD
+http://46.32.68.167/s/live/915/86.169.51.136/0/0.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Investigation Discovery
+http://46.32.68.167/s/live/403/816951136/819088191919/0.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",DTX
+http://78.157.230.19/streaming/discoveryworld/364/gpu_tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",DTX
+http://46.32.68.167/s/live/410/816951136/819088191919/0.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",DTX
+http://46.32.68.167/s/live/410/86.169.51.136/0/0.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Animal Planet
+http://78.157.230.19/streaming/animalplanet/364/gpu_tvrecw/playlist.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Animal Planet HD
-http://46.32.68.167/s/live/918/86.169.51.136/1/0.m3u8
+http://220.79.125.230:8080/play/a01c/index.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Animal Planet HD
+http://46.32.68.167/s/live/918/86.169.51.136/0/0.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",TLC
-http://212.12.194.10/tlc/live.m3u8
+http://46.32.68.167/s/live/806/816951136/819088191919/0.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",TLC
+http://46.32.68.167/s/live/806/86.169.51.136/0/0.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",TLC HD
+http://213.234.9.46:7088/udp/239.1.11.4:1234
+#EXTINF:-1 group-title="INTERNET IPTV",Outdoor SD
+http://220.79.125.230:8080/play/a00g/index.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Outdoor HD
+http://188.113.190.12/170/video.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Galaxy
 http://178.124.183.5/hls/CH_GALAXY/variant.m3u8?version=2
-#EXTINF:-1 group-title="INTERNET IPTV",HDL
-http://178.124.183.5/hls/WGANFGLWPD/variant.m3u8?version=2
 #EXTINF:-1 group-title="INTERNET IPTV",History
 http://178.124.183.5/hls/CH_HISTORY/variant.m3u8?version=2
-#EXTINF:-1 group-title="INTERNET IPTV",Эврика HD
-http://92.43.140.249/s44/04.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Приключение HD
-http://92.43.140.249/s99/04.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Охотник и Рыболов HD
-http://92.43.140.249/s62/04.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",История
-http://92.43.140.249/s40/04.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Зоо ТВ
-http://92.43.140.249/s92/04.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Здоровье
-http://92.43.140.249/s90/04.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Загородный
-http://92.43.140.249/s31/04.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",В Мире Животных HD
+http://demo1.cdn.micro.im:63080/tXOTRkENh6dQf045/animalfamilyhd/chunklist.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Oхотник и Рыболов HD
+http://178.124.183.5/hls/4FDNBEDGFV/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",Охота и Рыбалка
+http://178.124.183.5/hls/VF5ELDF8AL/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",Усадьба
+http://178.124.183.5/hls/XMC4NSRVN9/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",Кухня ТВ
+http://178.124.183.5/hls/EPX2UEHLPK/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",Оружие
+http://178.124.183.5/hls/EWEXU8FWAZ/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",Драйв
+http://178.124.183.5/hls/6UTCEG6ATO/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",LOVE NATURE
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",LOVE NATURE 4K HD
+http://dmitry-tv.ru/his/itv_zabava/CH_LOVENATURE4K_HLSHD.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",LOVE NATURE 4K QHD
+http://dmitry-tv.ru/his/itv_zabava/CH_LOVENATURE4K_HLSQHD.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",LOVE NATURE 4K UHD
+http://dmitry-tv.ru/his/itv_zabava/CH_LOVENATURE4K_HLSUHD.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Eureka HD
+http://demo1.cdn.micro.im:63080/tXOTRkENh6dQf045/eurekahd/chunklist.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Fine Living
 http://ott-cdn.ucom.am/s51/index.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Дайвинг TV
 http://live.planeta-online.tv:1935/public/smil:channel_130.smil/chunklist_b2628000.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Travel Channel
+http://188.190.222.51/Travel_channel/mpegts
+#EXTINF:-1 group-title="INTERNET IPTV",Travel Channel HD
+http://46.32.68.167/s/live/925/86.169.51.136/0/0.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Travel Guid-TV
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Travel HD BG
@@ -642,12 +775,6 @@ http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 http://hls-edge.cdn.buy-home.tv/bhtvlive/_definst_/live/playlist.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Эврика
 http://ott-cdn.ucom.am/s44/index.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Da Vinci Kids
-http://213.174.8.7:11111/index.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Viasat Explore
-http://188.35.9.5:10020/stolen/485v/hot.dll
-#EXTINF:-1 group-title="INTERNET IPTV",Viasat History
-http://188.35.9.5:10020/stolen/486b/hot.dll
 #EXTINF:-1 group-title="INTERNET IPTV",Viasat Nature
 http://185.176.117.243/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Viasat Explorer HD
@@ -707,8 +834,8 @@ http://ott-cdn.ucom.am/s63/index.m3u8
 http://nano.teleservice.su:8080/hls/luxury.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",РЖД ТВ HD
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Еда Премиум HD
-http://now2.eaglecdn.com/stream/tveda_12/index.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",ЕДА ПРЕМИУМ HD
+http://178.124.183.5/hls/BCPKKUK5NT/variant.m3u8?version=2
 #EXTINF:-1 group-title="INTERNET IPTV",Food Network
 http://ott-cdn.ucom.am/s18/index.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Вкусное ТВ
@@ -726,37 +853,72 @@ http://hls.goodgame.ru/hls/152506.m3u8
 http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",ID Fashion HD
 http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",HD Fashion &amp; Lifestyle UA
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",World Fashion Channel Россия HD
 http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Eurosport 1
 http://195.162.90.141:8080/228ae58f824e7668c245ecb1e5c1c850
 #EXTINF:-1 group-title="INTERNET IPTV",Eurosport 2
 http://195.162.90.141:8080/440f706cdc90fc2a7b78e72a6d318ad9
-#EXTINF:-1 group-title="INTERNET IPTV",Eurosport 2
-http://50.7.244.58:8080/eurosport_2/video.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Eurosport 4K
-#EXTVLCOPT:http-user-agent=SmartLabs
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Setanta Sport
-http://ott-cdn.ucom.am/s81/index.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Setanta Sport HD
-http://92.46.127.146:8080/SetantaSport/index.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Setanta Sport Plus HD
-http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Конный Мир
-http://188.35.9.5:10007/stolen/162z/parasite.install
-#EXTINF:-1 group-title="INTERNET IPTV",Nickelodeon
-http://cooltv.dyndns.tv:8200/udp/239.255.3.20:1234
+#EXTINF:-1 group-title="INTERNET IPTV",Eurosport4K HD
+http://dmitry-tv.ru/his/itv_zabava/CH_EUROSPORT4K_HLSHD.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Eurosport4K QHD
+http://dmitry-tv.ru/his/itv_zabava/CH_EUROSPORT4K_HLSQHD.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Eurosport4K UHD
+http://dmitry-tv.ru/his/itv_zabava/CH_EUROSPORT4K_HLSUHD.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Russian Extreme Ultra HD
+http://dmitry-tv.ru/his/itv_zabava/CH_RUSSIANEXTREMEULTRA_HLSHD.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Russian Extreme Ultra QHD
+http://dmitry-tv.ru/his/itv_zabava/CH_RUSSIANEXTREMEULTRA_HLSQHD.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Russian Extreme Ultra UHD
+http://dmitry-tv.ru/his/itv_zabava/CH_RUSSIANEXTREMEULTRA_HLSUHD.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",OLYMPIC CHANNEL HD
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Setanta Sports 1
+http://178.124.183.12/hls/FWHTTL8YXU/variant.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Setanta Sports 2
+http://178.124.183.12/hls/5T3FNFICQ4/variant.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Setanta Sports HD
+http://178.124.183.5/hls/FWHTTL8YXU/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",Setanta Sports+ HD
+http://178.124.183.5/hls/5T3FNFICQ4/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",AD Sports 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",AD Sports 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Viasat Sport HD
+http://78.157.230.19/streaming/viasat_sport_hd/364/copy/playlist.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Nickelodeon
 http://185.176.117.243/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Nicktoons
 http://185.176.117.243/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Nick JR
+http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Cartoon Network
 http://178.124.183.5/hls/CNVX7JRQJI/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",Детский Мир
+http://178.124.183.5/hls/9F67L3DGIF/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",Мультимания
+http://178.124.183.5/hls/FBYQ8KG5HM/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",Мульт
+http://178.124.183.5/hls/5MWF7XUWZI/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",Boomerang
+http://178.124.183.5/hls/JSQ2S6VQTE/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",2x2
+http://178.124.183.5/hls/EU9VTLDQCN/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",Gulli Girl
+http://178.124.183.5/hls/7FFGONY2N8/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",Tiji
+http://178.124.183.5/hls/Q0HVVEIKSQ/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",Disney канал
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",2x2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="INTERNET IPTV",Disney Channel
 http://88.119.220.2/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Disney Channel
-http://188.35.9.5:10007/stolen/199w/parasite.install
 #EXTINF:-1 group-title="INTERNET IPTV",Disney Junior
 http://185.176.117.243/live/eds/Disney_Junior/HLS_encr/Disney_Junior.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Disney Junior
@@ -765,27 +927,32 @@ http://88.119.220.2/live/eds/Disney_Junior/HLS_encr/Disney_Junior.m3u8
 http://185.176.117.243/live/eds/Disney_XD/HLS_encr/Disney_XD.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Disney канал
 http://185.176.117.243/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Піксель
-http://188.35.9.5:10007/stolen/139e/parasite.install
+#EXTINF:-1 group-title="INTERNET IPTV",Карусель
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV" ,Малятко
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Tiji
 http://ott-cdn.ucom.am/s59/index.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Рыжий
 http://ott-cdn.ucom.am/s57/index.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Tuntunik
 http://ott-cdn.ucom.am/s46/index.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Мультимания 
-http://82.193.71.93/MultimaniaLV/video.m3u8 
 #EXTINF:-1 group-title="INTERNET IPTV",СКАЗКИ ЗАЙКИ
 http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Мама 
 http://ott-cdn.ucom.am/s77/index.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Трансляция HD
-#EXTVLCOPT:http-user-agent=smartlabs
-http://hls.goodgame.ru/hls/145300.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",1 Music Channel
-http://stream.1music.hu/stream/1music.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Russian MusicBox
 http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",1HD Music
+https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",RU TV
+http://178.124.183.5/hls/XW6AGFSZJ8/variant.m3u8?version=2?seg-user-4pda-denms-ru-v1-a1
+#EXTINF:-1 group-title="INTERNET IPTV",RU TV HD
+http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",NRJ Hits
+http://5be019f0d8c6e.streamlock.net:1935/ngroup/NRJHitsTV_720p/playlist.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",One.by
 http://rtmp.one.by:1200
 #EXTINF:-1 group-title="INTERNET IPTV",One.by 4K
@@ -796,18 +963,25 @@ http://rtmp.one.by:1300
 http://rtmp.one.by:2200
 #EXTINF:-1 group-title="INTERNET IPTV",One.by Россия HD
 http://rtmp.one.by:2300
-#EXTINF:-1 group-title="INTERNET IPTV",Deluxe Music HD
-http://188.35.9.5:10007/stolen/200b/parasite.install
+#EXTINF:-1 group-title="INTERNET IPTV",BRiDGE TV
+http://46.32.68.167/s/live/110/86.169.51.136/0/0.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Bridge TV
-http://plmgr-bridgemedia.cdnvideo.ru/bridge_tv/playlist.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Bridge TV HD
-http://plmgr-bridgemedia.cdnvideo.ru/bridge_hd/playlist.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Bridge TV Classic
-http://plmgr-bridgemedia.cdnvideo.ru/bridge_classic/playlist.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Bridge TV Dance
-http://plmgr-bridgemedia.cdnvideo.ru/bridge_dance/playlist.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Bridge TV Русский Хит
-http://plmgr-bridgemedia.cdnvideo.ru/bridge_rus_hit/playlist.m3u8
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s34/04.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Муз-ТВ
+https://strm.yandex.ru/kal/muztv_supres/muztv_supres0.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",МузСоюз
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Страна FM HD
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Ля-минор ТВ
+http://178.124.183.5/hls/CH_LYAMINOR/variant.m3u8?version=2
+#EXTINF:-1 group-title="INTERNET IPTV",М2
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Муз ТВ
+http://ott-cdn.ucom.am/s28/04.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",МУЗ ТВ
+http://dmitry-tv.ru/his/itv_zabava/CH_MUZTV.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Kronehit HD
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Kral HD
@@ -823,16 +997,18 @@ http://85.143.202.116/hls/viva.m3u8
 http://hls.goodgame.ru/hls/147367.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Deejay TV
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Eurodance 90
+https://autopilot.catcast.me/content/36987/index.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",Шансон ТВ
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+#EXTINF:-1 group-title="INTERNET IPTV",Жар Птица
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",MTV HD
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",MTV HITS
 http://182.73.122.74:10005/bysid/412
 #EXTINF:-1 group-title="INTERNET IPTV",Retro Music Tv 
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-#EXTINF:-1 group-title="INTERNET IPTV",Eurodance 90
-https://autopilot.catcast.me/content/36987/index.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",BeBlack Africa
 http://ec.playmedia.fr/beblack/africa/playlist.m3u8
 #EXTINF:-1 group-title="INTERNET IPTV",BeBlack Caribbean
