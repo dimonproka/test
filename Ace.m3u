@@ -1,4 +1,102 @@
 #EXTM3U
+#EXTINF:-1,Cartoon network
+acestream://c37b5c6625f7cd01976300ee000a5279e96afae6
+#EXTINF:-1,Nick Jr
+acestream://de940c9bdf80b702bf627196c5593f4b84e6b33e
+#EXTINF:-1,Nickelodeon HD
+acestream://031ef952db1903fee04541ac5090de308a8ba566
+#EXTINF:-1,В гостях у сказки
+acestream://7fc09845ec7a75283f22147697b5475f5da475b7
+#EXTINF:-1,Канал Disney
+acestream://fc61ebd287c68dd88bb0acb8327d91817ccfb1de
+#EXTINF:-1,Канал О!
+acestream://6d1fa776e6036d75cd2b53a188f8be351f24a5ad
+#EXTINF:-1,Карусель
+acestream://4580840e267b62796891781241ea66a4c2ec9f30
+#EXTINF:-1,Мульт
+acestream://472e28919c04ac5649b757dacc1de6743dadf5e4
+#EXTINF:-1,Тлум HD
+acestream://52dc5025e0ed31a6f75ebfaaaef45b87ccf3d4ed
+#EXTINF:-1,AXN Sci-Fi
+acestream://89b9742c5623772f78f70a073059bc96083e1aca
+#EXTINF:-1,Sony Entertainment Television
+acestream://8789f606f62a64354d6612dabeef0863d3e2bda5
+#EXTINF:-1,Sony Turbo
+acestream://262395e86f4c3393dddb9f1faac4f293825ccf08
+#EXTINF:-1,Amedia 1
+acestream://32806720cc363a53ac0ae2791a005a02cd252ee8
+#EXTINF:-1,AMEDIA HIT
+acestream://0bfc429fafe7563f70ec4e1b69541de0aa738e1e
+#EXTINF:-1,Amedia Premium HD
+acestream://8418cfd5a4af2e384f02040f5950211bd47a00a0
+#EXTINF:-1,Cinema
+acestream://37b8b079403db486226e894ce0a64cb26b81fa08
+#EXTINF:-1,Fox Life Россия
+acestream://e1b682595ae741b97327f2319742c0c29db711b2
+#EXTINF:-1,Fox Россия
+acestream://d19479886c008e532ce21d31680cc5f76ba554c8
+#EXTINF:-1,Paramount Comedy
+acestream://1b4696e85c29c86ecaf1abbcf423c136039bf6ee
+#EXTINF:-1,Paramount
+acestream://4c1abbb5396ff7373ba49b5280cd70db50c39147
+#EXTINF:-1,TV 1000 Action
+acestream://bdcd46d5b6b08a85fbcb0146a707f339a897085c
+#EXTINF:-1,TV 1000
+acestream://1c6ef905c025dd41d420ac7ac41f46c9b9145600
+#EXTINF:-1,TV 1000 Русское кино
+acestream://6051bab20caf4dd19c09c7e334fa2c49fc4c56ab
+#EXTINF:-1,VIP Comedy
+acestream://3e9dfa075eaac432d7fd95ea21aa05db4c559a65
+#EXTINF:-1,VIP Megahit
+acestream://f5c5472b4c33da87d8b185cb62566c7012b68c5a
+#EXTINF:-1,VIP Premiere
+acestream://844466e115fe5dc0a9dfe5abc59ab14ccf1dd547
+#EXTINF:-1,Дом кино
+acestream://76dba6f9ac67300ef94b693af84f193a5e39aa29
+#EXTINF:-1,Дом кино Премиум HD
+acestream://863878744814575d1686df2d2a6250d5eda64a22
+#EXTINF:-1,Индийское кино
+acestream://ef89b27a6553cae3d26b1c3886381cafaf7273ed
+#EXTINF:-1,КИНО ТВ
+acestream://69cae515f1b88f3695e09a55988295b2fe9b9e61
+#EXTINF:-1,Шокирующее
+acestream://6b2c7666f66555204c33ce5e523b8e56fe00d743
+#EXTINF:-1,Кинопоказ HD-2
+acestream://da116afe3adb4831f53e87d118b1f8c650b719d8
+#EXTINF:-1,НСТ
+acestream://3bb375057c45b97e7f5eff59e547fcc3d01f5fe1
+#EXTINF:-1,Наш Детектив HD
+acestream://e106287c1fffac59668f0193e1cdb0e0d86037f7
+#EXTINF:-1,Наш Кинороман HD
+acestream://1a52808675389dcfc4474d0bb268c4a6ce927ed3
+#EXTINF:-1,Наше новое кино
+acestream://b02585279dc4d5b48de356941874a69aa570251a
+#EXTINF:-1,Остросюжетное HD
+acestream://84b27b33a6e7b057904e667684136bc108371f6c
+#EXTINF:-1,РОДНОЕ КИНО
+acestream://d0ca319ff96f596771f3f8ef887528eea95120de
+#EXTINF:-1,Русская Комедия
+acestream://ac3c74ae7da904c1a5c6247f334f0dfbd089fcd0
+#EXTINF:-1,Русский детектив
+acestream://99d2a9e0011778100e05eca8b0116375b3062e7f
+#EXTINF:-1,Русский Иллюзион
+acestream://f4ecf0af2c5f6e72024de7d7703a919c9ac7af87
+#EXTINF:-1,Кинохит
+acestream://17a7bdf381d98ea110654d230a22b08136cc6d7b
+#EXTINF:-1,Киносемья
+acestream://8e41521482e2daf70b032dea8348abc06f58192a
+#EXTINF:-1,Киномикс
+acestream://bfa49750d8153978629b6dcffcd13d0a59cb35a0
+#EXTINF:-1,Родное Кино
+acestream://d0ca319ff96f596771f3f8ef887528eea95120de
+#EXTINF:-1,Мужское кино
+acestream://6976c8024012ae13de8cd5003d463983f398a9df
+#EXTINF:-1,Наше Новое Кино
+acestream://b02585279dc4d5b48de356941874a69aa570251a
+#EXTINF:-1,Киносвидание
+acestream://10e5781bbfac4fed4059c2084cb4bef3b4c338a5
+#EXTINF:-1,ТВ XXI
+acestream://191e2dd8e5017cd78c29bb605603a92c14c20588
 #EXTINF:-1,24Техно
 acestream://59d6a51f5bdcdf2f8d861e0bf14856172a7fcbdc
 #EXTINF:-1,365 дней ТВ
@@ -161,108 +259,6 @@ acestream://e6eb125a5b314f84697e5f4ba3a937b272081850
 acestream://1bc39383ec59589802efe4ae4e610e8a014e1946
 #EXTINF:-1,Россия 24
 acestream://4572f64d3ed7636a341a5446933bdb0d76a92232
-#EXTINF:-1,Cartoon network
-acestream://c37b5c6625f7cd01976300ee000a5279e96afae6
-#EXTINF:-1,Nick Jr
-acestream://de940c9bdf80b702bf627196c5593f4b84e6b33e
-#EXTINF:-1,Nickelodeon HD
-acestream://031ef952db1903fee04541ac5090de308a8ba566
-#EXTINF:-1,В гостях у сказки
-acestream://7fc09845ec7a75283f22147697b5475f5da475b7
-#EXTINF:-1,Канал Disney
-acestream://fc61ebd287c68dd88bb0acb8327d91817ccfb1de
-#EXTINF:-1,Канал О!
-acestream://6d1fa776e6036d75cd2b53a188f8be351f24a5ad
-#EXTINF:-1,Карусель
-acestream://4580840e267b62796891781241ea66a4c2ec9f30
-#EXTINF:-1,Мульт
-acestream://472e28919c04ac5649b757dacc1de6743dadf5e4
-#EXTINF:-1,Тлум HD
-acestream://52dc5025e0ed31a6f75ebfaaaef45b87ccf3d4ed
-#EXTINF:-1,AXN Sci-Fi
-acestream://89b9742c5623772f78f70a073059bc96083e1aca
-#EXTINF:-1,Sony Entertainment Television
-acestream://8789f606f62a64354d6612dabeef0863d3e2bda5
-#EXTINF:-1,Sony Turbo
-acestream://262395e86f4c3393dddb9f1faac4f293825ccf08
-#EXTINF:-1,Amedia 1
-acestream://32806720cc363a53ac0ae2791a005a02cd252ee8
-#EXTINF:-1,AMEDIA HIT
-acestream://0bfc429fafe7563f70ec4e1b69541de0aa738e1e
-#EXTINF:-1,Amedia Premium HD
-acestream://8418cfd5a4af2e384f02040f5950211bd47a00a0
-#EXTINF:-1,Cinema
-acestream://37b8b079403db486226e894ce0a64cb26b81fa08
-#EXTINF:-1,Fox Life Россия
-acestream://e1b682595ae741b97327f2319742c0c29db711b2
-#EXTINF:-1,Fox Россия
-acestream://d19479886c008e532ce21d31680cc5f76ba554c8
-#EXTINF:-1,Paramount Comedy
-acestream://1b4696e85c29c86ecaf1abbcf423c136039bf6ee
-#EXTINF:-1,Paramount
-acestream://4c1abbb5396ff7373ba49b5280cd70db50c39147
-#EXTINF:-1,TV 1000 Action
-acestream://bdcd46d5b6b08a85fbcb0146a707f339a897085c
-#EXTINF:-1,TV 1000
-acestream://1c6ef905c025dd41d420ac7ac41f46c9b9145600
-#EXTINF:-1,TV 1000 Русское кино
-acestream://6051bab20caf4dd19c09c7e334fa2c49fc4c56ab
-#EXTINF:-1,VIP Comedy
-acestream://3e9dfa075eaac432d7fd95ea21aa05db4c559a65
-#EXTINF:-1,VIP Megahit
-acestream://f5c5472b4c33da87d8b185cb62566c7012b68c5a
-#EXTINF:-1,VIP Premiere
-acestream://844466e115fe5dc0a9dfe5abc59ab14ccf1dd547
-#EXTINF:-1,Дом кино
-acestream://76dba6f9ac67300ef94b693af84f193a5e39aa29
-#EXTINF:-1,Дом кино Премиум HD
-acestream://863878744814575d1686df2d2a6250d5eda64a22
-#EXTINF:-1,Индийское кино
-acestream://ef89b27a6553cae3d26b1c3886381cafaf7273ed
-#EXTINF:-1,КИНО ТВ
-acestream://69cae515f1b88f3695e09a55988295b2fe9b9e61
-#EXTINF:-1,Киномикс
-acestream://bfa49750d8153978629b6dcffcd13d0a59cb35a0
-#EXTINF:-1,Шокирующее
-acestream://6b2c7666f66555204c33ce5e523b8e56fe00d743
-#EXTINF:-1,Кинопоказ HD-2
-acestream://da116afe3adb4831f53e87d118b1f8c650b719d8
-#EXTINF:-1,МУЖСКОЕ КИНО
-acestream://6976c8024012ae13de8cd5003d463983f398a9df
-#EXTINF:-1,НСТ
-acestream://3bb375057c45b97e7f5eff59e547fcc3d01f5fe1
-#EXTINF:-1,Наш Детектив HD
-acestream://e106287c1fffac59668f0193e1cdb0e0d86037f7
-#EXTINF:-1,Наш Кинороман HD
-acestream://1a52808675389dcfc4474d0bb268c4a6ce927ed3
-#EXTINF:-1,Наше новое кино
-acestream://b02585279dc4d5b48de356941874a69aa570251a
-#EXTINF:-1,Остросюжетное HD
-acestream://84b27b33a6e7b057904e667684136bc108371f6c
-#EXTINF:-1,РОДНОЕ КИНО
-acestream://d0ca319ff96f596771f3f8ef887528eea95120de
-#EXTINF:-1,Русская Комедия
-acestream://ac3c74ae7da904c1a5c6247f334f0dfbd089fcd0
-#EXTINF:-1,Русский детектив
-acestream://99d2a9e0011778100e05eca8b0116375b3062e7f
-#EXTINF:-1,Русский Иллюзион
-acestream://f4ecf0af2c5f6e72024de7d7703a919c9ac7af87
-#EXTINF:-1,Кинохит
-acestream://17a7bdf381d98ea110654d230a22b08136cc6d7b
-#EXTINF:-1,Киносемья
-acestream://8e41521482e2daf70b032dea8348abc06f58192a
-#EXTINF:-1,Киномикс
-acestream://bfa49750d8153978629b6dcffcd13d0a59cb35a0
-#EXTINF:-1,Родное Кино
-acestream://d0ca319ff96f596771f3f8ef887528eea95120de
-#EXTINF:-1,Мужское кино
-acestream://6976c8024012ae13de8cd5003d463983f398a9df
-#EXTINF:-1,Наше Новое Кино
-acestream://b02585279dc4d5b48de356941874a69aa570251a
-#EXTINF:-1,Киносвидание
-acestream://10e5781bbfac4fed4059c2084cb4bef3b4c338a5
-#EXTINF:-1,ТВ XXI
-acestream://191e2dd8e5017cd78c29bb605603a92c14c20588
 #EXTINF:-1,Bridge HD
 acestream://88e92f885eb068d713d3632acdfdd4ed1e797ba0
 #EXTINF:-1,Europa Plus TV
@@ -287,166 +283,6 @@ acestream://a8f79b03a063b021c645821488300a5367585d74
 acestream://d462e00b50332f176f2f19b8f21ae83bda67922f
 #EXTINF:-1,Шансон ТВ
 acestream://43fd43476b64eab93a69dbeb841821c9fcbbcd2b
-#EXTINF:-1,BT Sport 1 HD
-acestream://0d86b286758dd04f114780b2191014077969bd20
-#EXTINF:-1,BT Sport 2 HD
-acestream://633e49f1ee4dedc6dd09f74abe6517e81d5c1b66
-#EXTINF:-1,BT Sport 3 HD
-acestream://587724a510817c2106dc296708b5b63cdc0083b0
-#EXTINF:-1,BT Sport ESPN HD
-acestream://20f4282c35e46101fd06f5b675753412a26d12b4
-#EXTINF:-1,Bein Sport HD11
-acestream://cc95ce0afda0f0aaad248325353bcef668c05042
-#EXTINF:-1,C More Sport 1 Finland
-acestream://c19c75c16c69da6098f6a3a2d143f6ce86ca0aac
-#EXTINF:-1,CBC Sport HD
-acestream://1686f63bd248cf1c412b0a8744c3c5dc3ac48375
-#EXTINF:-1,Chelsea TV
-acestream://fde8184993ababc7b5cc931c86a423256b82be75
-#EXTINF:-1,Diema Sport 2
-acestream://b56c4c030e66baec8f9b65a88a84b5646722aa4c
-#EXTINF:-1,Dota 2TV HD
-acestream://46dc72e9c8971fcdb386e7546013107fbe2323e9
-#EXTINF:-1,Dota2 TV
-acestream://46dc72e9c8971fcdb386e7546013107fbe2323e9
-#EXTINF:-1,Eir Sport 1 HD
-acestream://19658ab75306faee021ab227dd9cf325553c9bd2
-#EXTINF:-1,Eir Sport 2 HD
-acestream://653e8143eeb1de09f8cf9d9962bf38048a561382
-#EXTINF:-1,Eurosport 1
-acestream://95c3cbe5f0fc61530e587df0f0dffb9c61f41b91
-#EXTINF:-1,Eurosport 1 HD
-acestream://2f155a8f8e3b3e8ea22062f99bdfc8ccef1795ec
-#EXTINF:-1,Eurosport 2
-acestream://52cce5761784ee21ef370d5bae0a53f508a77d35
-#EXTINF:-1,Eurosport 2 HD
-acestream://8dbec960d442375de6e57768148a37fd41f04eec
-#EXTINF:-1,Eurosport News
-acestream://458b8298bad3303503cd97262033e478ec09ab51
-#EXTINF:-1,Extreme Sports
-acestream://c9e9be0e410a5c24ed20a8063c381a5c16c0e272
-#EXTINF:-1,Extreme Sports (резерв)
-acestream://e659b7bac73ddacc081453539063025754e32258
-#EXTINF:-1,FightBox
-acestream://c1c3541e65050f62d1710089fc4d779fc71edf3f
-#EXTINF:-1,FightBox HD
-acestream://af3f92736f23a7fcf7150fe25b2a38054680af18
-#EXTINF:-1,Idman TV
-acestream://c98df306f1d2263a2671e8c803ab95423c9dec87
-#EXTINF:-1,Nautical Channel HD
-acestream://9fd3a7f92708ff96a544c483199b7560e5ecbf04
-#EXTINF:-1,Real Madrid TV
-acestream://64c361fac675cd709ed08bf232d2d4481235a8b2
-#EXTINF:-1,Setanta Sports Eurasia HD
-acestream://6df4b9fa5c5a67816bed437433b82edbcc4fb8b3
-#EXTINF:-1,Sky Bundesliga 1
-acestream://30fb246c92a76538e186d4119ed2287bdff1c439
-#EXTINF:-1,Sky Sport 2 HD De
-acestream://307d3a7fc7209d079062d6f92ff0e78c24554739
-#EXTINF:-1,Sky Sport News De
-acestream://7b1654c70e925413a0576736eb3ece679c3a364d
-#EXTINF:-1,Sky Sports 1 German
-acestream://e10b216f056d5183bb3c785f074e7d0abea93a7f
-#EXTINF:-1,Sky Sports 2 German
-acestream://e6d7a349c9a6f9e231b713e46e927fa4df84c61b
-#EXTINF:-1,Sky Sports Action HD
-acestream://997c431b79bd6fa86bed819e90477b2cfd4d42b8
-#EXTINF:-1,Sky Sports Arena HD
-acestream://2bf4419ac296ddc5a178e4a3dd99d944a8d88e91
-#EXTINF:-1,Sky Sports Cricket HD
-acestream://b48e4efab0f1624610afee4fc93b7a1a46b1cfe0
-#EXTINF:-1,Sky Sports F1 HD
-acestream://7666edda3c23bbd33f97224329ef39adeb2f44e7
-#EXTINF:-1,Sky Sports Football HD
-acestream://6f18b9f0aaac9400fc55e5841bd71568694e751a
-#EXTINF:-1,Sky Sports Golf HD
-acestream://72312ffcbf13995d5500353526e3f39e03be2561
-#EXTINF:-1,Sky Sports Main Event HD
-acestream://beb6d27b2023f0bdec1880a42fafc1bf70e6521d
-#EXTINF:-1,Sky Sports Mix HD
-acestream://da0a6412b3bf580b1f1c987dea55474d340989ba
-#EXTINF:-1,Sky Sports Premiere League HD
-acestream://7404eec0df36ba4ba6caec7203c331c064e42680
-#EXTINF:-1,Sport 2 HD Il
-acestream://b5838f14ee0f0017d46d48dcf99abeccd619af17
-#EXTINF:-1,Super Tennis HD
-acestream://2008466e6de1887187a99f395b76801270e33a08
-#EXTINF:-1,Viasat Fotboll
-acestream://ad6df06cb64a764de31de6d39ce08bf7f25a0307
-#EXTINF:-1,Viasat Golf
-acestream://d86eb378f4dcd6c3f26f34b9edaeb56d5bf5ed4b
-#EXTINF:-1,Viasat Motor HD
-acestream://c1d060cc67b0dfdf7fbf528848d68d35e7f941dd
-#EXTINF:-1,Viasat Sport
-acestream://15fb1fc9cfd5e556e32a12ef42a9f99d2f036870
-#EXTINF:-1,Viasat Sport Baltic
-acestream://05cf354a9179a06925c6e8f07fe97822b3c9af32
-#EXTINF:-1,Viasat Sport HD
-acestream://632514e506218ebf0e5630277dc33099224b89a0
-#EXTINF:-1,XSport
-acestream://ca5a7ad9209b591b32f0fa408ed5b191bc04338c
-#EXTINF:-1,КТРК Спорт
-acestream://0dd234f5e146bea0dfa3e8dd765e75ab0afb8af1
-#EXTINF:-1,КХЛ HD
-acestream://d76fd00ff1cf62192730c11082f93b1d30b66665
-#EXTINF:-1,КХЛ ТВ
-acestream://14347376e6cd1df6fe85b4d5c2aec6942f822548
-#EXTINF:-1,Конный мир
-acestream://d75d9e8a3a5e2d3156b2b58208a1c178bc2a2366
-#EXTINF:-1,Конный мир HD
-acestream://7ac62883f570d0a65f95f8227b4aabbedfa6f2a0
-#EXTINF:-1,Матч ТВ
-acestream://87331a8a82ea06f6068f714cd35d99b858a47ab5
-#EXTINF:-1,Матч ТВ HD
-acestream://82deb225dea5adf886ac2361092b9a8019e614ee
-#EXTINF:-1,Матч! Арена
-acestream://73e7c6ec7ec77e2e0de9b703e2b3d132b3236448
-#EXTINF:-1,Матч! Арена HD
-acestream://14c98a7808b7f3db2883a641de6b53a59a96ef27
-#EXTINF:-1,Матч! Игра
-acestream://e38794b312284af74646a62804e2ca49511f37fe
-#EXTINF:-1,Матч! Игра HD
-acestream://3c15fe3279e0d9e39a86a2d47c76dfcdd5a3ecd9
-#EXTINF:-1,Матч! Наш Спорт
-acestream://1900e9d1dc6c67f722a6d2c8e5a27d649627dc72
-#EXTINF:-1,Матч! Планета
-acestream://8eaff1df525c1dd67bb0b05ea60fe3ecd331c6b4
-#EXTINF:-1,Матч! Футбол 1
-acestream://a05a8a479e27d3a5ac1cec3e98e662fce39efc05
-#EXTINF:-1,Матч! Футбол 1 HD
-acestream://d4dec2dfa3f8581a5dba3f5cdfb12c9193f5f066
-#EXTINF:-1,Матч! Футбол 1 HD Резерв 1
-acestream://10adc86835d1e90195a084856f49f79cada6c82e
-#EXTINF:-1,Матч! Футбол 1 HD Резерв 2
-acestream://a54f62a865de6a55825411ea4dfd0ceba604f584
-#EXTINF:-1,Матч! Футбол 1 HD Резерв 3
-acestream://77285b987253d7a9469f0b4d0b13e17e5b20cfd5
-#EXTINF:-1,Матч! Футбол 1 Резерв 1
-acestream://6e7b8734a9eae328084be598d33c190fd0a78886
-#EXTINF:-1,Матч! Футбол 1 Резерв 2
-acestream://0caac083cc90e5a52ae9b0c21e3c4b91898f5e3f
-#EXTINF:-1,Матч! Футбол 1 Резерв 3
-acestream://4acd2d1b162d836e91322c66016aeb251882732d
-#EXTINF:-1,Матч! Футбол 2
-acestream://6ccc8c7b3c8685873c1ccb62a2079c24f414503f
-#EXTINF:-1,Матч! Футбол 2 HD
-acestream://4758ad89dcf634fdf4bbfbcd1f79fa083d6b9713
-#EXTINF:-1,Матч! Футбол 3
-acestream://5b6a7ad938b0bc9a686403354751b65b9614f3ee
-#EXTINF:-1,Матч! Футбол 3 HD
-acestream://7eb5ae4ed45ab657b2eea0815aca3d1245ad87df
-#EXTINF:-1,Спорт 1 (Украина)
-acestream://1e51177960520569a8773780610b82b547017ea0
-#EXTINF:-1,Спорт 2 (Украина)
-acestream://abcf38615778d302b341d62c04bcfe282fbd2f13
-#EXTINF:-1,Футбол
-acestream://828915184ea4cae051142d480011047bb2acd273
-#EXTINF:-1,Футбол 1 (Украина)
-acestream://2ca692e7830cb896c8a562138151dbeb45e8c894
-#EXTINF:-1,Футбол 2 (Украина)
-acestream://8a0697886962a6c51ec87acefa11553fd5243266
-#EXTINF:-1,Футбол 2 HD
-acestream://8086a59387119bb5c00cf3116266c33eb477dafb
 #EXTINF:-1,Candy HD
 acestream://8a0c2a4bfd4692851158902e692c5f9f89bd4acc
 #EXTINF:-1,Playboy TV
