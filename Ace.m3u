@@ -55,8 +55,6 @@ acestream://844466e115fe5dc0a9dfe5abc59ab14ccf1dd547
 acestream://76dba6f9ac67300ef94b693af84f193a5e39aa29
 #EXTINF:-1,Дом кино Премиум HD
 acestream://863878744814575d1686df2d2a6250d5eda64a22
-#EXTINF:-1,Индийское кино
-acestream://ef89b27a6553cae3d26b1c3886381cafaf7273ed
 #EXTINF:-1,КИНО ТВ
 acestream://69cae515f1b88f3695e09a55988295b2fe9b9e61
 #EXTINF:-1,Шокирующее
@@ -69,12 +67,8 @@ acestream://3bb375057c45b97e7f5eff59e547fcc3d01f5fe1
 acestream://e106287c1fffac59668f0193e1cdb0e0d86037f7
 #EXTINF:-1,Наш Кинороман HD
 acestream://1a52808675389dcfc4474d0bb268c4a6ce927ed3
-#EXTINF:-1,Наше новое кино
-acestream://b02585279dc4d5b48de356941874a69aa570251a
 #EXTINF:-1,Остросюжетное HD
 acestream://84b27b33a6e7b057904e667684136bc108371f6c
-#EXTINF:-1,РОДНОЕ КИНО
-acestream://d0ca319ff96f596771f3f8ef887528eea95120de
 #EXTINF:-1,Русская Комедия
 acestream://ac3c74ae7da904c1a5c6247f334f0dfbd089fcd0
 #EXTINF:-1,Русский детектив
@@ -95,6 +89,8 @@ acestream://6976c8024012ae13de8cd5003d463983f398a9df
 acestream://b02585279dc4d5b48de356941874a69aa570251a
 #EXTINF:-1,Киносвидание
 acestream://10e5781bbfac4fed4059c2084cb4bef3b4c338a5
+#EXTINF:-1,Индийское кино
+acestream://ef89b27a6553cae3d26b1c3886381cafaf7273ed
 #EXTINF:-1,ТВ XXI
 acestream://191e2dd8e5017cd78c29bb605603a92c14c20588
 #EXTINF:-1,24Техно
